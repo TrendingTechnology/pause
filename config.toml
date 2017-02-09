@@ -10,7 +10,7 @@ theme = "casper"
 description = ""
 cover = "images/cover.jpg"
 logo = "images/logo.png"
-googleAnalyticsUserID = "example"
+googleAnalyticsUserID = "UA-44406328-7"
 
 githubName = "matsuoshi"
 twitterName = "matsuoshi"

@@ -1,4 +1,4 @@
-baseurl = "https://sound.ml"
+baseurl = "https://sound.ml/"
 title = "sound.ml"
 languageCode = "ja"
 paginate = 10

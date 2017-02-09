@@ -1,30 +1,39 @@
 baseurl = "https://sound.ml/"
+languageCode = "jp"
 title = "sound.ml"
-languageCode = "ja"
-paginate = 10
-Copyright = "sound.ml 2017"
-canonifyurls = true
-theme = "casper"
+theme = "cactus-plus"
+googleAnalytics = "UA-44406328-7"
 
 [params]
-description = ""
-cover = "images/cover.jpg"
-logo = "images/logo.png"
-googleAnalyticsUserID = "UA-44406328-7"
+  name = "sound.ml"
+  description = "sound.ml"
+  bio = ""
+  copyright = "© 2017 sound.ml"
+#  twitter = "your_twotter"
+#  enableRSS = false
 
-githubName = "matsuoshi"
-twitterName = "matsuoshi"
+  # Use description as title in single page, posts page and tags page.
+  useDescriptionAsTitle = false
 
-author = "matsuoshi"
-authorlocation = "Kobe, Japan"
-authorwebsite = "https://sound.ml/"
-#bio= "my bio"
-# Optional RSS-Link, if not provided it defaults to the standard index.xml
-#RSSLink = "http://feeds.feedburner.com/..."
-# facebookName = ""
-# linkedinName = ""
-# set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-hideHUGOSupport = false
+  # Enable googleAnalytics
+  enableGoogleAnalytics = true
 
-[params.social]
-#twitter = "your_twitter"
+  # Add custom assets with their paths relative to the static folder
+  customCSS = ["css/custom.css"]
+  customJS  = []
+
+  # 404 page
+  title404 = ""
+  subtitle404 = ""
+
+  # Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+  iconFont = "font-awesome"
+  # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+  socialIconStyle = ""
+
+
+# Add additional social link entries underneath
+[social]
+  facebook-square = "https://facebook.com/matsuoshi"
+  twitter-square = "https://twitter.com/matsuoshi"
+  github-square = "https://github.com/matsuoshi"

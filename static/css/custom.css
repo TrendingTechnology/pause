@@ -13,10 +13,13 @@
 .post figure {
     margin: 20px 0;
 }
+.post iframe {
+    margin-bottom: 20px;
+}
 .post .embed-content {
     position: relative;
     width: 100%;
-    padding: 56.25% 0 0 0;  // 9/16 = 56.25%
+    padding: 56.25% 0 0 0;
     margin: 2em 0;
 }
 .post .embed-content iframe {

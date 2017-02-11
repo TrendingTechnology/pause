@@ -53,6 +53,13 @@ nav.main-nav .main-nav-title a:hover {
     height: 100%;
 }
 
+
+#social a.symbol {
+    font-size: 1.6em;
+    margin: 0 .3em;
+}
+
+
 img {
     width: auto;
 }

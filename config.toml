@@ -1,14 +1,14 @@
-baseurl = "https://sound.ml/"
+baseurl = "https://pause.cf/"
 languageCode = "jp"
-title = "sound.ml"
+title = "pause.cf"
 theme = "cactus-plus"
 googleAnalytics = "UA-44406328-7"
 
 [params]
-  name = "sound.ml"
-  description = "sound.ml"
+  name = "pause"
+  description = "pause.cf"
   bio = ""
-  copyright = "© 2017 sound.ml"
+  copyright = "© 2017 pause.cf"
 #  twitter = "your_twotter"
 #  enableRSS = false
 

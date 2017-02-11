@@ -1,7 +1,10 @@
 <nav class="main-nav">
 	{{ $url := replace .Permalink .Site.BaseURL "" }}
-	{{ if not .IsHome }}
-		<a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
+
+	{{ if .IsPage}}
+	<h1 class="main-nav-title">
+		<a href='{{ .Site.BaseURL }}'><i class="fa fa-pause-circle"></i> {{ .Site.Params.name }}</a>
+	</h1>
 	{{ end }}
 
 	{{ if ne $url "post/" }}

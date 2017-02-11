@@ -3,6 +3,29 @@
     max-width: 900px;
 }
 
+.main-nav {
+    position: relative;
+}
+.main-nav-title {
+    font-size: inherit;
+    position: absolute;
+    top: 20px;
+    left: 0;
+    font-weight: normal;
+}
+nav.main-nav .main-nav-title a {
+    font-size: 14px;
+    color: #999;
+}
+nav.main-nav .main-nav-title a:hover {
+    color: #BCD4DA;
+}
+.main-nav-title .fa {
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+
 .post h2.headline .tags {
   text-transform: none;
 }

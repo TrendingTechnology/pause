@@ -1,9 +1,10 @@
 <div class="profile">
     <section id="wrapper">
         <header id="header">
-            <img id="avatar" class="2x" src="{{ .Site.BaseURL }}images/avatar.png"/>
-            <h1>{{ .Site.Params.name }}</h1>
-            <h2>{{ .Site.Params.bio | markdownify }}</h2>
+            <a href="/">
+                <img id="avatar" class="2x" src="{{ .Site.BaseURL }}images/favicon.ico"/>
+                <h1>{{ .Site.Params.name }}</h1>
+            </a>
         </header>
     </section>
 </div>

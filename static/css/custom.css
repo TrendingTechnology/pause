@@ -26,6 +26,12 @@ nav.main-nav .main-nav-title a:hover {
 }
 
 
+.profile h1 {
+    color: #999;
+    letter-spacing: -1px;
+}
+
+
 .post h2.headline .tags {
   text-transform: none;
 }

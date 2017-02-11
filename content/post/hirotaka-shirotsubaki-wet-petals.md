@@ -1,11 +1,11 @@
 +++
 title = "Hirotaka Shirotsubaki - Wet Petals"
-date = "2017-02-10T12:15:21+09:00"
+date = "2017-02-11T15:15:21+09:00"
 tags = ["music","spotify","bandcamp","ambient"]
 draft = false
 +++
 
-友人が海外のレーベルから音源をリリースし、bandcamp で買えたり spotify で聴けたりできるようになっているとのことで、ブログに貼り付けるテストです。
+友人の Hirotaka Shirotsubaki aka ユノエモン が海外のレーベルから音源をリリースし、bandcamp で買えたり spotify で聴けたりできるようになっているとのことで、ブログに貼り付けるテストです。
 
 ## spotify
 
@@ -15,6 +15,8 @@ draft = false
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1287672053/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://naviarrecords.bandcamp.com/album/wet-petals">Wet Petals by Hirotaka Shirotsubaki</a></iframe>
 
-## 購入はこちら
+---
+
+購入はこちら、デジタルとカセットテープとでのリリース。
 
 https://naviarrecords.bandcamp.com/album/wet-petals

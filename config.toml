@@ -1,15 +1,13 @@
 baseurl = "https://pause.cf/"
 languageCode = "jp"
-title = "pause.cf"
+title = "pause"
 theme = "cactus-plus"
 googleAnalytics = "UA-44406328-7"
 
 [params]
   name = "pause"
-  description = "pause.cf"
+  description = "strike a pause."
   bio = ""
-  copyright = "© 2017 pause.cf"
-#  twitter = "your_twotter"
 #  enableRSS = false
 
   # Use description as title in single page, posts page and tags page.

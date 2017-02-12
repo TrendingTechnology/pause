@@ -171,7 +171,7 @@ h2 {
     font-style: normal;
 }
 
-nav.main-nav {
+.main-nav {
     padding: 20px 20px 0;
     /*max-width: 600px;*/
     /*width:100%;*/
@@ -183,7 +183,7 @@ nav.main-nav {
     z-index: 100;
 }
 
-nav.main-nav a {
+.main-nav a {
     top: 8px;
     right: 6px;
     padding: 8px 12px;
@@ -194,7 +194,7 @@ nav.main-nav a {
     border-radius: 3px;
 }
 
-nav.main-nav a.cta {
+.main-nav a.cta {
     background: #5badf0;
     color: #fff;
     margin-left: 12px;

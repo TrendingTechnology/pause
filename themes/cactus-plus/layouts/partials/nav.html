@@ -1,23 +1,17 @@
 <nav class="main-nav">
 	{{ $url := replace .Permalink .Site.BaseURL "" }}
 
-	{{ if .IsPage}}
-	<h1 class="main-nav-title">
+	{{ if not .IsHome}}
+	<h1 class="main-nav-title logo">
 		<a href='{{ .Site.BaseURL }}'><i class="fa fa-pause-circle"></i> {{ .Site.Params.name }}</a>
 	</h1>
 	{{ end }}
 
-	{{ if ne $url "post/" }}
-		<a href='{{ .Site.BaseURL }}post'>{{ with .Site.Params.archive }}{{ . }}{{ else }}Archive{{ end }}</a>
-	{{ end }}
+	<a href='{{ .Site.BaseURL }}post'>{{ with .Site.Params.archive }}{{ . }}{{ else }}Archive{{ end }}</a>
 
-	{{ if ne $url "tags/" }}
-		<a href='{{ .Site.BaseURL }}tags'>{{ with .Site.Params.about }}{{ . }}{{ else }}Tags{{ end }}</a>
-	{{ end }}
+	<a href='{{ .Site.BaseURL }}tags'>{{ with .Site.Params.about }}{{ . }}{{ else }}Tags{{ end }}</a>
 
-	{{ if ne $url "about/" }}
-		<a href='{{ .Site.BaseURL }}about'>{{ with .Site.Params.about }}{{ . }}{{ else }}About{{ end }}</a>
-	{{ end }}
+	<a href='{{ .Site.BaseURL }}about'>{{ with .Site.Params.about }}{{ . }}{{ else }}About{{ end }}</a>
 
 	{{ range $key, $val := .Site.Params.Links }}
 		<a href="{{ $val }}">{{ $key }}</a>

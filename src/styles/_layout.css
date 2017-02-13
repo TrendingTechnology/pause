@@ -1,5 +1,5 @@
 /* layout */
-main, .paginator {
+main, .paginator, .side {
   max-width: var(--main-content-width);
   margin: 0 auto;
   padding: 0 20px;
@@ -8,8 +8,3 @@ main, .paginator {
     padding: 0 40px;
   }
 }
-
-main > :first-child {
-  margin-top: 0;
-}
-

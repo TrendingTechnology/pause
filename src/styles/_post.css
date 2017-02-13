@@ -12,7 +12,6 @@
 .post_title {
   font-size: 32px;
   color: var(--color-dark);
-  font-weight: normal;
 
   @media (--media-s) {
     font-size: 24px;
@@ -98,6 +97,26 @@
     font-weight: bold;
   }
   & td {
+  }
+
+  & iframe {
+    margin: 20px 0;
+  }
+
+  & .embed {
+    width: 100%;
+    margin: 2em auto;
+  }
+  & .aspect16-9 {
+    position: relative;
+    padding: 56.25% 0 0 0;
+  }
+  & .aspect16-9 iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
   }
 }
 

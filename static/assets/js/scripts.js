@@ -73,5 +73,45 @@
 "use strict";
 
 
+jQuery(function ($) {
+  var tagCloud = function tagCloud() {
+    var minOpacity = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : .6;
+    var maxOpacity = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 1;
+
+    var $tags = $('.tagList_tag');
+    if ($tags.length == 0) {
+      return false;
+    }
+
+    var data = getCount($tags);
+    var rate = (maxOpacity - minOpacity) / (data.max - data.min);
+
+    $tags.each(function (i) {
+      var $elm = $tags.eq(i);
+
+      var op = minOpacity + rate * ($elm.data('count') - data.min);
+      var fw = op > .9 ? 'bold' : 'normal';
+
+      $elm.css({
+        opacity: minOpacity + rate * ($elm.data('count') - data.min),
+        fontWeight: fw
+      });
+    });
+  };
+
+  var getCount = function getCount($e) {
+    var counts = $e.map(function (i) {
+      return $e.eq(i).data('count');
+    }).toArray();
+
+    return {
+      min: Math.min.apply(Math, counts),
+      max: Math.max.apply(Math, counts)
+    };
+  };
+
+  tagCloud();
+});
+
 /***/ }
 /******/ ]);

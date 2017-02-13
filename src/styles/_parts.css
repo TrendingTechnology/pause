@@ -70,21 +70,3 @@
   text-align: right;
   width:100%;
 }
-
-
-/*
- * social
- */
-.socialIcons {
-  margin: 120px 0 0.5em;
-  padding: 0;
-}
-.socialIcons li {
-  display: inline-block;
-}
-.socialIcons .icon {
-  font-size: 20px;
-}
-.socialIcons li:not(:last-child) {
-  margin-right: 1em;
-}

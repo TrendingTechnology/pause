@@ -1,0 +1,14 @@
+<aside class="recentPosts">
+  <h4>Recent Posts</h4>
+  <ul class="postList postList-small">
+    {{ range first 5 (where .Site.Pages "Params.hidden" "ne" "true") }}
+      {{ $url := replace .Permalink .Site.BaseURL "" }}
+      {{ if and (ne $url "about/") }}
+        <li>
+          <time><a href="{{ .Permalink }}">{{ .Date.Format "Jan 2 2006" }}</a></time>
+          <h5 class="postList_title"><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
+        </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</aside>

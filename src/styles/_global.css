@@ -40,9 +40,13 @@ hr {
 
 :--heading {
   color: var(--color-dark);
-  font-weight: normal;
+  font-weight: 300;
   letter-spacing: -.6px;
   line-height: 1.4;
+}
+
+h2 {
+  font-size: 19px;
 }
 
 h4, h5, h6 {
@@ -52,7 +56,6 @@ h4, h5, h6 {
 h5 {
   font-size: 15px;
 }
-
 h6 {
   font-size: 14px;
 }

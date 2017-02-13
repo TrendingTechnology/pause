@@ -1,7 +1,14 @@
-<footer class="footer">
-  <p>
+<aside class="side">
+  <section class="description">
     <a href="{{ .Site.BaseURL }}" class="icon logo"><img src="/assets/images/favicon.ico" alt="{{ .Site.Title }}"> {{ .Site.Params.description }}</a>
-  </p>
+  </section>
+
+  {{ if .IsPage }}
+    {{ partial "recent-posts.html" . }}
+  {{ end }}
+</aside>
+
+<footer class="footer">
 
   {{ if .Site.Social }}
     {{ partial "social.html" . }}
@@ -9,3 +16,6 @@
 
   <small>Powered by <a href="http://www.gohugo.io/">Hugo</a></small>
 </footer>
+
+<script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+<script src="/assets/js/scripts.js"></script>

@@ -1,0 +1,33 @@
+{{ partial "head.html" . }}
+
+<body class="archive">
+  {{ partial "nav.html" . }}
+
+  <main>
+    <header class="post_header">
+      <h1 class="post_title">{{ .Title }}</h1>
+      <p class="post_meta">archives</p>
+    </header>
+
+    {{ range .Data.Pages.GroupByDate "2006" }}
+      <section>
+        <h2 class="archive_title">{{ .Key }}</h2>
+
+        <ul class="postList postList-small">
+          {{ range .Pages }}
+            {{ $url := replace .Permalink .Site.BaseURL "" }}
+            {{ if and (ne $url "about/") }}
+              <li>
+                <time><a href="{{ .Permalink }}">{{ .Date.Format "Jan 2" }}</a></time>
+                <h3 class="postList_title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+              </li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      </section>
+    {{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+</body>
+</html>

@@ -1,0 +1,108 @@
+/*
+ * 投稿リスト
+ */
+.postList {
+  list-style: none;
+  padding: 0;
+}
+.postList > li {
+  overflow: hidden;
+  margin-bottom: 30px;
+  @media (--media-s) {
+    margin-bottom: 50px;
+  }
+}
+.postList_title {
+  margin: 0 0 5px;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+
+  & a {
+    color: var(--color-dark);
+    &:hover {
+      color: color(var(--color-dark) lightness(40%));
+    }
+  }
+}
+
+.postList time {
+  float: right;
+  font-size: 14px;
+  line-height: 30px;
+  margin-left: 2em;
+
+  & a {
+    color: var(--color-light);
+  }
+
+  @media (--media-s) {
+    display: none;
+  }
+}
+
+.postList .tags {
+  float: right;
+  clear: right;
+  font-size: 14px;
+  line-height: 30px;
+  margin-left: 2em;
+
+  @media (--media-s) {
+    display: none;
+  }
+}
+
+
+/*
+ * postlist small (recent posts / archives)
+ */
+.recentPosts {
+  margin-top: 240px;
+}
+
+.postList-small {
+  & > li {
+    margin-bottom: 15px;
+  }
+  & .postList_title {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+  }
+  & time {
+    font-size: 12px;
+    line-height: 20px;
+  }
+}
+
+
+/*
+ * archive
+ */
+.archive_title {
+  margin-top: 80px;
+}
+
+
+/*
+ * tag-cloud
+ */
+.tagList {
+  list-style: none;
+  font-size: 18px;
+  line-height: 2.4;
+  text-align: center;
+  padding: 0;
+
+  & .tagList_tag {
+    display: inline-block;
+    margin: 0 5px;
+    opacity: .8;
+    transition: all 1s;
+
+    & a {
+      /*color: var(--color-dark);*/
+    }
+  }
+}

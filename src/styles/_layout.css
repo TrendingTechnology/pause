@@ -1,0 +1,10 @@
+/* layout */
+main, .paginator, .side {
+  max-width: var(--main-content-width);
+  margin: 0 auto;
+  padding: 0 20px;
+
+  @media (--media-m) {
+    padding: 0 40px;
+  }
+}

@@ -1,0 +1,17 @@
+{{ partial "head.html" . }}
+
+<body class="tags">
+  {{ partial "nav.html" . }}
+
+  <main>
+    <header class="post_header">
+      <h1 class="post_title">{{ .Title }}</h1>
+      <p class="post_meta">tagcloud</p>
+    </header>
+
+    {{ partial "tag-list.html" . }}
+  </main>
+
+  {{ partial "footer.html" . }}
+</body>
+</html>

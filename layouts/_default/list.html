@@ -1,0 +1,19 @@
+{{ partial "head.html" . }}
+
+<body class="list">
+  {{ partial "nav.html" . }}
+
+  <main>
+    <header class="post_header">
+      <h1 class="post_title">{{ .Title }}</h1>
+      <p class="post_meta">archives</p>
+    </header>
+
+    {{ partial "post-list.html" . }}
+    {{ partial "pagination.html" . }}
+  </main>
+
+
+  {{ partial "footer.html" . }}
+</body>
+</html>

@@ -1,0 +1,41 @@
+/*
+ * 投稿リスト
+ */
+.postList {
+  list-style: none;
+  padding: 0;
+}
+.postList > li {
+  margin-bottom: 30px;
+  @media (--media-s) {
+    margin-bottom: 50px;
+  }
+}
+.postList_title {
+  margin: 0 0 5px;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.4;
+
+  & a {
+    color: var(--color-dark);
+    &:hover {
+      color: color(var(--color-dark) lightness(40%));
+    }
+  }
+}
+.postList_meta {
+  font-size: 14px;
+  text-align: right;
+
+  @media (--media-s) {
+    display: none;
+  }
+}
+.postList_meta .tags {
+  display: inline-block;
+}
+.postList time a {
+  margin-left: 1em;
+  color: var(--color-light);
+}

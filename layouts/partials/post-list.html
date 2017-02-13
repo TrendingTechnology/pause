@@ -1,0 +1,12 @@
+<ul class="postList">
+  {{ $paginator := .Paginate (where .Data.Pages "Section" "in" "post link") }}
+  {{ range $paginator.Pages }}
+  <li>
+    <h2 class="postList_title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <aside class="postList_meta">
+      {{ partial "tags.html" . }}
+      <time><a href="{{ .Permalink }}">{{ .Date.Format "Jan 2 2006" }}</a></time>
+    </aside>
+  </li>
+  {{ end }}
+</ul>

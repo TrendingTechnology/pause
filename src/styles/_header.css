@@ -1,0 +1,16 @@
+/*
+ * トップページのヘッダ
+ */
+.hero {
+  margin: 138px auto 80px;
+  text-align: center;
+}
+.hero_image {
+  width: 80px;
+  display: block;
+  margin: 0 auto 10px;
+}
+.hero_title.icon {
+  font-size: 20px;
+  font-weight: normal;
+}

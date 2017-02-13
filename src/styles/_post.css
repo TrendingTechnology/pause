@@ -1,0 +1,106 @@
+/*
+ * 投稿のタイトル部分
+ */
+.post_header {
+  margin: 190px 0 80px 0;
+  text-align: center;
+
+  @media (--media-s) {
+    margin-top: 100px;
+  }
+}
+.post_title {
+  font-size: 32px;
+  color: var(--color-dark);
+  font-weight: normal;
+
+  @media (--media-s) {
+    font-size: 24px;
+  }
+}
+.post_meta {
+  color: var(--color-light);
+  font-size: 13px;
+}
+.post_meta .tags li {
+  display: inline;
+  list-style: none;
+}
+
+
+/*
+ * 投稿本文
+ */
+.post_content {
+  line-height: 1.8;
+
+  & :--heading {
+    margin: 2em 0 1em;
+  }
+  & :--heading + :--heading {
+    margin-top: 0;
+  }
+
+  & code {
+    display: inline-block;
+    font-size: 14px;
+    font-family: menlo, monaco, monospace;
+    background-color: var(--color-bg-light);
+    padding: 0 4px;
+    border-radius: 3px;
+  }
+
+  & pre code {
+    display: block;
+    width: 100%;
+    padding: 10px;
+  }
+
+  & blockquote {
+    padding: 1px 20px;
+    margin: 1em 0;
+    border-left: 5px solid var(--color-border);
+  }
+
+  & :matches(ul, ol) {
+    padding-left: 40px;
+
+    @media (--media-s) {
+      padding-left: 20px;
+    }
+  }
+
+  & li {
+    margin: 5px 0;
+  }
+
+  & img {
+    border-radius: 3px;
+    margin: .5em 0;
+  }
+
+  & table {
+    width: 100%;
+    font-size: 13px;
+    border-top: 1px solid var(--color-border);
+    margin: 20px 0;
+  }
+  & tr {
+    border-bottom: 1px solid var(--color-border);
+  }
+  & table tr:nth-child(odd) > td {
+    background-color: var(--color-bg-light);
+  }
+  & :matches(td, th) {
+    padding: 10px 1em;
+  }
+  & th {
+    font-weight: bold;
+  }
+  & td {
+  }
+}
+
+.post_content > :first-child {
+  margin-top: 0;
+}

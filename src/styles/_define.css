@@ -1,0 +1,36 @@
+/*
+ * custom variables
+ */
+:root {
+  /* color */
+  --color: #555;
+  --color-light: #bbb;
+  --color-dark: #333;
+
+  --color-link: #5ae;
+  --color-link-hover: #7ce;
+  --color-link-alt: #999;
+  --color-link-alt-hover: #aab;
+
+  --color-bg: #fefefe;
+  --color-bg-light: #f7f7f7;
+  --color-border: #e8e8e8;
+
+
+  /* layout */
+  --main-content-width: 860px;
+}
+
+
+/*
+ * custom selectors
+ */
+@custom-selector :--heading h1, h2, h3, h4, h5, h6;
+
+
+/*
+ * custom media queries
+ */
+@custom-media --media-s (width <= 640px);
+@custom-media --media-m (width > 640px) and (width <= 992px);
+@custom-media --media-l (width > 992px);

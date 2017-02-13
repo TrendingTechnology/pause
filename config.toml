@@ -1,36 +1,15 @@
 baseurl = "https://pause.cf/"
-languageCode = "jp"
 title = "pause"
-theme = "cactus-plus"
+paginate = 10
 googleAnalytics = "UA-44406328-7"
 
+
 [params]
-  name = "pause"
-  description = "strike a pause."
-  bio = ""
-#  enableRSS = false
-
-  # Use description as title in single page, posts page and tags page.
-  useDescriptionAsTitle = false
-
-  # Enable googleAnalytics
-  enableGoogleAnalytics = true
-
-  # Add custom assets with their paths relative to the static folder
-  customCSS = ["css/custom.css"]
-  customJS  = []
-
-  # 404 page
-  title404 = ""
-  subtitle404 = ""
-
-  # Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-  iconFont = "font-awesome"
-  # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
-  socialIconStyle = ""
+description = "strike a pause"
+newerPosts = "← newer"
+olderPosts = "older →"
 
 
-# Add additional social link entries underneath
 [social]
   facebook-square = "https://facebook.com/matsuoshi"
   twitter-square = "https://twitter.com/matsuoshi"

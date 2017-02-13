@@ -1,0 +1,17 @@
+{{ partial "head.html" . }}
+
+<body>
+{{ partial "nav.html" . }}
+
+<article class="post">
+  <header>
+    <h1>404 not found</h1>
+    <h2>The requested URL was not found on this server.</h2>
+  </header>
+
+  {{ partial "latest-posts.html" . }}
+</article>
+
+{{ partial "footer.html" . }}
+</body>
+</html>

@@ -1,0 +1,5 @@
+<ul class="socialIcons">
+  {{ range $key, $val := .Site.Social }}
+    <li><a class="icon" href="{{ $val }}"><i class="fa fa-{{ $key }}"></i></a></li>
+  {{ end }}
+</ul>

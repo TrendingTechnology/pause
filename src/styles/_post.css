@@ -1,14 +1,6 @@
 /*
  * 投稿のタイトル部分
  */
-.post_header {
-  margin: 190px 0 80px 0;
-  text-align: center;
-
-  @media (--media-s) {
-    margin-top: 100px;
-  }
-}
 .post_title {
   font-size: 32px;
   color: var(--color-dark);
@@ -35,10 +27,19 @@
 
   & :--heading {
     margin: 2em 0 1em;
+    line-height: 1.6;
   }
   & :--heading + :--heading {
     margin-top: 0;
   }
+
+  & h1 {
+    font-size: 26px;
+  }
+  & h2 {
+    font-size: 23px;
+  }
+
 
   & code {
     display: inline-block;
@@ -65,7 +66,7 @@
     padding-left: 40px;
 
     @media (--media-s) {
-      padding-left: 20px;
+      padding-left: 25px;
     }
   }
 
@@ -76,6 +77,11 @@
   & img {
     border-radius: 3px;
     margin: .5em 0;
+  }
+
+  & figure > img {
+    display: block;
+    margin: 1em auto;
   }
 
   & table {

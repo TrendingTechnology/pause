@@ -1,9 +1,27 @@
 /*
- * トップページのヘッダ
+ * ヘッダ
+ */
+.mainHeader {
+  margin: 190px 0 160px 0;
+  padding-top: 0;
+  text-align: center;
+
+  @media (--media-s) {
+    margin-top: 100px;
+    margin-bottom: 80px;
+    padding: 0;
+  }
+}
+.top .mainHeader {
+  padding-top: 0;
+}
+
+
+/*
+ * トップのヘッダ
  */
 .hero {
-  margin: 138px auto 80px;
-  text-align: center;
+  margin: 0;
 }
 .hero_image {
   width: 80px;

@@ -1,7 +1,7 @@
 +++
 title = "2 Chainz & Erykah Badu"
-date = "2017-02-13T19:38:21+09:00"
-tags = ["hugo","netlify","github"]
+date = "2017-02-14T19:38:21+09:00"
+tags = ["music","trap","spotify"]
 draft = false
 +++
 

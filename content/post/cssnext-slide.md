@@ -1,6 +1,6 @@
 +++
 title = "カスタム・プロパティと cssnext"
-date = "2017-02-12T09:28:24+09:00"
+date = "2017-02-13T09:28:24+09:00"
 tags = [ "css", "cssnext", "custom property", "slide", "csstalk" ]
 draft = false
 +++

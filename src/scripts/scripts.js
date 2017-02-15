@@ -12,7 +12,7 @@ jQuery(($) => {
       const $elm = $tags.eq(i);
 
       const op = minOpacity + rate * ($elm.data('count') - data.min);
-      const fw = (op > .9) ? 'bold' : 'normal';
+      const fw = (op > .8) ? 'bold' : 'normal';
 
       $elm.css({
         opacity: minOpacity + rate * ($elm.data('count') - data.min),

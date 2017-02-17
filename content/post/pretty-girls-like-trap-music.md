@@ -14,3 +14,5 @@ draft = false
 <div class="embed">
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A2chainz%3Aplaylist%3A6mOCzeQFN67gwzVwZUl9Iq" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
 </div>
+
+エリカ・バドゥが、2chainz に触発されて作ったもの……？

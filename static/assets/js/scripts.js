@@ -90,7 +90,7 @@ jQuery(function ($) {
       var $elm = $tags.eq(i);
 
       var op = minOpacity + rate * ($elm.data('count') - data.min);
-      var fw = op > .9 ? 'bold' : 'normal';
+      var fw = op > .75 ? 'bold' : 'normal';
 
       $elm.css({
         opacity: minOpacity + rate * ($elm.data('count') - data.min),

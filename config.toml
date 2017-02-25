@@ -10,8 +10,8 @@ post = "/post/:year:month/:filename/"
 
 [params]
 description = "strike a pause"
-newerPosts = "← newer"
-olderPosts = "older →"
+newerPosts = "< newer"
+olderPosts = "older >"
 
 
 [social]

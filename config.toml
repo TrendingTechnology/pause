@@ -12,7 +12,7 @@ post = "/post/:year:month/:filename/"
 description = "strike a pause"
 newerPosts = "< newer"
 olderPosts = "older >"
-
+ogpimage = "/assets/images/ogp.png"
 
 [social]
 facebook-square = "https://facebook.com/matsuoshi"

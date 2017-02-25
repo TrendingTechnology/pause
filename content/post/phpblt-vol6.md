@@ -3,6 +3,7 @@ title = "PHP BLT #6 @ メルカリさん に参加してきました #phpblt"
 date = "2017-02-25T12:12:12+09:00"
 tags = ["php", "study"]
 draft = false
+image = "/media/phpblt-6-00.jpg"
 +++
 
 東京出張とタイミングがあったので、メルカリさんのオフィスにて行われた勉強会 PHP BLT #6 に参加してきました。
@@ -10,7 +11,7 @@ draft = false
 > 2016-02-22 @ メルカリ (六本木ヒルズ)  
 > https://phpblt.connpass.com/event/49458/
 
-{{< figure src="https://scontent-nrt1-1.cdninstagram.com/t51.2885-15/e35/16789919_1843765665835244_4746640487937474560_n.jpg" title="" >}}
+![](/media/phpblt-6-00.jpg)
 
 PHP BLT は、2時間ほどの間に20人がLTをするという、かなりライトニングな勉強会。多くの人(ふだん発表をあまりしない人を含む) に話す機会を持ってもらいたい、というコンセプトがあるそうです。
 

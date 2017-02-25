@@ -13,5 +13,11 @@
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="{{ .Site.BaseURL }}assets/css/styles.css">
   <link href="{{ .Site.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}"/>
-  <meta property="og:image" content="{{ .Site.BaseURL }}assets/images/ogp.png"/>
+  {{ if .Params.image }}
+  <meta property="og:image" content="{{ .Params.image | absURL }}">
+  <meta property="twitter:image" content="{{ .Params.image | absURL }}">
+  {{ else }}
+  <meta property="og:image" content="{{ .Site.Params.ogpimage | absURL }}">
+  <meta property="twitter:image" content="{{ .Site.Params.ogpimage | absURL }}">
+  {{ end }}
 </head>

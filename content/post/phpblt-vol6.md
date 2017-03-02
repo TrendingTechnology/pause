@@ -25,11 +25,12 @@ PHP BLT は、2時間ほどの間に20人がLTをするという、かなりラ�
 
 ![](/media/phpblt-6-02.jpg)
 
-軽食もドリンクもあり。ちょうおしゃれ。ちょううまかった。
+軽食もドリンクもあり。ちょうおしゃれ。ちょううまかった。  
+ステッカーもいただけました。
 
 ![](/media/phpblt-6-03.jpg)
 
-内容は普段から PHP の Slack や Qiita などで拝見している著名な方の発表あり、初発表の方のLTあり、などなどバラエティに富んだもの。それにしても非常にスムーズな進行で、19本の発表があっという間に感じました。
+内容は普段から [PHP の Slack](http://www.msng.info/archives/2016/02/phpusers-ja-on-slack.php) や Qiita などで拝見している著名な方の発表あり、初発表の方のLTあり、などなどバラエティに富んだもの。それにしても非常にスムーズな進行で、19本の発表があっという間に感じました。
 
 ![](/media/phpblt-6-04.jpg)
 
@@ -37,7 +38,7 @@ PHP BLT は、2時間ほどの間に20人がLTをするという、かなりラ�
 
 ### [PHPBLT#6 PHPの未来に入るかもしれない機能の紹介](https://www.slideshare.net/sters/phpblt6-php)
 
-7.2 以降の PHP の仕様の話。過去却下になったという `~>` 記法のキモさがすごい。
+7.2 以降の PHP の仕様の話。過去に却下になった仕様だという `~>` 記法のキモさがすごい。
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/pude8VJQKEqIN" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
@@ -68,7 +69,7 @@ PHP BLT は、2時間ほどの間に20人がLTをするという、かなりラ�
 
 ## たのしかったー
 
-他にも Laravel + Vue.js とか、CI高速化の話とか、PhpStorm 関係のお話とか、気になる話がたくさんありました。そしてLT終了後にはアルコールも入って1時間ほど懇親会。発表者のみなさんと、いろいろお話しさせていただける機会に。  
+他にも Laravel + Vue.js とか、CI高速化の話とか、PhpStorm 関係のお話とか、気になる話が数多くありました。そしてLT終了後にはアルコールも入って1時間ほど懇親会。発表者のみなさんと、いろいろお話しさせていただける機会に。  
 
 とにかくたくさんの発表を聞けて、非常に刺激を受けました。セミナー形式の勉強会もいいですが、こういう多人数のLTは、みなさんが普段どういう感じで仕事をされているのか、というのが少しずつ見えてくるのがよいですね。発表者のみなさん、メルカリさん、ありがとうございました！
 

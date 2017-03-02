@@ -8,7 +8,7 @@ draft = false
 
 author: [matsuoshi](https://facebook.com/matsuoshi)
 
-静的サイトジェネレータでブログを作ってみたい、というほんの出来心から成り立つサイトです。hugo と GitHub と Netlify と freenom で作っています。  
+静的サイトジェネレータでブログを作ってみたい、というほんの出来心から成り立つサイトです。hugo と GitHub と Netlify と freenom で作っています。2017年2月スタート。  
 中身はウェブのこと、音楽のこと、サッカーのこと、が多くなる予定。
 
 <ul class="socialIcons">

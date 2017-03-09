@@ -21,7 +21,7 @@
     "build:css": "postcss -c .postcssrc.json",
     "build:js": "webpack",
     "build:hugo": "hugo",
-    "watch": "npm run watch:css & npm run:watch:js & npm run watch:hugo",
+    "watch": "npm run watch:css & npm run watch:js & npm run watch:hugo",
     "watch:css": "postcss -w -c .postcssrc.json",
     "watch:js": "webpack -w",
     "watch:hugo": "hugo server -w"

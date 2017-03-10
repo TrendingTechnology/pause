@@ -16,7 +16,7 @@
   margin: 0 0 5px;
   font-size: 20px;
   line-height: 30px;
-  font-weight: bold;
+  font-weight: normal;
 
   & a {
     color: var(--color-dark);
@@ -57,17 +57,12 @@
 /*
  * postlist small (recent posts / archives)
  */
-.recentPosts {
-  margin-top: 240px;
-}
-
 .postList-small {
   & > li {
     margin-bottom: 15px;
   }
   & .postList_title {
     font-size: 14px;
-    font-weight: normal;
     line-height: 20px;
   }
   & time {

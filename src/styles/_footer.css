@@ -6,6 +6,22 @@
   text-align: center;
 }
 
+.post .side .description {
+  margin-bottom: 240px;
+}
+
+.recentPosts {
+  margin-bottom: 60px;
+}
+
+.author {
+  font-size: 14px;
+
+  & img {
+    width: 32px;
+    margin-right: 8px;
+  }
+}
 
 /*
  * social

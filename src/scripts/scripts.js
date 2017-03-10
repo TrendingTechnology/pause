@@ -1,5 +1,11 @@
 jQuery(($) => {
-  const tagCloud = (minOpacity = .6, maxOpacity = 1) => {
+  /**
+   * tagcloud
+   * @param minOpacity
+   * @param maxOpacity
+   * @returns {boolean}
+   */
+  const tagCloud = (minOpacity = .66, maxOpacity = 1) => {
     const $tags = $('.tagList_tag');
     if ($tags.length == 0) {
       return false;

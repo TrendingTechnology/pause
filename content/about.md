@@ -4,11 +4,16 @@ date = "2017-02-06T22:22:22+09:00"
 draft = false
 +++
 
-![avatar](https://avatars.githubusercontent.com/u/73213?s=64)
+[![avatar](https://avatars.githubusercontent.com/u/73213?s=64)](https://facebook.com/matsuoshi)
 
 author: [matsuoshi](https://facebook.com/matsuoshi)
 
-静的サイトジェネレータでブログを作ってみたい、というほんの出来心から成り立つサイトです。hugo と GitHub と Netlify と freenom で作っています。2017年2月スタート。  
+静的サイトジェネレータでブログを作ってみたい、というほんの出来心から成り立つサイトです。hugo と GitHub と Netlify と freenom で作っています。2017年2月スタート。
+
+顛末はこちらの記事に。
+
+> [Hugo + Netlify + GitHub でブログを作った](https://pause.cf/post/201702/hugo-netlify-github-blog/)
+
 中身はウェブのこと、音楽のこと、サッカーのこと、が多くなる予定。
 
 <ul class="socialIcons">

@@ -1,7 +1,7 @@
 +++
 title = "2016年 レコード大賞および踊るヒット賞"
 date = "2017-02-09T21:18:21+09:00"
-tags = ["music","techno"]
+tags = ["music","techno","house"]
 draft = false
 +++
 

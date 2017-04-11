@@ -37,7 +37,8 @@
   }
 
   @media (--media-s) {
-    display: none;
+    float: none;
+    margin-left: 0;
   }
 }
 

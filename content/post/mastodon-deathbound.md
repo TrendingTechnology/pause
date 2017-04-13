@@ -7,7 +7,8 @@ draft = false
 
 マストドンという、twitter ライクなウェブサービスが流行りだしているらしい。
 
-> [ASCII.jp：Twitterのライバル？　実は、新しい「マストドン」（Mastodon）とは！｜遠藤諭のプログラミング＋日記](http://ascii.jp/elem/000/001/465/1465842/)
+- [ASCII.jp：Twitterのライバル？　実は、新しい「マストドン」（Mastodon）とは！｜遠藤諭のプログラミング＋日記](http://ascii.jp/elem/000/001/465/1465842/)
+- [ポストTwitter？　急速に流行中「マストドン」とは - ITmedia NEWS](http://www.itmedia.co.jp/news/articles/1704/13/news131.html)
 
 気になったので、とりあえず登録だけしました。
 

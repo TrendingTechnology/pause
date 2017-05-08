@@ -9,7 +9,8 @@ draft = false
 
 かっこいい。
 
-んだけど、マネキン・プッシーって、ググるのに抵抗あるバンド名だわ〜〜〜〜 ([perfect pussy](https://prrfectpussy.bandcamp.com/) といい……)
+んだけど、マネキン・プッシーって、ググるのに抵抗あるバンド名だわ〜〜〜〜  
+([perfect pussy](https://prrfectpussy.bandcamp.com/) といい……)
 
 {{<youtube 8q2DrSKj3jM>}}
 

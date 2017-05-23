@@ -9,4 +9,4 @@ Arca の今回のアルバムも思いっきり Arca っぽさ前回でよいし
 
 {{<youtube PwXOgzmTbVU>}}
 
-[![](https://images-na.ssl-images-amazon.com/images/I/81POlcUoIuL._SL500_.jpg)](https://www.amazon.co.jp/dp/B06WW944RJ)
+{{<amazon B06WW944RJ>}}

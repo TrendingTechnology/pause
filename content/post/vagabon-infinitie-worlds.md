@@ -14,7 +14,7 @@ draft = false
 
 しかしこのジャケットが
 
-[![](https://images-na.ssl-images-amazon.com/images/I/71LY8vl2-7L._SL480_.jpg)](https://www.amazon.co.jp/dp/B01N21CWU9)
+{{<amazon B01N21CWU9>}}
 
 栃木県にしか見えないのです。
 

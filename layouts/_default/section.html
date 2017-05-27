@@ -18,7 +18,7 @@
             {{ $url := replace .Permalink .Site.BaseURL "" }}
             {{ if and (ne $url "about/") }}
               <li>
-                <time><a href="{{ .Permalink }}">{{ .Date.Format "Jan 2" }}</a></time>
+                <a href="{{ .Permalink }}"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time></a>
                 <h3 class="postList_title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
               </li>
             {{ end }}

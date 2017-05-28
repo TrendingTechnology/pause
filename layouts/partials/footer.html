@@ -1,7 +1,7 @@
 <aside class="side">
-  <section class="description">
+  <div class="description">
     <a href="{{ .Site.BaseURL }}" class="icon logo"><img src="/assets/images/favicon.ico" alt="{{ .Site.Title }}"> {{ .Site.Params.description }}</a>
-  </section>
+  </div>
 
   {{ if .IsPage }}
   {{ partial "recent-posts.html" . }}

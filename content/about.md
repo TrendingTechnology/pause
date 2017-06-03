@@ -14,7 +14,7 @@ author: [matsuoshi](https://facebook.com/matsuoshi)
 
 > [Hugo + Netlify + GitHub でブログを作った](https://pause.cf/post/201702/hugo-netlify-github-blog/)
 
-中身はウェブのこと、音楽のこと、サッカーのこと、が多くなる予定。
+中身はほとんどがちょっと気になった音楽のメモです。あとウェブのこととか、サッカーのこととか。
 
 <ul class="socialIcons">
 <li><a class="icon" href="https://facebook.com/matsuoshi"><i class="fa fa-facebook-square"></i></a></li>
@@ -24,3 +24,8 @@ author: [matsuoshi](https://facebook.com/matsuoshi)
 <li><a class="icon" href="https://www.mixcloud.com/matsuoshi/"><i class="fa fa-mixcloud"></i></a></li>
 <li><a class="icon" href="https://twitter.com/matsuoshi"><i class="fa fa-twitter-square"></i></a></li>
 </ul>
+
+#### その他 blog
+
+- [disco//very](http://discovery.hatenablog.com/) (おしごと参考系)
+- [monaurallab](http://matsuoshi.hatenablog.com/) (放置中) 

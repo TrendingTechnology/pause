@@ -7,7 +7,7 @@ draft = false
 
 なんだそりゃ、というユニット名 Let's Eat Grandma の、なんだそりゃ、という曲名 Eat Shiitake Mushrooms
 
-まだ10代の女性2人組で、サイケでドリーミーなエレクトロ。(イントロ長いんだけど)歌が始まるとちょっと Cocorosie っぽさとかも感じるアート・ポップ。
+まだ10代の女性2人組で、サイケでドリーミーなエレクトロ。(イントロ長いんだけど)歌が始まるとちょっと Cocorosie っぽさとか Grimes っぽさとかも感じるアート・ポップ。
 
 {{<youtube ddbnr-YjmMY>}}
 

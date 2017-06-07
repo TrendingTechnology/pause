@@ -26,12 +26,14 @@ $fz-xs: 13rem /16;
 
 // layout
 $layout-main-width: 1000px;
+$layout-main-post-width: 860px;
 
 
 // media-query
 $breakpoints: (
   's': 'screen and (min-width: 320px)',
   'm': 'screen and (min-width: 768px)',
+  'sm': 'screen and (max-width: 767px)',
   'monly': 'screen and (min-width: 768px) and (max-width:999px)',
   'l': 'screen and (min-width: 1000px)',
 ) !default;

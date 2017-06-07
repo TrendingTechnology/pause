@@ -1,15 +1,19 @@
 module.exports = {
-  entry: "./src/scripts/scripts.js",
+  entry: __dirname + "/themes/pause/src/scripts/scripts.js",
   output: {
-    path: "static/assets/js",
+    path: __dirname + "/themes/pause/static/js",
     filename: "scripts.js"
   },
   module: {
-    rules: [
+    loaders: [
       {
+        loader: 'babel-loader',
+        exclude: /node_modules/,
         test: /\.js$/,
-        use: "babel-loader",
-        exclude: /node_modules/
+        query: {
+          cacheDirectory: true,
+          presets: ['es2015']
+        }
       }
     ]
   }

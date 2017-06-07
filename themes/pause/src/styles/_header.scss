@@ -1,0 +1,29 @@
+// header
+
+.header {
+  position: sticky;
+  top: 0;
+  background-color: rgba($color-bg, .95);
+  text-align: right;
+  padding: 1em 2em;
+  font-size: $fz-s;
+
+  li {
+    display: inline-block;
+    margin-right: 2em;
+  }
+}
+
+
+.hero {
+  margin: 130px 0 150px 0;
+  text-align: center;
+  font-size: $fz-xl;
+  font-weight: normal;
+
+  .hero_image {
+    width: 80px;
+    display: block;
+    margin: 0 auto 20px;
+  }
+}

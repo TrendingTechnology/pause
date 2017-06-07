@@ -1,18 +1,15 @@
-{{ partial "head.html" . }}
+<!DOCTYPE html>
+<html lang="ja">
+{{ partial "header.html" . }}
 
 <body class="list">
   {{ partial "nav.html" . }}
+  {{ partial "hero.html" . }}
 
   <main>
-    <header class="mainHeader post_header">
-      <h1 class="post_title">{{ .Title }}</h1>
-      <p class="post_meta">archives</p>
-    </header>
-
     {{ partial "post-list.html" . }}
     {{ partial "pagination.html" . }}
   </main>
-
 
   {{ partial "footer.html" . }}
 </body>

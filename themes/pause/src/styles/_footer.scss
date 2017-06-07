@@ -1,0 +1,45 @@
+// footer
+
+.footer {
+  text-align: center;
+  margin: 0 auto 60px;
+}
+
+
+// footer logo
+.footerLogo {
+  margin: 200px auto;
+  font-size: $fz-s;
+  img {
+    height: 1.5em;
+    width: auto;
+    vertical-align: middle;
+    margin-right: 0.2em;
+  }
+}
+
+// author
+.author {
+  margin: 30px auto;
+  font-size: $fz-s;
+  img {
+    height: 1.2em;
+    width: auto;
+    margin: 0 .3em;
+    vertical-align: text-bottom;
+  }
+}
+
+
+// social icons
+.socialIcons {
+  margin: 30px auto;
+  font-size: $fz-xl;
+
+  li {
+    display: inline-block;
+    &:not(:last-child) {
+      margin-right: 1em;
+    }
+  }
+}

@@ -1,7 +1,13 @@
-baseurl = "https://pause.cf/"
 title = "pause"
-paginate = 10
+baseurl = "https://pause.cf/"
+theme = "pause"
+paginate = 24
 googleAnalytics = "UA-44406328-7"
+
+
+[author]
+name = "matsuoshi"
+image = "//avatars.githubusercontent.com/u/73213?s=32"
 
 
 [permalinks]
@@ -9,10 +15,10 @@ post = "/post/:year:month/:filename/"
 
 
 [params]
-description = "strike a pause"
+description = "pause.cf"
+ogpimage = "/images/ogp.png"
 newerPosts = "< newer"
 olderPosts = "older >"
-ogpimage = "/assets/images/ogp.png"
 
 [social]
 facebook-square = "https://facebook.com/matsuoshi"

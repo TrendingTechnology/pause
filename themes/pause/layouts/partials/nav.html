@@ -1,4 +1,4 @@
-<nav class="globalNav">
+<header class="header">
 
   {{ if not .IsHome}}
     <h1 class="globalNav_title"><a href="{{ .Site.BaseURL }}" class="icon logo"><img src="/assets/images/favicon.ico" alt="{{ .Site.Title }}"> {{ .Site.Title }}</a></h1>
@@ -12,4 +12,4 @@
       <li><a href="{{ $val }}">{{ $key }}</a></li>
     {{ end }}
   </ul>
-</nav>
+</header>

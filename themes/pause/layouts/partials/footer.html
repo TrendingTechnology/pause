@@ -1,0 +1,13 @@
+<footer class="footer">
+  <div class="footerLogo">
+    <a href="{{ .Site.BaseURL }}" class="altColor"><img src="/images/favicon.ico" alt="{{ .Site.Title }}"> {{ .Site.Title }}</a>
+  </div>
+
+  {{ if .IsPage }}
+    {{ partial "recent-posts.html" . }}
+  {{ end }}
+
+  {{ partial "author.html" . }}
+
+  {{ partial "socials.html" . }}
+</footer>

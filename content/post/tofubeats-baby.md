@@ -5,7 +5,7 @@ tags = [
   "music", "japanese", "electronic"
 ]
 draft = false
-
+image = "http://i.ytimg.com/vi/e_K-8acKFNU/mqdefault.jpg"
 +++
 
 tofubeats の 3rdアルバム "FANTASY CLUB" が明日発売。

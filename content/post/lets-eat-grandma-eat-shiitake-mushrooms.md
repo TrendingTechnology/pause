@@ -3,6 +3,7 @@ title = "Let's Eat Grandma - Eat Shiitake Mushrooms"
 date = "2017-06-04T10:52:28+09:00"
 tags = ["music","psychedelic","artpop"]
 draft = false
+image = "http://i.ytimg.com/vi/ddbnr-YjmMY/mqdefault.jpg"
 +++
 
 なんだそりゃ、というユニット名 Let's Eat Grandma の、なんだそりゃ、という曲名 Eat Shiitake Mushrooms

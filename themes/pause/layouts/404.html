@@ -3,17 +3,16 @@
 {{ partial "header.html" . }}
 
 <body class="notfound">
+<div class="wrapper">
   {{ partial "nav.html" . }}
-  {{ partial "hero.html" . }}
 
   <main>
-    <section>
-      <h1>404 not found</h1>
+    <section class="postHeader">
+      <h1 class="postTitle">404 not found</h1>
       <p>The requested URL was not found on this server.</p>
     </section>
-
-    {{ partial "recent-posts.html" . }}
   </main>
+</div>
 
   {{ partial "footer.html" . }}
 </body>

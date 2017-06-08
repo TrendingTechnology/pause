@@ -5,7 +5,8 @@
 }
 
 .post main,
-.tags main {
+.tags main,
+.notfound main {
   max-width: $layout-main-post-width;
   margin: 0 auto;
 }

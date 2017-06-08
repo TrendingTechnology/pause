@@ -1,7 +1,0 @@
-<ul class="tagList">
-  {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-    <li class="tagList_tag" data-count="{{ len $taxonomy }}">
-      <a href="/tags/{{ $name | urlize }}">{{ $name }} <small>({{ len $taxonomy }})</small></a>
-    </li>
-  {{ end }}
-</ul>

@@ -3,16 +3,25 @@
 {{ partial "header.html" . }}
 
 <body class="tags">
+<div class="wrapper">
   {{ partial "nav.html" . }}
 
   <main>
-    <header class="mainHeader post_header">
-      <h1 class="post_title">{{ .Title }}</h1>
-      <p class="post_meta">tagcloud</p>
-    </header>
+    <article>
+      <header class="postHeader">
+        <h1 class="postTitle">{{ .Title }}</h1>
+      </header>
 
-    {{ partial "tag-list.html" . }}
+      <ul class="tagList">
+        {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+        <li class="tagList_item" data-count="{{ len $taxonomy }}">
+          <a href="/tags/{{ $name | urlize }}">{{ $name }} <small>({{ len $taxonomy }})</small></a>
+        </li>
+        {{ end }}
+      </ul>
+    </article>
   </main>
+</div>
 
   {{ partial "footer.html" . }}
 </body>

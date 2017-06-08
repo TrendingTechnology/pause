@@ -1,7 +1,7 @@
 {{ if isset .Params "youtube" }}
 https://i.ytimg.com/vi/{{ index .Params "youtube" }}/mqdefault.jpg|https://i.ytimg.com/vi/{{ index .Params "youtube" }}/maxresdefault.jpg
 {{ else if isset .Params "amazon" }}
-//images-jp.amazon.com/images/P/{{ index .Params "amazon" }}.09._SX320_SCLZZZZZZZ_.jpg|//images-jp.amazon.com/images/P/{{ index .Params "amazon" }}.09._SX800_SCLZZZZZZZ_.jpg
+http://images-jp.amazon.com/images/P/{{ index .Params "amazon" }}.09._SX320_SCLZZZZZZZ_.jpg|http://images-jp.amazon.com/images/P/{{ index .Params "amazon" }}.09._SX800_SCLZZZZZZZ_.jpg
 {{ else if isset .Params "image" }}
 {{ index .Params "image" }}|{{ index .Params "image" }}
 {{ else }}

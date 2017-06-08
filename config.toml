@@ -16,7 +16,7 @@ post = "/post/:year:month/:filename/"
 
 [params]
 description = "pause.cf"
-ogpimage = "/images/ogp.png"
+ogpimage = "/images/thumbnail.png"
 newerPosts = "< newer"
 olderPosts = "older >"
 

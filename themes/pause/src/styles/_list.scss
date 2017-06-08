@@ -50,6 +50,14 @@
 
   .paginator_next:nth-of-type(1) {
     text-align: right;
-    width:100%;
+    width: 100%;
   }
+}
+
+
+.postThumbnail {
+  width: 100%;
+  height: 0;
+  padding-bottom: percentage(180/320);
+  background-size: cover;
 }

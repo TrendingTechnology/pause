@@ -1,7 +1,0 @@
-{{ if .Site.Social }}
-<ul class="socialIcons">
-  {{ range $key, $val := .Site.Social }}
-    <li><a href="{{ $val }}" class="altColor"><i class="fa fa-{{ $key }}"></i></a></li>
-  {{ end }}
-</ul>
-{{ end }}

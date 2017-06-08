@@ -5,8 +5,7 @@ tags = [
   "music","rock"
 ]
 draft = false
-image = ""
-
+youtube = "I1b_kuYWiZo"
 +++
 
 タイトルそのまんまです。

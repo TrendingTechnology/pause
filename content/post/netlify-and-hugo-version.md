@@ -3,6 +3,7 @@ title = "Netlify と Hugo の組合せでハマったところ"
 date = "2017-02-11T23:48:21+09:00"
 tags = ["netlify","hugo"]
 draft = false
+image = "/media/hugo-netlify-001.png"
 +++
 
 どうも Netlify の Hugo は、バージョンが現在最新の v0.18 ではないっぽい(2017年2月時点)。

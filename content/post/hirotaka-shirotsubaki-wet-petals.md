@@ -3,6 +3,7 @@ title = "Hirotaka Shirotsubaki - Wet Petals"
 date = "2017-02-12T15:15:21+09:00"
 tags = ["music","spotify","bandcamp","ambient"]
 draft = false
+image = "https://f4.bcbits.com/img/a1340446712_5.jpg"
 +++
 
 友人の Hirotaka Shirotsubaki aka ユノエモン が海外のレーベルから音源をリリースし、bandcamp で買えたり spotify で聴けたりできるようになっているとのことで、ブログに貼り付けるテストです。

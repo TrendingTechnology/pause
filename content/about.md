@@ -12,7 +12,7 @@ author: [matsuoshi](https://facebook.com/matsuoshi)
 
 顛末はこちらの記事に。
 
-> [Hugo + Netlify + GitHub でブログを作った](https://pause.cf/post/201702/hugo-netlify-github-blog/)
+> [Hugo + Netlify + GitHub でブログを作った](/post/201702/hugo-netlify-github-blog/)
 
 中身はほとんどがちょっと気になった音楽のメモです。あとウェブのこととか、サッカーのこととか。
 

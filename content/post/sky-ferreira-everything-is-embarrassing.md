@@ -3,7 +3,7 @@ title = "Sky Ferreira - Everything Is Embarrassing"
 date = "2017-05-31T23:23:23+09:00"
 tags = ["music","pop"]
 draft = false
-image = "http://i.ytimg.com/vi/1jtTeMgWNhA/mqdefault.jpg"
+youtube = "1jtTeMgWNhA"
 +++
 
 気分

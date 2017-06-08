@@ -5,7 +5,21 @@
 <body class="list">
 <div class="wrapper">
   {{ partial "nav.html" . }}
-  {{ partial "hero.html" . }}
+
+  {{ if .IsHome }}
+    <h1 class="hero">
+      <a href="/" class="hero_title altColor">
+        <img class="hero_image" src="/images/favicon.ico" alt="site logo">
+        {{ .Site.Title }}
+      </a>
+    </h1>
+  {{ else }}
+    <header class="postHeader">
+      <h1 class="postTitle">{{ .Title }}</h1>
+      <p>archives</p>
+    </header>
+  {{ end }}
+
 
   <main>
     {{ partial "post-list.html" . }}
@@ -13,6 +27,7 @@
   </main>
 </div>
 
-  {{ partial "footer.html" . }}
+
+{{ partial "footer.html" . }}
 </body>
 </html>

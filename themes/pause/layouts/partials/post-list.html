@@ -9,11 +9,11 @@
         <a href="{{ .Permalink }}" class="altColor">
           <div class="postThumbnail" style="background-image:url({{ trim (index (split (partial "thumbnail.html" .) "|") 0) "\n" | relURL }})"></div>
           <h2 class="postTitle">{{ .Title }}</h2>
-        </a>
 
-        <div class="postMeta">
-          <a href="{{ .Permalink }}" class="altColor"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan. 2, 2006" }}</time></a>
-        </div>
+          <div class="postMeta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan. 2, 2006" }}</time>
+          </div>
+        </a>
       </li>
     {{ end }}
   {{ end }}

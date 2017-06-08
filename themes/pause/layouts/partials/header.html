@@ -9,11 +9,14 @@
   <title>{{ .Title }}{{ if not .IsHome }} | {{ .Site.Title }}{{ end }}</title>
   <link rel="shortcut icon" href="{{ .Site.BaseURL }}/images/favicon.ico">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/styles.css">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/styles.css">
   <link href="{{ .Site.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}"/>
   {{ $ogimage := trim (index (split (partial "thumbnail.html" .) "|") 1) "\n" | absURL }}
   <meta property="og:image" content="{{ $ogimage }}">
-  <meta property="twitter:image" content="{{ $ogimage }}">
+  <meta name="twitter:image" content="{{ $ogimage }}" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@matsuoshi" />
+  <meta name="twitter:title" content="{{ .Title }}{{ if not .IsHome }} | {{ .Site.Title }}{{ end }}" />
   <link rel="canonical" href="{{ .Permalink }}">
   {{ template "_internal/google_analytics.html" . }}
 </head>

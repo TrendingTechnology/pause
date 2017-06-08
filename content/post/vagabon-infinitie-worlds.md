@@ -5,7 +5,7 @@ tags = [
   "music","indie"
 ]
 draft = false
-
+youtube = "zTo_Dsa8ijM"
 +++
 
 たまたま知った Vagabon の Infinite Worlds というアルバムがなかなかよいです。

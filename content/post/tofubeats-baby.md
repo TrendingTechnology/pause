@@ -5,7 +5,7 @@ tags = [
   "music", "japanese", "electronic"
 ]
 draft = false
-
+youtube = "e_K-8acKFNU"
 +++
 
 tofubeats の 3rdアルバム "FANTASY CLUB" が明日発売。

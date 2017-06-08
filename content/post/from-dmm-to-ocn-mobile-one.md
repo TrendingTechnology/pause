@@ -5,7 +5,7 @@ tags = [
   "mobile","mvno","sim"
 ]
 draft = false
-
+image = "/media/dmm-speed.jpg"
 +++
 
 MVNOいわゆる格安SIMの話です。

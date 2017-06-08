@@ -1,0 +1,14 @@
+<header class="header">
+
+  {{ if not .IsHome}}
+    <h1 class="headerLogo smallLogo"><a href="{{ .Site.BaseURL }}" class="altColor"><img src="/images/favicon.ico" alt="{{ .Site.Title }}"> {{ .Site.Title }}</a></h1>
+  {{ end }}
+
+  <ul class="globalNav_list">
+    <li><a href='{{ .Site.BaseURL }}tags'>Tags</a></li>
+    <li><a href='{{ .Site.BaseURL }}about'>About</a></li>
+    {{ range $key, $val := .Site.Params.Links }}
+      <li><a href="{{ $val }}">{{ $key }}</a></li>
+    {{ end }}
+  </ul>
+</header>

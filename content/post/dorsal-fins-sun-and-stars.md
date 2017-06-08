@@ -3,6 +3,7 @@ title = "Dorsal Fins - Sun & Stars"
 date = "2017-03-30T11:15:15+09:00"
 tags = ["music","indie"]
 draft = false
+image = "https://f4.bcbits.com/img/a0371994661_5.jpg"
 +++
 
 素性もなんにも知らんし、YouTube にもあまり上がってなかったりするけど、この曲 (Sun & Stars) いいですね。

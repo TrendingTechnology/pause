@@ -3,6 +3,7 @@ title = "Rina Sawayama - Cyber Stockholm Syndrome"
 date = "2017-04-02T17:28:28+09:00"
 tags = ["music","r&b","alt r&b"]
 draft = false
+image = "https://i1.sndcdn.com/artworks-000213923574-2uuvfd-t500x500.jpg"
 +++
 
 Rina Sawayama (ロンドン在住の女性シンガー) の新曲がでてた。かっこいいっすね

@@ -1,0 +1,40 @@
+// main width
+.list main {
+  max-width: $layout-main-width;
+  margin: 0 auto;
+}
+
+.post main,
+.tags main,
+.notfound main {
+  max-width: $layout-main-post-width;
+  margin: 0 auto;
+}
+
+
+// small logo
+.smallLogo {
+  font-size: $fz-s;
+  img {
+    height: 1.5em;
+    width: auto;
+    vertical-align: middle;
+    margin-right: 0.2em;
+  }
+}
+
+
+// taglist (tag page)
+.tagList {
+  text-align: center;
+
+  .tagList_item {
+    font-size: $fz-l;
+    display: inline-block;
+    margin: 0 2em 2em 0;
+
+    small {
+      font-size: $fz-xs;
+    }
+  }
+}

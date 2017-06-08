@@ -1,0 +1,17 @@
+<section class="recentPosts">
+  <h4 class="recentPosts_header">Recent Posts</h4>
+  <ul>
+    {{ range first 4 (where .Site.Pages "Params.hidden" "ne" "true") }}
+      {{ $url := replace .Permalink .Site.BaseURL "" }}
+      {{ if and (ne $url "about/") }}
+        <li class="recentPosts_item">
+          <a href="{{ .Permalink }}" class="altColor">
+            <div class="postThumbnail" style="background-image:url({{ trim (index (split (partial "thumbnail.html" .) "|") 0) "\n" | relURL }})"></div>
+            <h2 class="postTitle">{{ .Title }}</h2>
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2 2006" }}</time>
+          </a>
+        </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</section>

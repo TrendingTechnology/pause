@@ -5,7 +5,7 @@ tags = [
   "music", "indie"
 ]
 draft = false
-
+youtube = "yK07Ox4bxEo"
 +++
 
 イスラエル・テルアビブのミュージシャン、totemo

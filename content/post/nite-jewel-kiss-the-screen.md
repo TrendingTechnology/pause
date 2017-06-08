@@ -3,6 +3,7 @@ title = "Nite Jewel - Kiss the Screen"
 date = "2017-05-27T17:27:27+09:00"
 tags = ["music","electro","pop","elepop","synth-pop"]
 draft = false
+youtube = "CXLGNsc6PUE"
 +++
 
 EURHYTHMICS かよ！

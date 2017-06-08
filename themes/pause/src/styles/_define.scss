@@ -1,0 +1,45 @@
+// global
+
+// color
+$color: #555;
+$color-light: #bbb;
+$color-dark: #333;
+
+$color-link: #0a9;
+$color-link-hover: #4cb;
+$color-link-alt: #667;
+$color-link-alt-hover: #899;
+
+$color-bg: #fefefe;
+$color-bg-light: #f7f7f7;
+$color-border: #e8e8e8;
+
+
+// font-size
+$fz-3l: 22rem /16;
+$fz-xl: 20rem /16;
+$fz-l:  18rem /16;
+$fz-m:  1rem;
+$fz-s:  14rem /16;
+$fz-xs: 13rem /16;
+
+
+// layout
+$layout-main-width: 1000px;
+$layout-main-post-width: 860px;
+
+
+// media-query
+$breakpoints: (
+  's': 'screen and (min-width: 320px)',
+  'm': 'screen and (min-width: 768px)',
+  'sm': 'screen and (max-width: 767px)',
+  'monly': 'screen and (min-width: 768px) and (max-width:999px)',
+  'l': 'screen and (min-width: 1000px)',
+) !default;
+
+@mixin mq($breakpoint: m) {
+  @media #{map-get($breakpoints, $breakpoint)} {
+    @content;
+  }
+}

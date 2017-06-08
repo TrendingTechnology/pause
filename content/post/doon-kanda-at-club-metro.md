@@ -3,6 +3,7 @@ title = "doon kanda (jesse kanda) のイベントに行ってきた"
 date = "2017-06-02T10:00:00+09:00"
 tags = ["music","dj","event"]
 draft = false
+image = "https://scontent.cdninstagram.com/t51.2885-15/e35/18812370_1792482691067329_3579490860485574656_n.jpg"
 +++
 
 arca や FKA Twigs のアートワークなどで知られる jesse kanda の、doon kanda 名義での DJイベントに行ってきた。2017.06.01 @ 京都メトロ

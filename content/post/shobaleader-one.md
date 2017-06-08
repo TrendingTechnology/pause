@@ -6,7 +6,7 @@ tags = [
 ]
 draft = false
 image = ""
-
+youtube = "kX9QE6OBvoY"
 +++
 
 Squarepusher の曲を生演奏でやってしまっているという超絶バンド

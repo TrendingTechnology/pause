@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+{{ partial "header.html" . }}
+
+<body class="post">
+<div class="wrapper">
+  {{ partial "nav.html" . }}
+
+  <main>
+    <article>
+      <header class="postHeader">
+        <h1 class="postTitle">{{ .Title }}</h1>
+        <div class="postMeta">
+          <time class="postTime" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006 15:04" }}</time>
+          {{ partial "tags.html" . }}
+        </div>
+      </header>
+
+      <div class="postContent">
+        {{ .Content }}
+      </div>
+    </article>
+  </main>
+</div>
+
+  {{ partial "footer.html" . }}
+</body>
+</html>

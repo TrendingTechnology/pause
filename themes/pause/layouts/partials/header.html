@@ -1,0 +1,19 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{ if .IsHome }}
+  <meta name="description" content="{{ .Site.Params.description }}">
+  {{ end }}
+  {{ .Hugo.Generator }}
+  <title>{{ .Title }}{{ if not .IsHome }} | {{ .Site.Title }}{{ end }}</title>
+  <link rel="shortcut icon" href="{{ .Site.BaseURL }}/images/favicon.ico">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/styles.css">
+  <link href="{{ .Site.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}"/>
+  {{ $ogimage := trim (index (split (partial "thumbnail.html" .) "|") 1) "\n" | absURL }}
+  <meta property="og:image" content="{{ $ogimage }}">
+  <meta property="twitter:image" content="{{ $ogimage }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ template "_internal/google_analytics.html" . }}
+</head>

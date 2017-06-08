@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+{{ partial "header.html" . }}
+
+<body class="tags">
+<div class="wrapper">
+  {{ partial "nav.html" . }}
+
+  <main>
+    <article>
+      <header class="postHeader">
+        <h1 class="postTitle">{{ .Title }}</h1>
+      </header>
+
+      <ul class="tagList">
+        {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+        <li class="tagList_item" data-count="{{ len $taxonomy }}">
+          <a href="/tags/{{ $name | urlize }}">{{ $name }} <small>({{ len $taxonomy }})</small></a>
+        </li>
+        {{ end }}
+      </ul>
+    </article>
+  </main>
+</div>
+
+  {{ partial "footer.html" . }}
+</body>
+</html>

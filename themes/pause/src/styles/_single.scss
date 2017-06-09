@@ -2,30 +2,32 @@
 
 // title
 .post {
-  .postTitle {
-    font-size: 24px;
-    color: $color-dark;
-    margin: 0;
+  .postHeader {
+    .postTitle {
+      font-size: 24px;
+      color: $color-dark;
+      margin: 0;
 
-    @include mq(ml) {
-      font-size: 32px;
-    }
-  }
-
-  .postMeta {
-    color: $color-light;
-    font-size: 13px;
-
-    .postTime {
-      display: block;
-      margin: 1.5em 0 1em 0;
+      @include mq(ml) {
+        font-size: 32px;
+      }
     }
 
-    .tags li {
-      display: inline;
-      list-style: none;
-      &:not(:last-child) a:after {
-        content: ',';
+    .postMeta {
+      color: $color-light;
+      font-size: 13px;
+
+      .postTime {
+        display: block;
+        margin: 1.5em 0 1em 0;
+      }
+
+      .tags li {
+        display: inline;
+        list-style: none;
+        &:not(:last-child) a:after {
+          content: ',';
+        }
       }
     }
   }
@@ -39,6 +41,7 @@
   h1, h2, h3, h4, h5, h6 {
     margin: 2em 0 1em;
     line-height: 1.6;
+    font-weight: 600;
   }
   h1 + h2,
   h2 + h3,
@@ -49,14 +52,30 @@
   }
 
   h1 {
-    font-size: 26px;
+    font-size: $fz-4l;
   }
   h2 {
-    font-size: 23px;
+    font-size: $fz-3l;
+  }
+  h3 {
+    font-size: $fz-xl;
+  }
+  h4 {
+    font-size: $fz-l;
+  }
+  h5 {
+    font-size: $fz-m;
+  }
+  h6 {
+    font-size: $fz-m;
+    font-weight: 300;
   }
 
+  a {
+    word-break: break-all;
+  }
 
-  & code {
+  code {
     display: inline-block;
     font-size: 14px;
     font-family: menlo, monaco, monospace;
@@ -65,26 +84,26 @@
     border-radius: 3px;
   }
 
-  & pre code {
+  pre code {
     display: block;
     width: 100%;
     padding: 10px;
   }
 
-  & blockquote {
+  blockquote {
     padding: .8em 20px;
     margin: 1.5em 0;
     border-left: 5px solid $color-border;
 
-    & > :first-child {
+    > :first-child {
       margin-top: 0;
     }
-    & > :last-child {
+    > :last-child {
       margin-bottom: 0;
     }
   }
 
-  & :matches(ul, ol) {
+  ul, ol {
     padding-left: 25px;
 
     @include mq(ml) {
@@ -92,58 +111,72 @@
     }
   }
 
-  & li {
+  li {
     margin: 5px 0;
   }
 
-  & img {
+  ol > li {
+    list-style: decimal;
+  }
+  ul > li {
+    list-style: disc;
+  }
+  ul ul > li {
+    list-style: circle;
+  }
+  ul ul ul > li {
+    list-style: square;
+  }
+
+  img {
     border-radius: 3px;
     margin: 1em 0;
   }
 
-  & iframe {
+  iframe {
     margin: 1em auto;
   }
 
-  & figure > img {
+  figure > img {
     display: block;
     margin: 1em auto;
   }
 
-  & table {
+  table {
     width: 100%;
     font-size: 13px;
     border-top: 1px solid $color-border;
     margin: 20px 0;
+    font-size: $fz-m;
   }
-  & tr {
+  tr {
     border-bottom: 1px solid $color-border;
   }
-  & table tr:nth-child(odd) > td {
+  table tr:nth-child(odd) > td {
     background-color: $color-bg-light;
   }
-  & :matches(td, th) {
+  th, td {
     padding: 10px 1em;
   }
-  & th {
+  th {
     font-weight: bold;
   }
-  & td {
+  td {
   }
 
-  & iframe {
+  iframe {
     margin: 20px 0;
   }
 
-  & .embed {
+  .embed {
     width: 100%;
     margin: 20px auto 80px;
   }
-  & .aspect16-9 {
+  .aspect16-9 {
     position: relative;
     padding: 56.25% 0 0 0;
   }
-  & .aspect16-9 iframe {
+  .aspect16-9 iframe {
     position: absolute;
     top: 0;
     left: 0;

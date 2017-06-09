@@ -22,7 +22,17 @@
 
 
   <main>
-    {{ partial "post-list.html" . }}
+    <ul class="postList">
+      {{ $paginator := .Paginate (where .Data.Pages "Section" "in" "post link") }}
+
+      {{ range $paginator.Pages }}
+        {{ $url := replace .Permalink .Site.BaseURL "" }}
+        {{ if and (ne $url "about/") }}
+          {{ partial "post-card.html" . }}
+        {{ end }}
+      {{ end }}
+    </ul>
+
     {{ partial "pagination.html" . }}
   </main>
 </div>

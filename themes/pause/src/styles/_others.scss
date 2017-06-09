@@ -1,3 +1,5 @@
+// others
+
 // main width
 .list main {
   max-width: $layout-main-width;
@@ -20,6 +22,100 @@
     width: auto;
     vertical-align: middle;
     margin-right: 0.2em;
+  }
+}
+
+
+// postcard
+.postCard {
+  overflow: hidden;
+
+  .postTitle {
+    margin: 0.3em 0;
+    font-size: $fz-l;
+    font-weight: 300;
+
+    @include mq(l) {
+      font-size: $fz-xl;
+    }
+  }
+
+  .postMeta {
+    font-size: $fz-xs;
+  }
+
+  // tags
+  .tags {
+    display: none;
+    @include mq(l) {
+      display: block;
+      margin-top: 0.4em;
+
+      .tag {
+        display: inline-block;
+        &:not(:last-child) a:after {
+          content: ', ';
+        }
+      }
+    }
+  }
+}
+
+
+// postcard thumbnail
+.postThumbnail {
+  width: 100%;
+  height: 0;
+  padding-bottom: percentage(180/320);
+  background-size: cover;
+  background-position: center;
+}
+
+a:hover .postThumbnail {
+  animation: postThumbnailHover .3s;
+}
+
+@keyframes postThumbnailHover {
+  33% {filter: blur(3px) brightness(120%); }
+}
+
+
+// recent posts
+.recentPosts {
+  overflow: hidden;
+  margin-bottom: 60px;
+  text-align: left;
+
+  .recentPosts_header {
+    font-size: $fz-xl;
+    text-align: center;
+  }
+
+  .postCard {
+    margin-bottom: 30px;
+
+    float: left;
+    width: calc((100% - 40px) / 2);
+    margin-left: 20px;
+
+    @include mq(sm) {
+      &:nth-child(2n+1) {
+        clear: left;
+        margin-left: 0;
+      }
+    }
+
+    @include mq(l) {
+      width: calc((100% - 60px) / 4);
+      &:nth-child(4n+1) {
+        clear: left;
+        margin-left: 0;
+      }
+    }
+
+    .postTitle {
+      font-size: $fz-l;
+    }
   }
 }
 

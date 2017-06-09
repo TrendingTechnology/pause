@@ -1,10 +1,5 @@
 // single
 
-.postHeader {
-  text-align: center;
-  margin: 130px 0;
-}
-
 // title
 .post {
   .postTitle {
@@ -12,7 +7,7 @@
     color: $color-dark;
     margin: 0;
 
-    @include mq(m) {
+    @include mq(ml) {
       font-size: 32px;
     }
   }
@@ -92,7 +87,7 @@
   & :matches(ul, ol) {
     padding-left: 25px;
 
-    @include mq(m) {
+    @include mq(ml) {
       padding-left: 40px;
     }
   }

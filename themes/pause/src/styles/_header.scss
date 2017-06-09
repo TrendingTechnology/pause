@@ -29,14 +29,26 @@
 
 
 .hero {
-  margin: 130px 0 150px 0;
   text-align: center;
   font-size: $fz-xl;
   font-weight: normal;
+  padding-bottom: 20px;
 
   .hero_image {
     width: 80px;
     display: block;
     margin: 0 auto 20px;
+  }
+}
+
+.postHeader {
+  text-align: center;
+}
+
+.hero, .postHeader {
+  margin: 100px 0;
+
+  @include mq(ml) {
+    margin: 130px 0;
   }
 }

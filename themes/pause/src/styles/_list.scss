@@ -4,12 +4,13 @@
 
   // grid
   .postList_item {
-    margin-bottom: 60px;
+    overflow: hidden;
+    margin-bottom: 40px;
 
-    @include mq(monly) {
+    @include mq(m) {
       float: left;
       width: calc((100% - 30px) / 2);
-      margin-left: 30px;
+      margin-left: 20px;
 
       &:nth-child(2n+1) {
         clear: left;
@@ -20,6 +21,7 @@
       float: left;
       width: calc((100% - 60px) / 3);
       margin-left: 30px;
+      margin-bottom: 60px;
 
       &:nth-child(3n+1) {
         clear: left;
@@ -33,8 +35,12 @@
   }
 
   .postTitle {
-    font-size: $fz-xl;
     margin: 0.3em 0;
+    font-size: $fz-l;
+    
+    @include mq(l) {
+      font-size: $fz-xl;
+    }
   }
 
   .postMeta {

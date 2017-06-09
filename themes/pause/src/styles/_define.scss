@@ -31,11 +31,11 @@ $layout-main-post-width: 860px;
 
 // media-query
 $breakpoints: (
-  's': 'screen and (min-width: 320px)',
-  'm': 'screen and (min-width: 768px)',
-  'sm': 'screen and (max-width: 767px)',
-  'monly': 'screen and (min-width: 768px) and (max-width:999px)',
-  'l': 'screen and (min-width: 1000px)',
+  's': 'screen and (max-width: 400px)',
+  'm': 'screen and (min-width: 401px) and (max-width: 800px)',
+  'l': 'screen and (min-width: 801px)',
+  'sm': 'screen and (max-width: 800px)',
+  'ml': 'screen and (min-width: 401px)',
 ) !default;
 
 @mixin mq($breakpoint: m) {

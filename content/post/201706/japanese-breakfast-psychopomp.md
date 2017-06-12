@@ -3,7 +3,7 @@ title = "Japanese Breakfast - Psychopomp"
 date = "2017-06-08T18:18:18+09:00"
 tags = ["music","indie","indie pop", "dreampop"]
 draft = false
-youtube = "vxnPxJ1jUxc"
+amazon = "B01H4EVS8W"
 +++
 
 ジャパニーズ・ブレイクファスト。  

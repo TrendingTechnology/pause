@@ -5,7 +5,7 @@ tags = [
   "mobile","mvno","sim"
 ]
 draft = false
-image = "/media/dmm-speed.jpg"
+image = "/media/201703/dmm-speed.jpg"
 +++
 
 [DMM mobile](http://mvno.dmm.com/) の SIM を購入したのですが、速度制限がヤバい。悪い意味で。つらい。
@@ -14,7 +14,7 @@ image = "/media/dmm-speed.jpg"
 
 おおー
 
-![](/media/dmm-speed.jpg)
+![](/media/201703/dmm-speed.jpg)
 
 5kbps...  
 低速時 200kbps の、さらに40分の1に制限...

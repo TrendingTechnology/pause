@@ -3,7 +3,7 @@ title = "PHP BLT #6 @ メルカリさん に参加してきました #phpblt"
 date = "2017-02-25T12:12:12+09:00"
 tags = ["php", "study"]
 draft = false
-image = "/media/phpblt-6-00.jpg"
+image = "/media/201702/phpblt-6-00.jpg"
 +++
 
 東京出張とタイミングがあったので、メルカリさんのオフィスにて行われた勉強会 PHP BLT #6 に参加してきました。
@@ -11,28 +11,28 @@ image = "/media/phpblt-6-00.jpg"
 > 2016-02-22 @ メルカリ (六本木ヒルズ)  
 > https://phpblt.connpass.com/event/49458/
 
-![](/media/phpblt-6-00.jpg)
+![](/media/201702/phpblt-6-00.jpg)
 
 PHP BLT は、2時間ほどの間に20人がLTをするという、かなりライトニングな勉強会。多くの人(ふだん発表をあまりしない人を含む) に話す機会を持ってもらいたい、というコンセプトがあるそうです。
 
 参加者の半数がLTをされるのですが、私は「ブログを書く枠」というので参加。ということで書くでー。
 
-![](/media/phpblt-6-01.jpg)
+![](/media/201702/phpblt-6-01.jpg)
 
 ギロッポンのズーヒル。ちょうおしゃれなオフィス。
 
 ゆったり広々、ぜいたくな空間であります。
 
-![](/media/phpblt-6-02.jpg)
+![](/media/201702/phpblt-6-02.jpg)
 
 軽食もドリンクもあり。ちょうおしゃれ。ちょううまかった。  
 ステッカーもいただけました。
 
-![](/media/phpblt-6-03.jpg)
+![](/media/201702/phpblt-6-03.jpg)
 
 内容は普段から [PHP の Slack](http://www.msng.info/archives/2016/02/phpusers-ja-on-slack.php) や Qiita などで拝見している著名な方の発表あり、初発表の方のLTあり、などなどバラエティに富んだもの。それにしても非常にスムーズな進行で、19本の発表があっという間に感じました。
 
-![](/media/phpblt-6-04.jpg)
+![](/media/201702/phpblt-6-04.jpg)
 
 気になった発表はたくさんあったのですが、5つ挙げるとするなら
 

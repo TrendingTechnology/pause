@@ -1,6 +1,6 @@
 <section class="recentPosts">
   <h4 class="recentPosts_header">Recent Posts</h4>
-  <ul>
+  <ul class="recentPostsList">
     {{ range first 4 (where .Site.Pages "Params.hidden" "ne" "true") }}
       {{ $url := replace .Permalink .Site.BaseURL "" }}
       {{ if and (ne $url "about/") }}

@@ -20,6 +20,10 @@ ogpimage = "/images/thumbnail.png"
 newerPosts = "< newer"
 olderPosts = "older >"
 
+
+[params.links]
+Playlists = "/tags/playlist/"
+
 [social]
 facebook-square = "https://facebook.com/matsuoshi"
 twitter-square = "https://twitter.com/matsuoshi"

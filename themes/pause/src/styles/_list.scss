@@ -37,6 +37,17 @@
   display: flex;
   justify-content: space-between;
 
+  .paginator_prev:before {
+    font-family: FontAwesome;
+    content: "\f104";
+    margin-right: .5em;
+  }
+  .paginator_next:after {
+    font-family: FontAwesome;
+    content: "\f105";
+    margin-left: .5em;
+  }
+
   .paginator_next:nth-of-type(1) {
     text-align: right;
     width: 100%;

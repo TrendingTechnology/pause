@@ -17,8 +17,8 @@ post = "/post/:year:month/:filename/"
 [params]
 description = "pause.cf"
 ogpimage = "/images/thumbnail.png"
-newerPosts = "< newer"
-olderPosts = "older >"
+newerPosts = "newer"
+olderPosts = "older"
 
 
 [params.links]

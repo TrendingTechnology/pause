@@ -11,3 +11,7 @@ EURHYTHMICS かよ！
 って思った、レトロなエレポップ、シンセポップ、女性ボーカルもの
 
 {{<youtube CXLGNsc6PUE>}}
+
+アルバム Liquid Cool 収録
+
+{{<amazon B01F1IX4LM>}}

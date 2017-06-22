@@ -16,7 +16,7 @@ Spotify の有料プラン、[Spotify Premium](https://www.spotify.com/jp/intro/
 
 ついでに、ではないけど、このブログに過去に載せた曲をまとめて、Spotify上にプレイリストを1つ作ってみました。
 
-https://open.spotify.com/user/pdp2600/playlist/34HWBDFVkdp4zz9JDKzbWl
+https://open.spotify.com/user/matsuoshi/playlist/2X8Od330iUxnxfwRgcqhMG
 
 <iframe src="https://open.spotify.com/embed/user/matsuoshi/playlist/2X8Od330iUxnxfwRgcqhMG" width="100%" height="400" frameborder="0" allowtransparency="true"></iframe>
 

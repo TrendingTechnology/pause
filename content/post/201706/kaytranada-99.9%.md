@@ -1,7 +1,7 @@
 +++
 title = "Kaytranada - 99.9%"
 date = "2017-06-21T13:13:13+09:00"
-tags = ["music","electronic","hip-hop","R&B"]
+tags = ["music","electronic","hip-hop","r&b"]
 draft = false
 amazon = "B01D9DBVFM"
 +++

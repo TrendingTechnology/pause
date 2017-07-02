@@ -9,7 +9,7 @@ amazon = "B00005CDUY"
 
 author: [@matsuoshi](https://facebook.com/matsuoshi)
 
-静的サイトジェネレータでブログを作ってみたい、というほんの出来心から成り立つサイトです。hugo と GitHub と Netlify と freenom で作っています。2017年2月スタート。
+静的サイトジェネレータでブログを作ってみたい、というほんの出来心から成り立つサイトです。[Hugo](https://gohugo.io/) と GitHub と [Netlify](https://www.netlify.com/) と [freenom](http://www.freenom.com/) で作っています。2017年2月スタート。
 
 顛末はこちらの記事に。
 

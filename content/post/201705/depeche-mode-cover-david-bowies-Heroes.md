@@ -5,7 +5,7 @@ tags = [
   "music","rock"
 ]
 draft = false
-youtube = "I1b_kuYWiZo"
+image = "http://www.electronicbeats.net/app/uploads/2017/02/Depeche-Mode-1200x675.jpg"
 +++
 
 タイトルそのまんまです。

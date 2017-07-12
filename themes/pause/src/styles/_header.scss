@@ -8,7 +8,7 @@
   position: sticky;
   z-index: 1000;
   top: 0;
-  background-color: rgba($color-bg, .95);
+  background: linear-gradient(to bottom, rgba($color-bg, 1), rgba($color-bg, .95) 66%, rgba($color-bg, 0.8));
   text-align: right;
   padding: 1em 2em;
   margin-top: 1em;

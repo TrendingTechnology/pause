@@ -11,10 +11,14 @@ image = "https://images-fe.ssl-images-amazon.com/images/I/510OrcEV9JL._SS500.jpg
 
 {{<youtube 175HclysxbE>}}
 
-ボーカルの感じもいいなー。ディープ・ハウスっぽくもあり、フワっと気持ちいい。
+ボーカルの感じもいいなー。ディープ・ハウスっぽくもあり、フワっと気持ちいい。ポップだし。
 
 {{<youtube -s-UVW4x2YE>}}
 
 2017年のアルバム "Yaeji" より
 
 <iframe src="https://open.spotify.com/embed/album/0YO6XyVs6lvPeknLqOfWZY" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+こちらは 2017/7月リリースの新曲 "Therapy"
+
+{{<youtube eRV1Dzqj1gU>}}

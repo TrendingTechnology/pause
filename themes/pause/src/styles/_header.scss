@@ -33,8 +33,10 @@
   font-size: $fz-xl;
   padding-bottom: 20px;
 
-  .hero_image {
+  .hero_title {
+    display: block;
     width: 80px;
+    margin: 0 auto;
   }
 
   p {

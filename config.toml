@@ -15,7 +15,7 @@ post = "/post/:year:month/:filename/"
 
 
 [params]
-description = "pause.cf"
+description = "pause.cf | 音楽などのメモブログ"
 ogpimage = "/images/thumbnail.png"
 newerPosts = "newer"
 olderPosts = "older"

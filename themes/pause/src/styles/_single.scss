@@ -144,10 +144,10 @@
 
   table {
     width: 100%;
-    font-size: 13px;
-    border-top: 1px solid $color-border;
-    margin: 20px 0;
     font-size: $fz-m;
+    border-top: 1px solid $color-border;
+    border-bottom: 1px solid $color-border;
+    margin: 20px 0;
   }
   tr {
     border-bottom: 1px solid $color-border;
@@ -165,23 +165,29 @@
   }
 
   iframe {
-    margin: 20px 0;
+    margin: 30px 0;
   }
 
   .embed {
     width: 100%;
-    margin: 20px auto 80px;
+    margin: 50px auto;
+
+    iframe, img {
+      margin: 0;
+    }
   }
+
   .aspect16-9 {
     position: relative;
     padding: 56.25% 0 0 0;
-  }
-  .aspect16-9 iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
   }
 }
 

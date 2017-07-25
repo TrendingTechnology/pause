@@ -94,6 +94,20 @@ function foo(bar) {
 
 https://www.example.com/exampleaddressexampleaddressexampleaddressexampleaddressexampleaddressexampleaddressexampleaddressexampleaddressexampleaddress
 
+YouTube 埋め込み
+
+{{<youtube N9XKLqGqwLA>}}
+
+Amazon ジャケット画像埋め込み
+
+{{<amazon B072841PRP>}}
+
+Spotify プレイリスト
+
+{{<spotify "user/matsuoshi/playlist/2X8Od330iUxnxfwRgcqhMG" >}}
+
+テキストテキスト。
+
 # 連続した h1 見出し
 ## 連続した h2 見出し
 ### 連続した h3 見出し

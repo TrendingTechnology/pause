@@ -10,11 +10,11 @@ amazon = "B01D9DBVFM"
 
 曲によってさまざまな人をフィーチャリングしている、ヒップホップ・R&B系プロデューサーですが、この feat. Little Dragon の曲いいですね
 
-<iframe src="https://open.spotify.com/embed/track/3Il1ess0dinvEagLM3dTzG" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
+{{<spotify "track/3Il1ess0dinvEagLM3dTzG" >}}
 
 あと feat. AlunaGeorge とか
 
-<iframe src="https://open.spotify.com/embed/track/0EM0yABJzbFOvZQkfvuvCy" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
+{{<spotify "track/0EM0yABJzbFOvZQkfvuvCy" >}}
 
 アルバムはこちら、"99.9%"
 

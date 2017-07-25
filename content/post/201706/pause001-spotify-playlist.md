@@ -18,6 +18,6 @@ Spotify の有料プラン、[Spotify Premium](https://www.spotify.com/jp/intro/
 
 https://open.spotify.com/user/matsuoshi/playlist/2X8Od330iUxnxfwRgcqhMG
 
-<iframe src="https://open.spotify.com/embed/user/matsuoshi/playlist/2X8Od330iUxnxfwRgcqhMG" width="100%" height="400" frameborder="0" allowtransparency="true"></iframe>
+{{<spotify "user/matsuoshi/playlist/2X8Od330iUxnxfwRgcqhMG" >}}
 
 15曲・1時間です。ジャンルに統一感全然ないので、てきとうにシャッフルプレイとかで聴いていただければと思います。

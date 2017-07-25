@@ -17,7 +17,7 @@ image = "https://images-fe.ssl-images-amazon.com/images/I/510OrcEV9JL._SS500.jpg
 
 2017年のアルバム "Yaeji" より
 
-<iframe src="https://open.spotify.com/embed/album/0YO6XyVs6lvPeknLqOfWZY" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
+{{<spotify "album/0YO6XyVs6lvPeknLqOfWZY" >}}
 
 こちらは 2017/7月リリースの新曲 "Therapy"
 

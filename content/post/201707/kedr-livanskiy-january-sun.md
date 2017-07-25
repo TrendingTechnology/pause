@@ -18,4 +18,4 @@ description = "ケダル・リヴァンスキ。ロシアの女性テクノ・�
 
 アルバム January Sun 収録。
 
-<iframe src="https://open.spotify.com/embed/album/3C9MtvQgofxsmGqq2z9Ff4" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
+{{<spotify "album/3C9MtvQgofxsmGqq2z9Ff4" >}}

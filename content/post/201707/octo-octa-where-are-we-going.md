@@ -14,9 +14,9 @@ youtube = "8T4ogb-eWoY"
 
 {{<youtube MM4ssluYUtc>}}
 
-ナイスなディープハウスです。
+ナイスなディープ・ハウス・アルバムです。
 
-<iframe src="https://open.spotify.com/embed/album/2T9iECGffkRNhiKkQU7gLd" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
+{{<spotify "album/2T9iECGffkRNhiKkQU7gLd" >}}
 
 ### DJ Sprinkles - Midtown 120 Blues
 
@@ -24,6 +24,6 @@ youtube = "8T4ogb-eWoY"
 
 {{<amazon B001BMS7WO>}}
 
-これ最高のハウス・アルバムだと思うんですが YouTube にも Spotify にも音源ないですね、[comatonse recordings レーベルのオフィシャルサイト](http://www.comatonse.com/releases/c022.html) で サンプルmp3 が聴けるっぽいです。
+DJ Sprinkles aka Terre Thaemlitz さんによるこちら、これ最高のハウス・アルバムだと思うんですが YouTube にも Spotify にも音源ないですね……。[comatonse recordings レーベルのオフィシャルサイト](http://www.comatonse.com/releases/c022.html) で サンプルmp3 が聴けるっぽいです。
 
 http://www.comatonse.com/soundfiles/m120b/m120b-03.mp3

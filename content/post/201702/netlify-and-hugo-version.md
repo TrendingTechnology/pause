@@ -6,6 +6,18 @@ draft = false
 image = "/media/201702/hugo-netlify-001.png"
 +++
 
+### 【追記】
+
+Netlify の設定画面から環境変数を足すだけで、Hugo のバージョンを変更できるとのこと。詳細はこちら
+
+- [Netlifyで使うHugoのバージョンを設定する - Qiita](http://qiita.com/httpd443/items/36291b286c72fccea47c)
+- [Netlify 上で使う Hugo のバージョンを指定する | pause](https://pause.cf/post/201707/set-hugo-version-on-netlify/)
+- [Netlify Plus Hugo 0.20 and Beyond | Netlify](https://www.netlify.com/blog/2017/04/11/netlify-plus-hugo-0.20-and-beyond/)
+
+_(追記ここまで)_
+
+---
+
 どうも Netlify の Hugo は、バージョンが現在最新の v0.18 ではないっぽい(2017年2月時点)。
 こんな感じで Netlify の設定のビルドコマンド指定部分に `hugo version` を足しておけば、
 

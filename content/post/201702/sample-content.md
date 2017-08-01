@@ -94,6 +94,20 @@ function foo(bar) {
 
 https://www.example.com/exampleaddressexampleaddressexampleaddressexampleaddressexampleaddressexampleaddressexampleaddressexampleaddressexampleaddress
 
+##### shortcode
+
+figure (タイトルなし)
+
+{{<figure src="//placehold.it/200x200/117FE8/fff" >}}
+
+figure (タイトルなし, リンクあり)
+
+{{<figure src="//placehold.it/200x200/117FE8/fff" link="//example.com" >}}
+
+figure (タイトル, リンクあり)
+
+{{<figure src="//placehold.it/200x200/117FE8/fff" link="//example.com" title="タイトルです" >}}
+
 YouTube 埋め込み
 
 {{<youtube N9XKLqGqwLA>}}

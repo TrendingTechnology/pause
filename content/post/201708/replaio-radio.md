@@ -42,3 +42,7 @@ image = "/media/201708/replaio.png"
 というわけで、今のところ文句なし。興味ある方はぜひお試しください。
 
 {{< figure link="https://play.google.com/store/apps/details?id=com.hv.replaio&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" >}}
+
+#### 追記
+
+気に入ったので ¥240 の pro版購入しました(広告が非表示になる)。

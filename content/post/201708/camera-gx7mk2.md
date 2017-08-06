@@ -33,3 +33,6 @@ OM-D, ルックスも名前もかっこいいんだけどなー。だって [OMD
 {{<youtube EPmTGFg06zA>}}
 
 あとは撮りまくる。4年ぶりに flickr も更新。
+
+{{<figure src="https://farm5.staticflickr.com/4419/36248879842_49cb12abc1_z.jpg" >}}
+{{<figure src="https://farm5.staticflickr.com/4436/36020591420_1e5950077b_z.jpg" >}}

@@ -1,5 +1,5 @@
 +++
-title = "DJコントローラ Reloop MIXTOUR を買いました"
+title = "DJコントローラ Reloop MIXTOUR を買った"
 date = "2017-08-13T10:12:12+09:00"
 tags = ["music","dj","hardware"]
 draft = false

@@ -10,25 +10,76 @@
   top: 0;
   background: linear-gradient(to bottom, $color-bg, rgba($color-bg, .95) 55%, rgba($color-bg, .85) 80%, rgba($color-bg, 0.7));
   text-align: right;
-  padding: 1em 2em;
+  padding: 1em;
   margin-top: 1em;
   font-size: $fz-s;
 
   li {
     display: inline-block;
-    margin-left: 2em;
+    &:not(:first-child) {
+      margin-left: 1em;
+    }
   }
 }
 
 
 .headerLogo {
   position: absolute;
-  top: 11px;
+  top: 12px;
   left: 16px;
 
   font-weight: 300;
   letter-spacing: -.6px;
   line-height: 1.4;
+}
+
+
+.sideMenu {
+  position: relative;
+
+  .sideMenu_button {
+    cursor: pointer;
+    display: inline-block;
+    padding: 0 10px;
+  }
+  #sideMenu_checkbox {
+    display: none;
+  }
+  .sideMenu_body {
+    display: block;
+    position: absolute;
+    right: -7px;
+    top: 30px;
+    height: 0;
+    overflow: hidden;
+
+    background-color: rgba($color-bg, 0.7);
+    border-radius: 0 0 4px 4px;
+    min-width: 166px;
+    transition: height .1s linear;
+
+    form {
+      padding: 5px;
+    }
+  }
+
+  #sideMenu_checkbox:checked ~ .sideMenu_body {
+    height: 33px;
+  }
+
+  .search_input {
+    width: 120px;
+    font-size: 14px;
+    border: 1px solid $color-border;
+    border-radius: 2px;
+    padding: 2px;
+  }
+  .search_button {
+    font-size: 14px;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
 }
 
 

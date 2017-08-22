@@ -49,7 +49,7 @@
     display: block;
     position: absolute;
     right: -7px;
-    top: 30px;
+    top: calc(2em + 2px);
     height: 0;
     overflow: hidden;
 
@@ -69,13 +69,13 @@
 
   .search_input {
     width: 120px;
-    font-size: 14px;
+    font-size: inherit;
     border: 1px solid $color-border;
     border-radius: 2px;
     padding: 2px;
   }
   .search_button {
-    font-size: 14px;
+    font-size: inherit;
     background: none;
     border: none;
     cursor: pointer;

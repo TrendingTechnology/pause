@@ -122,6 +122,14 @@ Spotify プレイリスト
 
 テキストテキスト。
 
+##### その他
+
+ツイート埋め込み
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">同時再生してみた <a href="https://t.co/Wuq7FlCw1G">https://t.co/Wuq7FlCw1G</a></p>&mdash; matsuoshi (@matsuoshi) <a href="https://twitter.com/matsuoshi/status/878256643749720066">2017年6月23日</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 # 連続した h1 見出し
 ## 連続した h2 見出し
 ### 連続した h3 見出し

@@ -5,6 +5,7 @@
   .postHeader {
     .postTitle {
       font-size: 24px;
+      font-weight: 300;
       color: $color-dark;
       margin: 0;
 
@@ -16,7 +17,6 @@
     .postMeta {
       color: $color-light;
       font-size: 13px;
-      font-weight: 300;
 
       .postTime {
         display: block;
@@ -38,6 +38,7 @@
 // 投稿本文
 .postContent {
   line-height: 2;
+  font-weight: normal;
 
   h1, h2, h3, h4, h5, h6 {
     margin: 2em 0 1em;
@@ -151,7 +152,7 @@
     padding: 10px 1em;
   }
   th {
-    font-weight: bold;
+    font-weight: 600;
   }
   td {
   }
@@ -166,7 +167,7 @@
 
     figcaption h4 {
       font-size: 95%;
-      font-weight: normal;
+      font-weight: 300;
       text-align: center;
       margin: 1em 0;
     }

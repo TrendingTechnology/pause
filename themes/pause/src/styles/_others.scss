@@ -17,7 +17,6 @@
 // small logo
 .smallLogo {
   font-size: $fz-s;
-  font-weight: 300;
   letter-spacing: -.6px;
 
   img {
@@ -45,7 +44,6 @@
 
   .postMeta {
     font-size: $fz-xs;
-    font-weight: 300;
   }
 
   // tags
@@ -95,6 +93,7 @@ a:hover .postThumbnail {
 
   .recentPosts_header {
     font-size: $fz-xl;
+    font-weight: 300;
   }
 
   .postCard {
@@ -122,6 +121,7 @@ a:hover .postThumbnail {
 
     .postTitle {
       font-size: $fz-l;
+      font-weight: 300;
     }
   }
 }

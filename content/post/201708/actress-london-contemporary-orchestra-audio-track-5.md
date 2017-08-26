@@ -19,4 +19,4 @@ Actress と London Contemporary Orchestra によるコラボレーション・�
 
 ![](https://www.residentadvisor.net/images/reviews/2016/tdm_3841-actress-lco-barbican-credit-tom-d-morgan-web.jpg)
 
-> https://www.residentadvisor.net/reviews/18586
+> [RA Reviews: Actress and the London Contemporary Orchestra in London at Barbican Centre, The (Event)](https://www.residentadvisor.net/reviews/18586)

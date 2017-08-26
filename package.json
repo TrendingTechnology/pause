@@ -13,7 +13,7 @@
     "webpack": "^2.6.1"
   },
   "scripts": {
-    "start": "npm run watch",
+    "start": "npm run watch & open http://localhost:1313",
     "build": "rm -rf public && npm run build:css && npm run build:js && npm run build:hugo",
     "build:css": "node-sass --output-style compressed --source-map true --include-path node_modules/bourbon-neat/core themes/pause/src/styles/styles.scss themes/pause/static/css/styles.css",
     "build:js": "webpack",

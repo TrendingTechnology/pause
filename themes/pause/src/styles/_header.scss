@@ -5,14 +5,16 @@
 }
 
 .header {
+  position: -webkit-sticky;
   position: sticky;
   z-index: 1000;
   top: 0;
   background: linear-gradient(to bottom, $color-bg, rgba($color-bg, .95) 33%, rgba($color-bg, .9));
   text-align: right;
   padding: 1em;
-  margin-top: 1em;
+  margin-top: .5em;
   font-size: $fz-s;
+  line-height: 1;
 
   li {
     display: inline-block;
@@ -49,7 +51,7 @@
     display: block;
     position: absolute;
     right: -7px;
-    top: calc(2em + 3px);
+    top: 2em;
     height: 0;
     overflow: hidden;
 

@@ -8,31 +8,78 @@
   position: sticky;
   z-index: 1000;
   top: 0;
-  background: linear-gradient(to bottom, $color-bg, rgba($color-bg, .95) 55%, rgba($color-bg, .85) 80%, rgba($color-bg, 0.7));
+  background: linear-gradient(to bottom, $color-bg, rgba($color-bg, .95) 33%, rgba($color-bg, .9));
   text-align: right;
-  font-size: $fz-s;
+  padding: 1em;
   margin-top: 1em;
-  padding: 1em .5rem;
-
-  @include mq(ml) {
-    padding: 1em 2rem;
-  }
+  font-size: $fz-s;
 
   li {
     display: inline-block;
-    margin-left: 2em;
+    &:not(:first-child) {
+      margin-left: 1em;
+    }
   }
 }
 
 
 .headerLogo {
   position: absolute;
-  line-height: 1.4;
   top: 12px;
-  left: .5rem;
+  left: 16px;
 
-  @include mq(ml) {
-    left: 2rem;
+  font-weight: 300;
+  letter-spacing: -.6px;
+  line-height: 1.4;
+}
+
+
+.sideMenu {
+  position: relative;
+
+  .sideMenu_button {
+    cursor: pointer;
+    display: inline-block;
+    padding: 0 10px;
+  }
+  #sideMenu_checkbox {
+    display: none;
+  }
+  .sideMenu_body {
+    display: block;
+    position: absolute;
+    right: -7px;
+    top: calc(2em + 3px);
+    height: 0;
+    overflow: hidden;
+
+    background-color: rgba($color-bg, .9);
+    border-radius: 0 0 4px 4px;
+    min-width: 166px;
+    transition: height .1s linear;
+
+    form {
+      padding: 5px;
+    }
+  }
+
+  #sideMenu_checkbox:checked ~ .sideMenu_body {
+    height: 33px;
+  }
+
+  .search_input {
+    width: 120px;
+    font-size: inherit;
+    border: 1px solid darken($color-border, 10);
+    border-radius: 2px;
+    padding: 2px;
+  }
+  .search_button {
+    color: $color;
+    font-size: inherit;
+    background: none;
+    border: none;
+    cursor: pointer;
   }
 }
 
@@ -40,7 +87,6 @@
 .hero {
   text-align: center;
   font-size: $fz-xl;
-  font-weight: 300;
   padding-bottom: 20px;
 
   .hero_title {
@@ -56,10 +102,6 @@
 
 .postHeader {
   text-align: center;
-
-  .postTitle {
-    font-weight: 300;
-  }
 }
 
 .hero, .postHeader {

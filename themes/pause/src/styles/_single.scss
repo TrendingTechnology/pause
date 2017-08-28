@@ -1,34 +1,32 @@
 // single
 
 // title
-.post {
-  .postHeader {
-    .postTitle {
-      font-size: 24px;
-      font-weight: 300;
-      color: $color-dark;
-      margin: 0;
+.postHeader {
+  .postTitle {
+    font-size: 24px;
+    font-weight: 300;
+    color: $color-dark;
+    margin: 0;
 
-      @include mq(ml) {
-        font-size: 32px;
-      }
+    @include mq(ml) {
+      font-size: 32px;
+    }
+  }
+
+  .postMeta {
+    color: $color-light;
+    font-size: 13px;
+
+    .postTime {
+      display: block;
+      margin: 1.5em 0 1em 0;
     }
 
-    .postMeta {
-      color: $color-light;
-      font-size: 13px;
-
-      .postTime {
-        display: block;
-        margin: 1.5em 0 1em 0;
-      }
-
-      .tags li {
-        display: inline;
-        list-style: none;
-        &:not(:last-child) a:after {
-          content: ',';
-        }
+    .tags li {
+      display: inline;
+      list-style: none;
+      &:not(:last-child) a:after {
+        content: ',';
       }
     }
   }

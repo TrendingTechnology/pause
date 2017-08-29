@@ -1,3 +1,20 @@
-<div class="embed aspect16-9">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ index .Params 0 }}" frameborder="0" allowfullscreen></iframe>
-</div>
+{{ if .IsNamedParams }}
+
+<figure class="embed{{ with .Get "class" }} {{.}}{{ end }}">
+  <div class="aspect16-9">
+    <iframe width="560" height="315" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/{{ .Get "src" }}"></iframe>
+  </div>
+  {{ with .Get "title" }}
+  <figcaption><h4>{{ . }}</h4></figcaption>
+  {{ end }}
+</figure>
+
+{{ else }}
+
+<figure class="embed">
+  <div class="aspect16-9">
+    <iframe width="560" height="315" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/{{ .Get 0 }}"></iframe>
+  </div>
+</figure>
+
+{{ end }}

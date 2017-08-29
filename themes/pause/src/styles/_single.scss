@@ -155,32 +155,27 @@
   td {
   }
 
-  figure {
-    margin: 2em auto;
+  /*
+   * embed
+   */
+  figure,
+  .embed {
+    width: 100%;
+    margin: 60px auto;
 
-    img {
+    iframe, img {
       display: block;
       margin: 0 auto;
     }
+  }
 
+  figure {
+    figcaption h3,
     figcaption h4 {
-      font-size: 95%;
-      font-weight: 300;
+      font-size: 98%;
+      font-weight: 500;
       text-align: center;
       margin: 1em 0;
-    }
-  }
-
-  iframe {
-    margin: 2em 0;
-  }
-
-  .embed {
-    width: 100%;
-    margin: 50px auto;
-
-    iframe, img {
-      margin: 0;
     }
   }
 

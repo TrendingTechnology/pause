@@ -110,11 +110,13 @@ figure (タイトル, リンクあり)
 
 YouTube 埋め込み
 
-{{<youtube N9XKLqGqwLA>}}
+{{<youtube src="N9XKLqGqwLA" title="Grimes - Reality">}}
+{{<youtube gg_OThhfXh0>}}
 
 Amazon ジャケット画像埋め込み
 
-{{<amazon B072841PRP>}}
+{{<amazon asin="B072841PRP" title="James Blake - James Blake">}}
+{{<amazon B01MXERTDF>}}
 
 Spotify プレイリスト
 

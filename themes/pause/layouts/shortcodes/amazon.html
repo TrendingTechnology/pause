@@ -1,3 +1,16 @@
-<figure>
+{{ if .IsNamedParams }}
+
+<figure class="embed amazon{{ with .Get "class" }} {{.}}{{ end }}">
+  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/{{ .Get "asin" }}/udonudon-22/"><img src="https://images-fe.ssl-images-amazon.com/images/P/{{ .Get "asin" }}.09.MAIN._SCLZZZZZZZ_.jpg" alt=""></a>
+  {{ with .Get "title" }}
+  <figcaption><h4>{{ . }}</h4></figcaption>
+  {{ end }}
+</figure>
+
+{{ else }}
+
+<figure class="embed amazon">
   <a href="http://www.amazon.co.jp/exec/obidos/ASIN/{{ index .Params 0 }}/udonudon-22/"><img src="https://images-fe.ssl-images-amazon.com/images/P/{{ index .Params 0 }}.09.MAIN._SCLZZZZZZZ_.jpg" alt=""></a>
 </figure>
+
+{{ end }}

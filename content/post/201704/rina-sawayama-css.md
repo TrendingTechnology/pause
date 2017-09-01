@@ -21,3 +21,8 @@ Rina Sawayama (ロンドン在住の女性シンガー) の新曲がでてた。
 http://rinasawayama.lnk.to/CyberStockholmSyndrome
 
 ↑こんな感じで、気になる1曲をシェアできるっぽいです
+
+---
+
+追記、公式PVきてました
+{{<youtube HKLxvdFtlZE>}}

@@ -11,11 +11,12 @@ author: [@matsuoshi](https://facebook.com/matsuoshi)
 
 静的サイトジェネレータでブログを作ってみたい、というほんの出来心から成り立つサイトです。[Hugo](https://gohugo.io/) と GitHub と [Netlify](https://www.netlify.com/) と [freenom](http://www.freenom.com/) で作っています。2017年2月スタート。
 
-顛末はこちらの記事に。
+中身はほとんどがちょっと気になった音楽のメモで、あとウェブのこととか、サッカーのこととか。ある程度曲数が増えたら [Spotify プレイリストにまとめています](/tags/playlist)。
 
-> [Hugo + Netlify + GitHub でブログを作った](/post/201702/hugo-netlify-github-blog/)
+顛末などはこのへんの記事に。
 
-中身はほとんどがちょっと気になった音楽のメモです。あとウェブのこととか、サッカーのこととか。
+> - [Hugo + Netlify + GitHub でブログを作った](/post/201702/hugo-netlify-github-blog/)  
+> - [ブログ読んでます〜 って言ってもらえると更新しにくくなる問題](/post/201709/blog-daradara/)
 
 タイトルの pause に深い意味はありませんが、[FOUR TET の pause というアルバム](http://www.amazon.co.jp/exec/obidos/ASIN/B00005CDUY/udonudon-22/)のことはちょっと意識しました。
 

@@ -16,7 +16,7 @@ author: [@matsuoshi](https://facebook.com/matsuoshi)
 顛末などはこのへんの記事に。
 
 > - [Hugo + Netlify + GitHub でブログを作った](/post/201702/hugo-netlify-github-blog/)  
-> - [ブログ読んでます〜 って言ってもらえると更新しにくくなる問題](/post/201709/blog-daradara/)
+> - [ブログ読んでます〜 って言ってもらえる機会があったので、あらためて](/post/201709/blog-daradara/)
 
 タイトルの pause に深い意味はありませんが、[FOUR TET の pause というアルバム](http://www.amazon.co.jp/exec/obidos/ASIN/B00005CDUY/udonudon-22/)のことはちょっと意識しました。
 

@@ -1,7 +1,7 @@
 +++
 title = "ブログ読んでます〜 って言ってもらえる機会があったので、あらためて"
 date = "2017-09-07T23:23:23+09:00"
-tags = ["blog"]
+tags = ["blog","about"]
 draft = false
 image = "https://farm5.staticflickr.com/4363/37058900565_feb6e86087_c.jpg"
 +++

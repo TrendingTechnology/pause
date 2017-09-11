@@ -21,7 +21,7 @@ https://soundcloud.com/johnnyjewel/cherry-full-album
 
 {{<youtube src="Mgv88ZLi6LY" title="Chromatics - Running Up That Hill">}}
 
-こちらがシンディ・ローパーのカバー
+こちらがシンディ・ローパーのカバー (大手ブランドのファッションショーの曲だとか)
 
 {{<youtube src="UICDIExJ7WI" title="Chromatics - Girls Just Wanna Have Fun">}}
 

@@ -1,7 +1,9 @@
 {{ if .IsNamedParams }}
 
 <figure class="embed amazon{{ with .Get "class" }} {{.}}{{ end }}">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/{{ .Get "asin" }}/udonudon-22/"><img src="https://images-fe.ssl-images-amazon.com/images/P/{{ .Get "asin" }}.09.MAIN._SCLZZZZZZZ_.jpg" alt=""></a>
+  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/{{ .Get "asin" }}/udonudon-22/">
+    <span class="embed_image"><img src="https://images-fe.ssl-images-amazon.com/images/P/{{ .Get "asin" }}.09.MAIN._SCLZZZZZZZ_.jpg" alt=""></span>
+  </a>
   {{ with .Get "title" }}
   <figcaption><h4>{{ . }}</h4></figcaption>
   {{ end }}

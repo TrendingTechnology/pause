@@ -191,6 +191,30 @@
       height: 100%;
     }
   }
+
+
+  .embed.amazon {
+    text-align: center;
+
+    .embed_image {
+      position: relative;
+      display: inline-block;
+
+      &:after {
+        content: '';
+        background-color: rgba(#fff, .8);
+        background-image: url(/images/icon-amazon.png);
+        background-size: contain;
+        position: absolute;
+        bottom: 8px;
+        right: 8px;
+        display: inline-block;
+        width: 100px;
+        height: 40px;
+        border-radius: 2px;
+      }
+    }
+  }
 }
 
 .postContent > :first-child {

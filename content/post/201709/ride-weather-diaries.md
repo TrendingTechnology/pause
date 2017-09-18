@@ -1,0 +1,29 @@
++++
+title = "Ride - Weather Diaries"
+date = "2017-09-18T10:10:10+09:00"
+tags = ["music","indie","indie rock","shoegaze"]
+draft = false
+amazon = "B06XSRYDQY"
++++
+
+ライド。1988年結成、1995年解散。  
+2014年に、19年ぶりの再結成。んで2017年、再結成後初のアルバムリリース。アルバムとしては21年ぶり。
+
+{{<youtube src="nW_lRP2RqX8" title="Ride - Charm Assault">}}
+
+このギターの感じと、コーラスのハーモニーの感じ。結成30年ちかく、19年も途中ブランクあいてて、全然雰囲気変わらないのがすごい。曲調も、サウンドも、ボーカルの雰囲気も。
+
+{{<youtube src="zzSDDrtYpGY" title="Ride - All I Want">}}
+
+こちらは昔の Ride っぽさと、今っぽい感じとがうまく混じり合った感じで
+
+{{<amazon asin="B06XSRYDQY" title="Ride - Weather Diaries (2017)">}}
+
+---
+
+こちらは 1990年の Ride です
+
+{{<youtube src="pVhNi5cU8mo" title="Ride - Vapour Trail">}}
+
+{{<amazon asin="B000002LNM" title="Ride - Nowhere (1990)">}}
+

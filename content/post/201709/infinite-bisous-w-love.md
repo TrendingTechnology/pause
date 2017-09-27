@@ -20,7 +20,7 @@ Infinite Bisous さん、素性はまったく知りませんが、このチル�
 
 {{<youtube src="KCmA9igXTZk" title="Infinite Bisous - 困惑のポルノ ｢CONFUSED PORN｣">}}
 
-そして突然の日本語歌詞。「困惑のポルノ」、こちらも困惑してしまいます
+そして突然の日本語歌詞。タイトルは「困惑のポルノ」、こちらも困惑してしまいます
 
 アルバムは [tasty morselsレーベル](http://tastymorsels.org/)のサイトから、フリー・ダウンロード可能なようです
 

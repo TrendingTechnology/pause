@@ -14,8 +14,8 @@ Spotify プレイリストつくりました。15曲 71分。
 
 https://open.spotify.com/user/matsuoshi/playlist/5qTawft3Xx87TZyGjBch2a
 
-普段から地味な曲が多いプレイリストですが、今回はなかでも落ち着いているかんじかもしれない。
+普段から地味な曲が多いプレイリストですが、今回はなかでも落ち着いているかんじかもしれない。これは最近の精神状態を表しているとでも言えるのだろうか。(心当たりは特にない)
 
-#2 [Blood Orange](/post/201709/blood-orange-freetown-sound/) はライブ見たかったなあ。#7 [Ought](/post/201708/ought-sun-coming-down/) はノイズ・ロック感がすごい好み。#9 [Jay Som](/post/201709/jay-som-everybody-works/) は今年のお気に入りランキング上位に入ります。#13 [Daphni](/post/201708/daphni-fabriclive93/) のこの曲はサイケでダンサブルでアガる！ かたや #14 [Silicon](/post/201709/silicon-god-emoji/) のナヨっとヘナっとした感じもとてもいい。
+#2 [Blood Orange](/post/201709/blood-orange-freetown-sound/) はサマソニのライブ見たかったなあ。#7 [Ought](/post/201708/ought-sun-coming-down/) はノイズ・ロック感がすごい好み。#9 [Jay Som](/post/201709/jay-som-everybody-works/) は今年のお気に入りランキング上位に入ります(アルバムすごくよい)。#13 [Daphni](/post/201708/daphni-fabriclive93/) のこの曲はサイケでダンサブルでアガる！ かたや #14 [Silicon](/post/201709/silicon-god-emoji/) のナヨっとヘナっとした感じもとてもいい。
 
 しかしこうやって並べると、やっぱり #3 [⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](/post/201708/four-tet-or-other/) (←アーティスト名だヨ！) のインパクトがすごいなあ。

@@ -16,7 +16,7 @@ amazon = "B01NAT4L6M"
 
 {{<youtube src="zkQywNhea4M" title="Jay Som - 1 Billion Dogs">}}
 
-↑ この曲とかも激しさはあるんだけど、なんか元気いっぱいというよりは、ちょっと気だるい雰囲気が伴ってて。あとこの奇妙なギターソロよ！(すばらしい)
+↑ この曲とかも激しさはあるんだけど、なんか元気いっぱいというよりは、ちょっと気だるい雰囲気が伴ってて。あと終盤の奇妙なギターソロよ！(すばらしい)
 
 {{<youtube src="cRES6Af_Wyg" title="Jay Som - Baybee">}}
 

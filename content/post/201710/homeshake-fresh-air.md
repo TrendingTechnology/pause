@@ -11,11 +11,11 @@ amazon = "B01NADHRFB"
 
 {{<youtube src="0aOzT11GMKM" title="Homeshake - Every Single Thing">}}
 
-↑とか、ビデオもチープだけどかわいい。
-
-一人宅録エレクトロ〜ブレイクビーツに、ギターもちょい入ってきてたりして、ボーカルは今風なソウルというか R&B 感もありつつ、超チルい。そしてソフトにサイケ。
+↑とか、ビデオもチープだけどかわいい。ワンコがめちゃくちゃええ味だしとる。
 
 {{<youtube src="9kHdsIAR5Ls" title="Homeshake - Khmlwugh">}}
+
+一人宅録エレクトロ〜ブレイクビーツに、ギターもちょい入ってきてたりして、ボーカルは今風なソウルというか R&B 感もありつつ、超チルい。そしてソフトにサイケ。
 
 {{<youtube src="S9mBjRCIN6Y" title="Getting Down Pt II (He's Cooling Down)">}}
 

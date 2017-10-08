@@ -1,7 +1,7 @@
 +++
 title = "Jay Som - Everybody Works"
 date = "2017-09-23T08:08:08+09:00"
-tags = ["music","indie","indie pop","lo-fi","dreampop","shoegaze"]
+tags = ["music","indie","indie pop","lo-fi","dreampop","shoegaze","2017"]
 draft = false
 amazon = "B01NAT4L6M"
 +++

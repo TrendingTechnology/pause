@@ -1,7 +1,7 @@
 +++
 title = "Octo Octa ‎– Where Are We Going?"
 date = "2017-07-24T12:12:12+09:00"
-tags = ["music","house","deep house","dance"]
+tags = ["music","house","deep house","dance","2017"]
 draft = false
 youtube = "8T4ogb-eWoY"
 +++

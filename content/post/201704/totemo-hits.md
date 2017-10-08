@@ -2,7 +2,7 @@
 title = "totemo - hits"
 date = "2017-04-26T15:00:34+09:00"
 tags = [
-  "music", "indie"
+  "music", "indie","2016"
 ]
 draft = false
 youtube = "yK07Ox4bxEo"

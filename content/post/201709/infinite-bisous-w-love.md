@@ -1,7 +1,7 @@
 +++
 title = "Infinite Bisous - W/Love"
 date = "2017-09-27T20:55:55+09:00"
-tags = ["music","electronic","lo-fi","chillwave"]
+tags = ["music","electronic","lo-fi","chillwave","2017"]
 draft = false
 youtube = "WtvfAe5UyXs"
 +++

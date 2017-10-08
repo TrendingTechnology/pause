@@ -1,7 +1,7 @@
 +++
 title = "⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ  -  ҉.·.·* ́ ̈.·*:・✧๑ඕั ҉"
 date = "2017-08-31T17:17:17+09:00"
-tags = ["music","electronic"]
+tags = ["music","electronic","2017"]
 draft = false
 image = "https://i.scdn.co/image/affe6640abb176d37ff4a84244a915efbce6ec01"
 +++

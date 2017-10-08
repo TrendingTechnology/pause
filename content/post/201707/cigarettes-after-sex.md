@@ -1,7 +1,7 @@
 +++
 title = "Cigarettes After Sex - s/t"
 date = "2017-07-20T12:12:12+09:00"
-tags = ["music","slowcore","dreampop","ambient"]
+tags = ["music","slowcore","dreampop","ambient","2017"]
 draft = false
 description = "ブルックリンの男性4人組バンド。女性かと間違うようなソフトでセクシーなボーカル、ひたすらダークでメランコリーなサウンド"
 youtube = "caxGz3cs7-Y"

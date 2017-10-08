@@ -1,7 +1,7 @@
 +++
 title = "iamamiwhoami / ionnalee"
 date = "2017-09-05T15:15:15+09:00"
-tags = ["music","electro","art-pop","synth-pop","chillwave"]
+tags = ["music","electro","art-pop","synth-pop","chillwave","2012"]
 draft = false
 youtube = "2Xdov_B-cQg"
 +++

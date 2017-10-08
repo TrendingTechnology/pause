@@ -1,7 +1,7 @@
 +++
 title = "MONDO GROSSO - ラビリンス と 電気グルーヴ - 誰だ！"
 date = "2017-07-05T09:09:09+09:00"
-tags = ["music","techno","japanese","jpop","soundcloud"]
+tags = ["music","techno","japanese","jpop","soundcloud","2017"]
 draft = false
 youtube = "_2quiyHfJQw"
 +++

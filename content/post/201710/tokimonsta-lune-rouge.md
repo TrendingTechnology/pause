@@ -1,7 +1,7 @@
 +++
 title = "TOKiMONSTA - Lune Rouge"
 date = "2017-10-04T19:19:19+09:00"
-tags = ["music","electro","hip-hop","downtempo","R&B"]
+tags = ["music","electro","hip-hop","downtempo","R&B","2017"]
 draft = false
 amazon = "B074ZTHJSV"
 +++

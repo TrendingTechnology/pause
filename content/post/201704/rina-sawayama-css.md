@@ -1,7 +1,7 @@
 +++
 title = "Rina Sawayama - Cyber Stockholm Syndrome"
 date = "2017-04-02T17:28:28+09:00"
-tags = ["music","r&b","alt r&b"]
+tags = ["music","r&b","alt r&b","2017"]
 draft = false
 image = "https://i1.sndcdn.com/artworks-000213923574-2uuvfd-t500x500.jpg"
 +++

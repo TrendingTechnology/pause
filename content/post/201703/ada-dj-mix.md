@@ -1,7 +1,7 @@
 +++
 title = "Ada - Whatpeopleplay Podcast"
 date = "2017-03-12T15:45:21+09:00"
-tags = ["music","techno","house","djmix"]
+tags = ["music","techno","house","djmix","2017"]
 draft = false
 image = "https://i1.sndcdn.com/artworks-000206461701-5zqdl0-t500x500.jpg"
 +++

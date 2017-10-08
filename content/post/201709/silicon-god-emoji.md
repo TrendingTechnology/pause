@@ -1,7 +1,7 @@
 +++
 title = "Silicon - God Emoji"
 date = "2017-09-10T12:12:12+09:00"
-tags = ["music","electro","downtempo"]
+tags = ["music","electro","downtempo","2015"]
 draft = false
 amazon = "B00ZFTGA8C"
 +++

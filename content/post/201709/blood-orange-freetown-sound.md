@@ -1,7 +1,7 @@
 +++
 title = "Blood Orange - Freetown Sound"
 date = "2017-09-02T10:10:10+09:00"
-tags = ["music","electro","alt r&b","chillwave"]
+tags = ["music","electro","alt r&b","chillwave","2016"]
 draft = false
 amazon = "B01GSLL0SK"
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Arca - Desafío"
 date = "2017-05-05T21:28:21+09:00"
-tags = ["music","electronic"]
+tags = ["music","electronic","2017"]
 draft = false
 amazon = "B06WW944RJ"
 +++

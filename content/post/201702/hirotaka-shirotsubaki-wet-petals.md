@@ -1,7 +1,7 @@
 +++
 title = "Hirotaka Shirotsubaki - Wet Petals"
 date = "2017-02-12T15:15:21+09:00"
-tags = ["music","spotify","bandcamp","ambient"]
+tags = ["music","spotify","bandcamp","ambient","2017"]
 draft = false
 image = "https://f4.bcbits.com/img/a1340446712_5.jpg"
 +++

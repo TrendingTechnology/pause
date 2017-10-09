@@ -1,7 +1,7 @@
 +++
 title = "Pond - Paint Me Silver"
 date = "2017-05-14T22:22:22+09:00"
-tags = ["music","indie","psychedelic"]
+tags = ["music","indie","psychedelic","2017"]
 draft = false
 youtube = "5Xml6eYn5Eg"
 +++

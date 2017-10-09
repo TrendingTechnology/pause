@@ -1,7 +1,7 @@
 +++
 title = "Lali Puna - Deep Dream"
 date = "2017-06-20T14:14:14+09:00"
-tags = ["music","indie","electronic"]
+tags = ["music","indie","electronic","2017"]
 draft = false
 youtube = "FfenlNjnePQ"
 +++

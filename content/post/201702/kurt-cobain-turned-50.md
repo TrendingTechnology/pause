@@ -1,7 +1,7 @@
 +++
 title = "Kurt Cobain turned 50"
 date = "2017-02-20T20:20:20+09:00"
-tags = ["music","nirvana","alternative","grunge"]
+tags = ["music","nirvana","alternative","grunge","1992"]
 draft = false
 youtube = "Fa30bdEXNeM"
 +++

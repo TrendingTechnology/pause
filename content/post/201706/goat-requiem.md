@@ -1,7 +1,7 @@
 +++
 title = "Goat - Requiem"
 date = "2017-06-27T13:13:13+09:00"
-tags = ["music","psychedelic"]
+tags = ["music","psychedelic","2016"]
 draft = false
 amazon = "B01IRBZYV8"
 +++

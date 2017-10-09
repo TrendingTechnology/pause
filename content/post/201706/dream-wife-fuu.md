@@ -1,7 +1,7 @@
 +++
 title = "Dream Wife - FUU"
 date = "2017-06-29T13:13:13+09:00"
-tags = ["music","indie"]
+tags = ["music","indie","2016"]
 draft = false
 youtube = "jY65uOD8xJE"
 +++

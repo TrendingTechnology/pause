@@ -9,7 +9,9 @@
   position: sticky;
   z-index: 1000;
   top: 0;
-  background: linear-gradient(to bottom, $color-bg, rgba($color-bg, .95) 33%, rgba($color-bg, .9));
+  background: linear-gradient(to bottom, $color-bg, rgba($color-bg, .95) 33%, rgba($color-bg, .85));
+  backdrop-filter: blur(10px) contrast(200%);
+  -webkit-backdrop-filter: blur(10px) contrast(200%);
   text-align: right;
   padding: 1em;
   margin-top: .5em;

@@ -15,7 +15,7 @@
   {{ $ogimage := trim (index (split (partial "thumbnail.html" .) "|") 1) "\n" | absURL }}
   <meta property="og:image" content="{{ $ogimage }}">
   <meta name="twitter:image" content="{{ $ogimage }}" />
-  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@matsuoshi" />
   <meta name="twitter:title" content="{{ .Title }}{{ if not .IsHome }} | {{ .Site.Title }}{{ end }}" />
   <meta name="twitter:description" content="{{ $description }}" />

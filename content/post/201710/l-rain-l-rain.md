@@ -1,7 +1,7 @@
 +++
 title = "L'Rain - L'Rain"
 date = "2017-10-23T15:15:15+09:00"
-tags = ["music","ssw","experimental","r&b","alt r&b","psychedelic"]
+tags = ["music","ssw","experimental","r&b","alt r&b","psychedelic","2017"]
 draft = false
 image = "/media/201710/lrain.jpg"
 +++

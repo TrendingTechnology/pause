@@ -14,7 +14,7 @@ amazon = "B01E9GXXRC"
 
 {{<youtube src="QxrXD4Fz0hc" title="Jessy Lanza - I Talk BB">}}
 
-ボーカルの感じもイマっぽく。Grimes をさらっとスタイリッシュにしたような印象。
+ボーカルの感じもイマっぽく。Grimes あたりをさらっとスタイリッシュにしたような印象。
 
 レーベルは Kode9, Burial, Laurel Halo などでおなじみ Hyperdub から。
 

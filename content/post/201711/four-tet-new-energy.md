@@ -1,6 +1,6 @@
 +++
 title = "Four Tet - New Energy"
-date = "2017-11-05T11:11:11+09:00"
+date = "2017-11-06T19:19:19+09:00"
 tags = ["music","electronica","folktronica","2017"]
 draft = false
 amazon = "B075NX9G2W"

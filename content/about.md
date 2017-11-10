@@ -33,5 +33,6 @@ author: [@matsuoshi](https://facebook.com/matsuoshi)
 <li><a class="altColor" href="https://instagram.com/matsuoshi"><i class="fa fa-instagram"></i></a></li>
 <li><a class="altColor" href="http://www.last.fm/user/matsuoshi"><i class="fa fa-lastfm-square"></i></a></li>
 <li><a class="altColor" href="https://www.mixcloud.com/matsuoshi/"><i class="fa fa-mixcloud"></i></a></li>
+<li><a class="altColor" href="https://open.spotify.com/user/matsuoshi"><i class="fa fa-spotify"></i></a></li>
 <li><a class="altColor" href="https://twitter.com/matsuoshi"><i class="fa fa-twitter-square"></i></a></li>
 </ul>

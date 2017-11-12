@@ -60,3 +60,7 @@ image = "https://farm5.staticflickr.com/4461/24232009508_15ae11c65c_z.jpg"
 ---
 
 なんか長くなった。つづく、かも。
+
+つづきました。
+
+> [Kindle バリエーション多すぎ問題](/post/201711/kindle-paperwhite-model/)

@@ -6,7 +6,7 @@ draft = false
 amazon = "B017DOURQW"
 +++
 
-Kindle の話、続編。
+Kindle の話、続編。([前回はこちら](/post/201711/kindle-paperwhite/))
 
 {{<figure src="https://farm5.staticflickr.com/4461/24232009508_15ae11c65c_z.jpg">}}
 

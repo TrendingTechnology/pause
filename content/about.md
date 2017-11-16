@@ -5,7 +5,7 @@ draft = false
 amazon = "B00005CDUY"
 +++
 
-[![avatar](https://avatars.githubusercontent.com/u/73213?s=64)](https://facebook.com/matsuoshi)
+[![avatar](/media/avatar.jpg)](https://facebook.com/matsuoshi)
 
 author: [@matsuoshi](https://facebook.com/matsuoshi)
 

@@ -10,15 +10,17 @@ mixmag から、Bjork の新しいDJミックスが出てました。
 
 http://mixmag.net/feature/the-cover-mix-bjoerk
 
+<div class="embed">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356544932&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+</div> 
+
 相変わらずぶっとんでる。アンビエント/ミニマル、ド民族音楽からドリルンベース的なノイジーにビートの激しいものまで、どうしたらこんな振れ幅大きい展開が思いつくんだろう、という47分。
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356544932&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+ちなみにBjorkの過去のDJミックスもかなり好きです。こちらは tri angle records でのイベントのもの。
 
----
-
-ちなみにBjorkの過去のDJミックスもかなり好きです。tri angle records でのイベントのもの。
-
+<div class="embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/206037005&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+</div>
 
 サムネイルも恐ろしくかっこいい……
 

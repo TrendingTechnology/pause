@@ -1,7 +1,7 @@
 ---
 title: "半田健人 - HOMEMADE がやばい"
 date: "2017-11-22T12:12:12+09:00"
-tags: ["music","japanese", "歌謡曲", "pop"]
+tags: ["music","japanese", "歌謡曲", "pop","2017"]
 draft: false
 amazon: "B075H6VGNJ"
 ---

@@ -4,6 +4,7 @@ date: "2017-12-01T12:12:12+09:00"
 tags: ["saizeriya", "food"]
 draft: false
 image: /media/201712/saizeriya_top.png
+description: "サイゼリヤ Advent Calendar 2017 の 1日目です。今日は名前だけでも覚えて帰ってください。"
 ---
 
 {{<figure src="/media/201712/saizeriya_top.png">}}
@@ -13,7 +14,7 @@ image: /media/201712/saizeriya_top.png
 <div style="font-size:150%;font-weight:bold">◯ サイゼリヤ</div>
 <div style="font-size:150%;font-weight:bold">× サイゼリア</div>
 
-となります。よろしくお願いいたします。
+となります。以上、よろしくお願いいたします。
 
 ちなみにアルファベット表記は **"Saizeriya"** でして、思いっきりローマ字です。こちらもあわせて、よろしくお願いいたします。
 
@@ -76,7 +77,7 @@ image: /media/201712/saizeriya_top.png
 よくわかりませんでした。  
 誰か株主総会あたりで質問してきてください。
 
-今後とも [サイゼリヤ Advent Calendar 2017](https://adventar.org/calendars/2236) をよろしくお願いいたします。
+それでは、今後とも [サイゼリヤ Advent Calendar 2017](https://adventar.org/calendars/2236) をよろしくお願いいたします。
 
 ---
 

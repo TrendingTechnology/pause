@@ -14,6 +14,8 @@ amazon: "B01N4SIIKJ"
 
 印象的なシンセのリフやボイスサンプルの使い方なんかは、もう堂に入った感じでございます。非常にクラブ栄えしそう。
 
+{{<youtube src="koBnBenTvgY" title="Jacques Greene - To Say">}}
+
 あとは how to dress well を迎えたトラックなんかも。
 
 {{<youtube src="uqLg-89y49Q" title="Jacques Greene - True feat. How To Dress Well">}}

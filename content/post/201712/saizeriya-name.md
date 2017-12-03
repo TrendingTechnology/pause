@@ -1,7 +1,7 @@
 ---
 title: "サイゼリヤ Advent Calendar, 今日は名前だけでも覚えて帰ってください #saizeriya_meetup"
 date: "2017-12-01T12:12:12+09:00"
-tags: ["saizeriya", "food"]
+tags: ["saizeriya", "food", "advent calendar"]
 draft: false
 image: /media/201712/saizeriya_top.png
 description: "サイゼリヤ Advent Calendar 2017 の 1日目です。今日は名前だけでも覚えて帰ってください。"

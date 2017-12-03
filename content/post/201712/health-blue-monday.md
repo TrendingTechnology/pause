@@ -6,7 +6,7 @@ draft: false
 amazon: "B071XMDT7N"
 ---
 
-映画 "Atomic Blonde" のサントラが 80's ヒット満載でええ感じなんですが、そのなかに入っているやつで
+[映画 "Atomic Blonde"](http://atomic-blonde.jp/) のサントラが 80's ヒット満載でええ感じなんですが、そのなかに入っているやつで
 
 {{<youtube src="cYtGJGp-9hA" title="Health - Blue Monday">}}
 

@@ -3,3 +3,4 @@
 /themes/pause/static/css/
 /themes/pause/static/js/
 npm-debug.log*
+.DS_Store

@@ -1,7 +1,5 @@
-# pause.cf
+# monaural.net
 
-strike a pause.
+blogging with Hugo, netlify and GitHub.
 
-blog with Hugo, netlify, GitHub and freenom.
-
-https://pause.cf/
+https://monaural.net/

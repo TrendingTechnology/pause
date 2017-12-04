@@ -1,6 +1,6 @@
 {
-  "name": "pause.cf",
-  "description": "pause.cf",
+  "name": "monaural.net",
+  "description": "static blog with hugo and netlify",
   "version": "1.0.0",
   "main": "index.js",
   "author": "matsuoshi@gmail.com",

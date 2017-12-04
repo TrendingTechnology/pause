@@ -1,5 +1,5 @@
-title = "pause"
-baseurl = "https://pause.cf/"
+title = "monaural"
+baseurl = "https://monaural.net/"
 theme = "pause"
 paginate = 24
 googleAnalytics = "UA-44406328-7"
@@ -15,7 +15,7 @@ post = "/post/:year:month/:filename/"
 
 
 [params]
-description = "pause.cf | 音楽などのメモブログ"
+description = "monaural | 音楽などのメモブログ"
 ogpimage = "/images/thumbnail.png"
 newerPosts = "newer"
 olderPosts = "older"

@@ -12,7 +12,7 @@ module.exports = {
         test: /\.js$/,
         query: {
           cacheDirectory: true,
-          presets: ['es2015']
+          presets: ['env']
         }
       }
     ]

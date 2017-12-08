@@ -1,7 +1,7 @@
 +++
 title = "無料の cf ドメインは Google Search Console的にどうすか"
 date = "2017-02-21T19:19:00+09:00"
-tags = [ "domain", "google" ]
+tags = [ "domain", "google", "blog", "freenom" ]
 draft = false
 image = "/media/201702/search-console-cf-domain-02.png"
 +++
@@ -25,3 +25,9 @@ image = "/media/201702/search-console-cf-domain-02.png"
 
 ちゃんと「日本語のページを検索」、でもいけてます。しかも 3位!!!  
 書いててよかった踊るヒット賞。
+
+#### 追記
+
+freenom で取得したドメイン、使用10ヶ月ほどで突然止まってしまいました。それについてはこちら。
+
+> [freenom の無料 .cf ドメインが止まってしまいました](/post/201712/my-free-domain-was-suspended/)

@@ -3,7 +3,7 @@ title: "Amazon Echo は Spotify に対応していなかった"
 date: "2017-12-09T12:12:12+09:00"
 tags: ["amazon echo", "spotify", "smart speaker", "alexa"]
 draft: false
-image: /images/thumbnail.png
+image: https://scontent-nrt1-1.cdninstagram.com/t51.2885-15/e35/24331588_343785209428928_2585652346067353600_n.jpg
 ---
 
 ギャー。ショックを受けています。

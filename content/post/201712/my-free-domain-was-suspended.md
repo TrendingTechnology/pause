@@ -17,6 +17,7 @@ image: /media/201712/freenom-02.png
 サポートページ探して確認したんですが
 
 > [Why is my domain status set to 'Suspended'? - Knowledgebase - Freenom](https://my.freenom.com/knowledgebase.php?action=displayarticle&id=11)
+> [よくある質問](http://www.freenom.com/ja/support.html#u)
 
 スパムとか著作権違反とか不正なドメインがとか、心当たりはなく。うーん、もう仕方ないか。やっぱりこの手の無料サービスって、テスト的に試しに使うものですね。実運用したらアカン。まあ、このブログの場合は、とりあえず最初テストで立ち上げてみたのがそのまま今まで続いてた、ってかんじではあるのですが…
 

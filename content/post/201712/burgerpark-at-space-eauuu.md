@@ -24,6 +24,8 @@ image: "/media/201712/burgerpark.jpg"
 
 そこでの DJ/ライブ という感じでした。
 
+ちなみに会場 space eauuu のスピーカーは [sonihouse の scenery](http://www.sonihouse.net/products/scenery.html) です。サイコーです。
+
 <div class="embed">
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/matsuoshi/27349809479/in/dateposted/" title="Bürgerpark @ space eauuu 2017.12.17"><img src="https://farm5.staticflickr.com/4644/27349809479_829cc2e52b_c.jpg" width="600" height="800" alt="Bürgerpark @ space eauuu 2017.12.17"></a>
 </div>
@@ -48,7 +50,7 @@ image: "/media/201712/burgerpark.jpg"
 
 {{<youtube src="hAdy15aO2Qs" title="Ellen Allien - Sun The Rain">}}
 
-ドイツのテクノゴッド姐さん ellen alien, たまにこんなロックな解釈もできる曲もあっていいよね
+ドイツのテクノゴッド姐さん ellen allien, たまにこんなロックな解釈もできる曲もあっていいよね
 
 > +Bürgerpark+  
 > 2017.12.17(sun)  

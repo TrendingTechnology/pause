@@ -1,7 +1,7 @@
 ---
 title: "Bürgerpark というイベントに参加しました @ space eauuu"
 date: "2017-12-18T16:16:16+09:00"
-tags: ["music","electronica","dj","event","2017"]
+tags: ["music","electronica","dj","event","live","2017"]
 draft: false
 image: "/media/201712/burgerpark.jpg"
 ---

@@ -1,7 +1,7 @@
 +++
 title = "American Football Japan Tour 2017"
 date = "2017-06-12T14:00:00+09:00"
-tags = ["music","post rock","math rock", "emo","event"]
+tags = ["music","post rock","math rock", "emo","event","live"]
 draft = false
 image = "https://scontent.cdninstagram.com/t51.2885-15/e35/18948120_306724116421524_2987822445030801408_n.jpg"
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Jan Jelinek Japan Tour 2017 に行ってきた"
 date = "2017-11-14T14:14:14+09:00"
-tags = ["music","live","electronica","minimal","experimental","glith"]
+tags = ["music","live","event","electronica","minimal","experimental","glitch"]
 draft = false
 image = "/media/201711/jan-jelinek.jpg"
 +++

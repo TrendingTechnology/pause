@@ -21,7 +21,7 @@ image: "/media/201712/aoty.png"
 
 - [2017 Music Year End List Aggregate](http://www.albumoftheyear.org/list/summary/2017/)
 
-100前後の年間ベストチャートをまとめたベスト・オブ・ベストなチャートになっています。どうやら Kendrick Lamar の圧勝。時点が Lorde。
+100前後の年間ベストチャートをまとめたベスト・オブ・ベストなチャートになっています。どうやら 2017年は Kendrick Lamar の圧勝。時点が Lorde。
 
 {{<amazon asin="B071CQZKW9" title="Kendrick Lamar / damn">}}
 

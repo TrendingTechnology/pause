@@ -22,6 +22,8 @@ image: "/media/201712/perfume.png"
 
 {{<youtube src="auRxnsoNaJM?start=279" title="Blood Orange - Best To You">}}
 
+{{<youtube src="htobTBlCvUU" title="Björk - It's Oh So Quiet">}}
+
 {{<youtube src="blJKoXWlqJk?start=40" title="The xx - On Hold">}}
 
 冬っぽーい感じをちょっと意識、なので広瀬香美もかけた

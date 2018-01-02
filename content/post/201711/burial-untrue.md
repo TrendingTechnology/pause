@@ -1,10 +1,10 @@
-+++
-title = "Burial - Untrue から10年とな"
-date = "2017-11-07T11:11:11+09:00"
-tags = ["music","dubstep","bass","abstract","ambient","electronic","2007"]
-draft = false
-amazon = "B000WTBMBK"
-+++
+---
+title: "Burial - Untrue から10年とな"
+date: "2017-11-07T11:11:11+09:00"
+tags: ["music","dubstep","bass","abstract","ambient","electronic","2007"]
+draft: false
+amazon: "B000WTBMBK"
+---
 
 Burial - Untrue 発売が 2007年11月5日、発売から10年だそうです……！
 

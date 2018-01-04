@@ -1,6 +1,6 @@
 ---
 title: "イベント Perfume* vol.122 に参加しました @ big cake"
-date: "2017-12-28T16:16:16+09:00"
+date: "2017-12-29T16:16:16+09:00"
 tags: ["music","dj","event","2017"]
 draft: false
 image: "/media/201712/perfume.png"

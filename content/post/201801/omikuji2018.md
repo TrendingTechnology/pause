@@ -18,21 +18,21 @@ image: "https://scontent-nrt1-1.cdninstagram.com/t51.2885-15/e35/25024508_154355
 |:---:|:---:|:---:|
 |2018|[下下](https://www.instagram.com/p/Bde4spyB3B_/)|<span class="emoji">😇</span>|
 |2017|[下下](https://www.instagram.com/p/BOyewmzBtzU/)|<span class="emoji">😇</span>|
-|2016|[上々吉️](https://www.instagram.com/p/BAEnNzJAhSd/)|<span class="emoji">㊗㊗㊗</span>|
+|2016|[上々吉️](https://www.instagram.com/p/BAEnNzJAhSd/)|<span class="emoji">㊗️㊗️㊗️</span>|
 |2015|[下下](https://www.instagram.com/p/xV6ARCghbO/)|<span class="emoji">😇</span>|
 |2014|[下下](https://www.instagram.com/p/iqf54fAhWC/)|<span class="emoji">😇</span>|
-|2013|[上々吉️](https://www.instagram.com/p/UA1aNJAhV3/)|<span class="emoji">㊗㊗㊗</span>|
+|2013|[上々吉️](https://www.instagram.com/p/UA1aNJAhV3/)|<span class="emoji">㊗️㊗️㊗️</span>|
 |2012|[中中](https://www.flickr.com/photos/matsuoshi/6646582805/)|-|
 |2011|[下下](https://www.flickr.com/photos/matsuoshi/5323181533/)|<span class="emoji">😇</span>|
 |2010|[下下](https://www.flickr.com/photos/matsuoshi/4250232006/)|<span class="emoji">😇</span>|
-|2009|[大吉️](http://blog.monaural.net/2009/01/2009.html)|<span class="emoji">㊗㊗㊗</span>|
-|2008|大吉|<span class="emoji">㊗㊗㊗</span>️|
-|2007|大吉|<span class="emoji">㊗㊗㊗</span>️|
+|2009|[大吉️](http://blog.monaural.net/2009/01/2009.html)|<span class="emoji">㊗️㊗️㊗️</span>|
+|2008|大吉|<span class="emoji">㊗️㊗️㊗️</span>️|
+|2007|大吉|<span class="emoji">㊗️㊗️㊗️</span>️|
 |2006|凶|<span class="emoji">😇</span>|
 
 どうやら、ここ13回で
 
-- <span class="emoji">㊗</span> 大吉・上々吉 が 5回
+- <span class="emoji">㊗️</span> 大吉・上々吉 が 5回
 - <span class="emoji">😇</span> 凶・下下 が 7回
 - その他 1回
 

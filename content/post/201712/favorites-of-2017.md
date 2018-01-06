@@ -30,8 +30,8 @@ https://open.spotify.com/user/matsuoshi/playlist/45JZCjIS5u1WswKVMTHg9I
 YouTube 貼り付けてってみます。
 
 ## Jay Som
-文句なく年間ベスト。最初から最後までアルバム通して捨て曲なし。名盤。  
-よくある「10年に1枚のアルバム！」ってのが 2年に1枚くらいでてきてる気がしているのですが、今回はこれでした。
+文句なく年間ベスト。最初から最後までアルバム通して捨て曲なし。すなわち名盤。  
+よく言う「10年に1枚のアルバム！」ってのが 2年に1枚くらいでてきてる気がしているのですが、今回はこれでした。
 
 {{<youtube src="7YU_yBBd0cA" title="Jay Som - One More Time, Please" >}}
 {{<amazon asin="B01NAT4L6M" title="Jay Som - Everybody Works">}}
@@ -42,7 +42,7 @@ YouTube 貼り付けてってみます。
 {{<youtube src="-s-UVW4x2YE" title="Yaeji - Feel It Out" >}}
 
 ## Homeshake
-トローンとなれるチルいビート。あとビデオがすばらしい。特にわんこの動き。ベスト・オブ・わんこビデオ 2017です。
+トローンとなれるユルいビート。あとビデオがすばらしい、特にわんこの動き。ベスト・オブ・わんこビデオ 2017です。
 
 {{<youtube src="0aOzT11GMKM" title="Homeshake - Every Single Thing" >}}
 {{<amazon asin="B01NADHRFB" title="Homeshake - Fresh Air">}}

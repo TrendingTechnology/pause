@@ -97,3 +97,9 @@ Caribou の別名義。音はフロア向けなんだけど彼特有のサイケ
 
 こんなかんじの 2017年でした。あらためて並べてみると、地味や……  
 地味地味 Shakeや……
+
+あらためて Spotify プレイリストはこちらです
+
+https://open.spotify.com/user/matsuoshi/playlist/45JZCjIS5u1WswKVMTHg9I
+
+{{<spotify "user/matsuoshi/playlist/45JZCjIS5u1WswKVMTHg9I" >}}

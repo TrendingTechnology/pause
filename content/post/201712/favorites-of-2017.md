@@ -19,32 +19,36 @@ image: "https://mosaic.scdn.co/640/328d3fb5348a28e14d17e2a9d28223c349b1bea03c575
 - Rina Sawayama
 - Björk
 
+その他もろもろ、spotify のプレイリストにまとめてみました。自分で作ったプレイリストすごい。自分の好きな曲しか入ってない。
+
 {{<spotify "user/matsuoshi/playlist/45JZCjIS5u1WswKVMTHg9I" >}}
 
 https://open.spotify.com/user/matsuoshi/playlist/45JZCjIS5u1WswKVMTHg9I
 
 ---
 
+YouTube 貼り付けてってみます。
+
 ## Jay Som
-文句なく年間ベスト。最初から最後までアルバム通して捨て曲なし。  
-自分的には「10年に1枚のアルバム」って言いたくなるようなアルバムが2年に1枚くらいでてくる気がしているのですが、今回はこれでした。
+文句なく年間ベスト。最初から最後までアルバム通して捨て曲なし。名盤。  
+よくある「10年に1枚のアルバム！」ってのが 2年に1枚くらいでてきてる気がしているのですが、今回はこれでした。
 
 {{<youtube src="7YU_yBBd0cA" title="Jay Som - One More Time, Please" >}}
 {{<amazon asin="B01NAT4L6M" title="Jay Som - Everybody Works">}}
 
 ## Yaeji
-ふわふわ系ポップなハウス。かわいい。
+ふわふわ系、チルだけどポップなハウス。かわいい。
 
 {{<youtube src="-s-UVW4x2YE" title="Yaeji - Feel It Out" >}}
 
 ## Homeshake
-トローンとなれるチルいビート。あとビデオがすばらしい。特にわんこの動き。
+トローンとなれるチルいビート。あとビデオがすばらしい。特にわんこの動き。ベスト・オブ・わんこビデオ 2017です。
 
 {{<youtube src="0aOzT11GMKM" title="Homeshake - Every Single Thing" >}}
 {{<amazon asin="B01NADHRFB" title="Homeshake - Fresh Air">}}
 
 ## The xx
-こんなに明るい曲つくるんか〜、と最初は意外でしたが、結局ヘビーローテーションでした。
+エックス・エックスがこんなに明るい曲つくるんか〜、と最初は意外でしたが、結局ヘビーローテーションでした。
 
 {{<youtube src="blJKoXWlqJk" title="The xx - On Hold" >}}
 {{<amazon asin="B01MXERTDF" title="The xx - I See You">}}
@@ -56,7 +60,7 @@ https://open.spotify.com/user/matsuoshi/playlist/45JZCjIS5u1WswKVMTHg9I
 {{<amazon asin="B06XZQ1BZ2" title="tofubeats - fantasy club">}}
 
 ## Daphni
-Caribou の別名義。音はフロア向けなんだけどサイケ感たっぷりですばらしい。
+Caribou の別名義。音はフロア向けなんだけど彼特有のサイケ感たっぷりですばらしい。
 
 {{<youtube src="CPUeeW5JvcU" title="Daphni - Tin">}}
 {{<amazon asin="B072M521H7" title="Daphni - Fabriclive 93">}}
@@ -73,7 +77,7 @@ Caribou の別名義。音はフロア向けなんだけどサイケ感たっぷ
 {{<amazon asin="B073VBD36Z" title="Moses Sumney - Aromanticism">}}
 
 ## Rina Sawayama
-ネオなポップ・R&B という感じでこの曲は好きでした。(アルバムはちょっとポップすぎたかなー)
+リナ・サワヤマ、ネオなポップ・R&B という感じでこの曲は好きでした。(アルバムはちょっとポップすぎたかなーという印象)
 
 {{<youtube src="HKLxvdFtlZE" title="Rina Sawayama - Cyber Stockholm Syndrome">}}
 
@@ -91,4 +95,5 @@ Caribou の別名義。音はフロア向けなんだけどサイケ感たっぷ
 
 ---
 
-こんなかんじの 2017年でした。地味や…… 地味地味 Shakeや……
+こんなかんじの 2017年でした。あらためて並べてみると、地味や……  
+地味地味 Shakeや……

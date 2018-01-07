@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="235px" height="235px" viewBox="0 0 235 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
-        <circle id="path-1" cx="117.5" cy="117.5" r="117.5"></circle>
-        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="235" height="235" fill="white">
+        <polygon id="path-1" points="117.561833 6 214.123665 61.75 214.123665 173.25 117.561833 229 21 173.25 21 61.75"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="193.123665" height="223" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>
-        <polygon id="path-3" points="117.159909 3 216.319817 60.25 216.319817 174.75 117.159909 232 18 174.75 18 60.25"></polygon>
-        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="198.319817" height="229" fill="white">
+        <circle id="path-3" cx="118" cy="118" r="90"></circle>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="180" height="180" fill="white">
             <use xlink:href="#path-3"></use>
         </mask>
-        <circle id="path-5" cx="117.5" cy="117.5" r="89.5"></circle>
-        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="179" height="179" fill="white">
+        <ellipse id="path-5" cx="117.5" cy="117.5" rx="68.5" ry="68.5"></ellipse>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="137" height="137" fill="white">
             <use xlink:href="#path-5"></use>
-        </mask>
-        <ellipse id="path-7" cx="118" cy="117" rx="64" ry="64"></ellipse>
-        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="128" height="128" fill="white">
-            <use xlink:href="#path-7"></use>
         </mask>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="monaural" transform="translate(117.500000, 117.500000) translate(-117.500000, -117.500000) translate(-0.000000, 0.000000)" stroke-width="16">
-            <use id="Oval-Outer" stroke="#666666" mask="url(#mask-2)" fill="#666666" transform="translate(117.500000, 117.500000) translate(-117.500000, -117.500000) " xlink:href="#path-1"></use>
-            <use id="Polygon" stroke="#FFFFFF" mask="url(#mask-4)" fill="#666666" transform="translate(117.159909, 117.500000) translate(-117.159909, -117.500000) " xlink:href="#path-3"></use>
-            <use id="Oval" stroke="#FFFFFF" mask="url(#mask-6)" fill="#666666" transform="translate(117.500000, 117.500000) translate(-117.500000, -117.500000) " xlink:href="#path-5"></use>
-            <use id="Oval-Copy" stroke="#FFFFFF" mask="url(#mask-8)" fill="#666666" transform="translate(118.000000, 117.000000) translate(-118.000000, -117.000000) " xlink:href="#path-7"></use>
+        <g id="favicon">
+            <circle id="Oval-Outer" fill="#606060" transform="translate(117.500000, 117.500000) rotate(180.000000) translate(-117.500000, -117.500000) " cx="117.5" cy="117.5" r="117.5"></circle>
+            <use id="Polygon" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="16" fill="#FFFFFF" transform="translate(117.561833, 117.500000) rotate(180.000000) translate(-117.561833, -117.500000) " xlink:href="#path-1"></use>
+            <use id="Oval" stroke="#606060" mask="url(#mask-4)" stroke-width="20" fill="#FFFFFF" xlink:href="#path-3"></use>
+            <use id="Oval-Copy" stroke="#FFFFFF" mask="url(#mask-6)" stroke-width="16" fill="#606060" transform="translate(117.500000, 117.500000) rotate(180.000000) translate(-117.500000, -117.500000) " xlink:href="#path-5"></use>
         </g>
     </g>
 </svg>

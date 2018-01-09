@@ -1,10 +1,10 @@
-+++
-title = "肉の年"
-date = "2017-02-10T23:15:21+09:00"
-tags = ["food","beef", "photo"]
-draft = false
-image = "https://scontent.cdninstagram.com/t51.2885-15/e35/16585238_1211016589013691_9093443602498977792_n.jpg"
-+++
+---
+title: "肉の年"
+date: "2017-02-10T23:15:21+09:00"
+tags: ["food","beef", "photo"]
+draft: false
+image: "https://scontent.cdninstagram.com/t51.2885-15/e35/16585238_1211016589013691_9093443602498977792_n.jpg"
+---
 
 平成29年2月9日なので肉を食べましたが、平成29年なんだから毎日肉を食べればよいのでは
 

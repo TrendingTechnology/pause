@@ -1,7 +1,7 @@
 ---
 title: "あけましておめでとうございます。2年連続でおみくじが凶相当でした。"
 date: "2018-01-04T12:12:12+09:00"
-tags: ["omikuji","newyear"]
+tags: ["omikuji","newyear","2018"]
 draft: false
 image: "https://scontent-nrt1-1.cdninstagram.com/t51.2885-15/e35/25024508_1543552422425400_3988928370531368960_n.jpg"
 ---

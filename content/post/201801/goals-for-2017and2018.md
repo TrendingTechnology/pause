@@ -1,7 +1,7 @@
 ---
 title: "2017年の目標は継続すること、2018年は集中すること、という感じで"
 date: "2018-01-07T12:00:00+09:00"
-tags: ["newyear","goal"]
+tags: ["newyear","goal","2017","2018"]
 draft: false
 image: "/media/201801/github.png"
 ---

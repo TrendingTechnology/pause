@@ -1,9 +1,9 @@
-+++
-title = "GitHub Pages や Netlify で、404 ページを自分で用意する"
-date = "2017-02-15T14:15:21+09:00"
-tags = ["hugo","netlify","github"]
-draft = false
-+++
+---
+title: "GitHub Pages や Netlify で、404 ページを自分で用意する"
+date: "2017-02-15T14:15:21+09:00"
+tags: ["hugo","netlify","github"]
+draft: false
+---
 
 このブログは Hugo + Netlify を使った静的サイトなわけですが、404 Not Found ページを自作したい場合はどうする？ というのを調べました。
 

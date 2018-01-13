@@ -1,10 +1,10 @@
-+++
-title = "カスタム・プロパティと cssnext"
-date = "2017-02-13T09:28:24+09:00"
-tags = [ "css", "cssnext", "custom property", "slide", "csstalk", "study" ]
-draft = false
-image = "https://www.tam-tam.co.jp/tipsnote/wpdata/wp-content/uploads/2017/02/IMG_5394.jpg"
-+++
+---
+title: "カスタム・プロパティと cssnext"
+date: "2017-02-13T09:28:24+09:00"
+tags: [ "css", "cssnext", "custom property", "slide", "csstalk", "study" ]
+draft: false
+image: "https://www.tam-tam.co.jp/tipsnote/wpdata/wp-content/uploads/2017/02/IMG_5394.jpg"
+---
 
 先日、勉強会 [CSS Talk](https://csstalk.net/) で話したので、そのときのスライドを Speaker Deck から貼り付けるテスト。
 

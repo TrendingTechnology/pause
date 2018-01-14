@@ -1,10 +1,10 @@
-+++
-title = "無料の cf ドメインは Google Search Console的にどうすか"
-date = "2017-02-21T19:19:00+09:00"
-tags = [ "domain", "google", "blog", "freenom" ]
-draft = false
-image = "/media/201702/search-console-cf-domain-02.png"
-+++
+---
+title: "無料の cf ドメインは Google Search Console的にどうすか"
+date: "2017-02-21T19:19:00+09:00"
+tags: [ "domain", "google", "blog", "freenom" ]
+draft: false
+image: "/media/201702/search-console-cf-domain-02.png"
+---
 
 [freenom](http://www.freenom.com/) で無料で取得した .cf ドメイン。[中央アフリカ共和国](http://www.dot.cf/)。そう、freenom では、好きな .tk や .ml, .cf といったドメインを無料で取得することができるのです。
 

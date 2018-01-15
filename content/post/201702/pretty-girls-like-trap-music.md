@@ -1,10 +1,10 @@
-+++
-title = "2 Chainz & Erykah Badu"
-date = "2017-02-14T19:38:21+09:00"
-tags = ["music","trap","spotify","2017"]
-draft = false
-image = "https://u.scdn.co/images/pl/default/98ed899f77ec7fcf5a1c6c1299c93e7c3f348df2"
-+++
+---
+title: "2 Chainz & Erykah Badu"
+date: "2017-02-14T19:38:21+09:00"
+tags: ["music","trap","spotify","2017"]
+draft: false
+image: "https://u.scdn.co/images/pl/default/98ed899f77ec7fcf5a1c6c1299c93e7c3f348df2"
+---
 
 {{< figure src="https://u.scdn.co/images/pl/default/98ed899f77ec7fcf5a1c6c1299c93e7c3f348df2" title="" >}}
 

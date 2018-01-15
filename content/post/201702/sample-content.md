@@ -1,9 +1,9 @@
-+++
-title = "サンプル投稿、コンテンツの見た目調整用です"
-date = "2017-02-08T00:00:00+09:00"
-tags = [ "blog", "sample", "markdown" ]
-draft = false
-+++
+---
+title: "サンプル投稿、コンテンツの見た目調整用です"
+date: "2017-02-08T00:00:00+09:00"
+tags: [ "blog", "sample", "markdown" ]
+draft: false
+---
 
 # 大見出しテキスト (h1)
 

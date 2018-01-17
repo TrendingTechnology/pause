@@ -1,10 +1,10 @@
-+++
-title = "mixcloud を貼るテスト + ホッピー2 (baby)"
-date = "2017-02-17T12:12:12+09:00"
-tags = [ "music", "jpop", "djmix","2011" ]
-draft = false
-image = "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/e/f/1/6/44ec-a8ab-40ce-bdfa-3c62bd5a9257.jpg"
-+++
+---
+title: "mixcloud を貼るテスト + ホッピー2 (baby)"
+date: "2017-02-17T12:12:12+09:00"
+tags: [ "music", "jpop", "djmix","2011" ]
+draft: false
+image: "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/e/f/1/6/44ec-a8ab-40ce-bdfa-3c62bd5a9257.jpg"
+---
 
 mixcloud を貼るテスト。けっこういいかんじの見栄え。
 

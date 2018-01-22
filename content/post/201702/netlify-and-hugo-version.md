@@ -1,10 +1,10 @@
-+++
-title = "Netlify と Hugo の組合せでハマったところ"
-date = "2017-02-11T23:48:21+09:00"
-tags = ["netlify","hugo"]
-draft = false
-image = "/media/201702/hugo-netlify-001.png"
-+++
+---
+title: "Netlify と Hugo の組合せでハマったところ"
+date: "2017-02-11T23:48:21+09:00"
+tags: ["netlify","hugo"]
+draft: false
+image: "/media/201702/hugo-netlify-001.png"
+---
 
 ### 【追記】
 

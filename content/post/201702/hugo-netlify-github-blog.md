@@ -1,10 +1,10 @@
-+++
-title = "Hugo + Netlify + GitHub でブログを作った"
-date = "2017-02-07T21:38:21+09:00"
-tags = ["hugo","netlify","github","blog","freenom","about"]
-draft = false
-image = "/media/201707/netlify.png"
-+++
+---
+title: "Hugo + Netlify + GitHub でブログを作った"
+date: "2017-02-07T21:38:21+09:00"
+tags: ["hugo","netlify","github","blog","freenom","about"]
+draft: false
+image: "/media/201707/netlify.png"
+---
 
 タイトルそのまんまですが、[Hugo](https://gohugo.io/) + [Netlify](https://www.netlify.com/) + [GitHub](https://github.com/matsuoshi/sound.ml) でブログを作りました。
 

@@ -1,12 +1,10 @@
-+++
-title = "DMM mobile の速度制限がヤバい"
-date = "2017-03-21T23:41:26+09:00"
-tags = [
-  "mobile","mvno","sim"
-]
-draft = false
-image = "/media/201703/dmm-speed.jpg"
-+++
+---
+title: "DMM mobile の速度制限がヤバい"
+date: "2017-03-21T23:41:26+09:00"
+tags: ["mobile","mvno","sim"]
+draft: false
+image: "/media/201703/dmm-speed.jpg"
+---
 
 [DMM mobile](http://mvno.dmm.com/) の SIM を購入したのですが、速度制限がヤバい。悪い意味で。つらい。
 

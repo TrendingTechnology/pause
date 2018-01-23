@@ -1,10 +1,10 @@
-+++
-title = "Ada - Whatpeopleplay Podcast"
-date = "2017-03-12T15:45:21+09:00"
-tags = ["music","techno","house","djmix","2017"]
-draft = false
-image = "https://i1.sndcdn.com/artworks-000206461701-5zqdl0-t500x500.jpg"
-+++
+---
+title: "Ada - Whatpeopleplay Podcast"
+date: "2017-03-12T15:45:21+09:00"
+tags: ["music","techno","house","djmix","2017"]
+draft: false
+image: "https://i1.sndcdn.com/artworks-000206461701-5zqdl0-t500x500.jpg"
+---
 
 僕の 2016年 レコード大賞および踊るヒット賞 は Ada の "You and Me" なわけですが、その Ada の DJミックスが公開されていたので貼り付けます
 

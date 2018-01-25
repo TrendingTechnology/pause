@@ -1,10 +1,10 @@
-+++
-title = "Warpaint のライブに行ってきた"
-date = "2017-03-02T21:42:00+09:00"
-tags = ["music","live","event","indie","psychedelic"]
-draft = false
-image = "https://scontent.cdninstagram.com/t51.2885-15/e35/16908452_1686134551685772_5906725254964707328_n.jpg"
-+++
+---
+title: "Warpaint のライブに行ってきた"
+date: "2017-03-02T21:42:00+09:00"
+tags: ["music","live","event","indie","psychedelic"]
+draft: false
+image: "https://scontent.cdninstagram.com/t51.2885-15/e35/16908452_1686134551685772_5906725254964707328_n.jpg"
+---
 
 2017.03.01 梅田クラブクアトロ。
 

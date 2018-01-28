@@ -1,12 +1,10 @@
-+++
-title = "coincheck の残高をマネーフォワードで確認できるようになってた"
-date = "2017-04-10T22:13:13+09:00"
-tags = [
-  "bitcoin"
-]
-draft = false
-image = "https://coincheck.com/wp-content/uploads/2017/03/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2017-03-28-19.41.55.png"
-+++
+---
+title: "coincheck の残高をマネーフォワードで確認できるようになってた"
+date: "2017-04-10T22:13:13+09:00"
+tags: ["bitcoin"]
+draft: false
+image: "https://coincheck.com/wp-content/uploads/2017/03/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2017-03-28-19.41.55.png"
+---
 
 ビットコインやらなんやらを簡単に取引できる [coincheck](https://coincheck.com/?c=8Pyt5PCWomI) ってサイトがありまして。僕は今年に入ってからビットコイン、勉強を兼ねてちょろっと買いはじめたのですが、思った以上に手軽でびっくりしました。ビットコイン以外にもイーサリアムやらリップルやら、いわゆる仮想通貨・暗号通貨をいろいろ取引できるようです。
 

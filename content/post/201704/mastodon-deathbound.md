@@ -1,10 +1,10 @@
-+++
-title = "Mastodon - Deathbound"
-date = "2017-04-13T20:51:51+09:00"
-tags = ["music","metal","sludge","2011"]
-draft = false
-youtube = "Xr9_e4ySRYA"
-+++
+---
+title: "Mastodon - Deathbound"
+date: "2017-04-13T20:51:51+09:00"
+tags: ["music","metal","sludge","2011"]
+draft: false
+youtube: "Xr9_e4ySRYA"
+---
 
 マストドンという、twitter ライクなウェブサービスが流行りだしているらしい。
 

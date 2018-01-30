@@ -1,9 +1,9 @@
-+++
-title = "about"
-date = "2017-02-06T22:22:22+09:00"
-draft = false
-amazon = "B00005CDUY"
-+++
+---
+title: "about"
+date: "2017-02-06T22:22:22+09:00"
+draft: false
+amazon: "B00005CDUY"
+---
 
 [![avatar](/media/avatar.jpg)](https://facebook.com/matsuoshi)
 

@@ -1,13 +1,10 @@
-+++
-title = "Shobaleader One - Squarepusher Theme"
-date = "2017-04-27T16:22:14+09:00"
-tags = [
-  "music","drum'n'bass","techno","2017"
-]
-draft = false
-image = ""
-youtube = "kX9QE6OBvoY"
-+++
+---
+title: "Shobaleader One - Squarepusher Theme"
+date: "2017-04-27T16:22:14+09:00"
+tags: ["music","drum'n'bass","techno","2017"]
+draft: false
+youtube: "kX9QE6OBvoY"
+---
 
 Squarepusher の曲を生演奏でやってしまっているという超絶バンド
 

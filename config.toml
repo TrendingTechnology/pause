@@ -5,6 +5,9 @@ paginate = 24
 googleAnalytics = "UA-44406328-7"
 
 
+[blackfriday]
+smartypants = false
+
 [author]
 name = "matsuoshi"
 image = "/media/avatar.jpg"

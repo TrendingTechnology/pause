@@ -14,7 +14,8 @@ Rosemary Fairweather はカナダの女性シンガー。
 
 {{<youtube src="mGrcG-7EeVk" title="Rosemary Fairweather - Chemicals">}}
 {{<youtube src="c_9o4eCTL0g" title="Rosemary Fairweather - Too Low">}}
-{{<youtube src="tPUJpAh-Nt4" title="Rosemary Fairweather - I Wasn't There">}}
+{{<youtube src="C_navRh97o8" title="Rosemary Fairweather - I Wasn't There">}}
+{{<youtube src="dA5EmU5YHf8" title="Rosemary Fairweather - Start Promising">}}
 
 まあなかなか耽美系です
 

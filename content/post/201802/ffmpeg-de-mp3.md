@@ -1,7 +1,7 @@
 ---
 title: "Mac でコマンドラインから、WAV → mp3 など音声ファイルの形式を変換"
 date: "2018-02-03T14:00:00+09:00"
-tags: ["music","mac"]
+tags: ["mac","mp3"]
 draft: false
 ---
 
@@ -11,7 +11,7 @@ Mac で、コマンドライン、CLI から、WAV やら m4a やらを mp3化�
 
 ffmepg を使う。
 
-homebrew でインストールしておいて、
+homebrew で ffmpeg をインストールしておいて、ターミナルから
 
 ```
 ffmpeg -i <input-file> -f mp3 -b:a 192k <output-file>

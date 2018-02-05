@@ -1,12 +1,10 @@
-+++
-title = "Depeche Mode が David Bowie \"Heroes\" をライブでカバー"
-date = "2017-05-09T19:40:14+09:00"
-tags = [
-  "music","rock"
-]
-draft = false
-image = "http://www.electronicbeats.net/app/uploads/2017/02/Depeche-Mode-1200x675.jpg"
-+++
+---
+title: "Depeche Mode が David Bowie \"Heroes\" をライブでカバー"
+date: "2017-05-09T19:40:14+09:00"
+tags: ["music","rock"]
+draft: false
+image: "http://www.electronicbeats.net/app/uploads/2017/02/Depeche-Mode-1200x675.jpg"
+---
 
 タイトルそのまんまです。
 

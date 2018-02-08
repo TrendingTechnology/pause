@@ -1,12 +1,10 @@
-+++
-title = "DMM mobile から OCNモバイルONE に乗り換えて順調"
-date = "2017-05-10T09:41:26+09:00"
-tags = [
-  "mobile","mvno","sim"
-]
-draft = false
-image = "/media/201703/dmm-speed.jpg"
-+++
+---
+title: "DMM mobile から OCNモバイルONE に乗り換えて順調"
+date: "2017-05-10T09:41:26+09:00"
+tags: ["mobile","mvno","sim"]
+draft: false
+image: "/media/201703/dmm-speed.jpg"
+---
 
 MVNOいわゆる格安SIMの話です。
 

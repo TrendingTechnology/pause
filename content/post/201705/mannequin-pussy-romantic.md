@@ -1,10 +1,10 @@
-+++
-title = "Mannequin Pussy - Romantic"
-date = "2017-05-08T17:55:21+09:00"
-tags = ["music","indie","garage","2016"]
-draft = false
-youtube = "vMIi99Iy_Xo"
-+++
+---
+title: "Mannequin Pussy - Romantic"
+date: "2017-05-08T17:55:21+09:00"
+tags: ["music","indie","garage","2016"]
+draft: false
+youtube: "vMIi99Iy_Xo"
+---
 
 女性ボーカル・ガレージバンド。
 

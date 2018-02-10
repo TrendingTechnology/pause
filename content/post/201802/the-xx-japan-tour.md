@@ -19,6 +19,10 @@ image: https://scontent-nrt1-1.cdninstagram.com/vp/a2ab80310d451b996879c315a2e71
 
 盛り上がりもこれが相当だったんだよ…… すばらしい内容でした。
 
+{{<youtube src="HbLkExHEaqQ">}}
+
+YouTube に 2017年のライブ・フルセットがあったので貼っておきます。
+
 <div style="text-align: center;" class="setlistImage"><a href="https://www.setlist.fm/setlist/the-xx/2018/zepp-osaka-bayside-osaka-japan-4beecf6e.html" title="The xx Setlist Zepp Osaka Bayside, Osaka, Japan 2018, I See You" target="_blank"><img src="https://www.setlist.fm/widgets/setlist-image-v1?id=4beecf6e" alt="The xx Setlist Zepp Osaka Bayside, Osaka, Japan 2018, I See You" style="border: 0;" /></a>
 <div><a href="https://www.setlist.fm/edit?setlist=4beecf6e&amp;step=song">Edit this setlist</a> | <a href="https://www.setlist.fm/setlists/the-xx-43d4eb37.html">More The xx setlists</a></div></div>
 

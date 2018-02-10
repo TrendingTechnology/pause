@@ -1,10 +1,10 @@
-+++
-title = "Mount Kimbie - Marilyn ft. Micachu"
-date = "2017-05-12T16:52:28+09:00"
-tags = ["music","electronic","2017"]
-draft = false
-youtube = "VjSKEyR2vDo"
-+++
+---
+title: "Mount Kimbie - Marilyn ft. Micachu"
+date: "2017-05-12T16:52:28+09:00"
+tags: ["music","electronic","2017"]
+draft: false
+youtube: "VjSKEyR2vDo"
+---
 
 先日 James Blake をボーカルに据えた新曲を発表してた Mount Kimbie, 次の新曲は featuring Micachu!!!!
 

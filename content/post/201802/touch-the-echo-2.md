@@ -1,7 +1,7 @@
 ---
 title: "Touch the Echo vol.2 @ space eauuu に参加します"
 date: "2018-02-08T12:00:00+09:00"
-tags: ["event","dj"]
+tags: ["music","event","dj"]
 image: https://pbs.twimg.com/media/DUrSSBeUMAAAXBZ.jpg
 ---
 

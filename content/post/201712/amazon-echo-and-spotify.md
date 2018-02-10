@@ -1,5 +1,5 @@
 ---
-title: "Amazon Echo は Spotify に対応していなかった"
+title: "日本の Amazon Echo は Spotify に対応していなかった"
 date: "2017-12-09T12:12:12+09:00"
 tags: ["amazon echo", "spotify", "smart speaker", "alexa"]
 draft: false
@@ -36,7 +36,7 @@ image: https://scontent-nrt1-1.cdninstagram.com/t51.2885-15/e35/24331588_3437852
 
 現在はページが表示されません…… マジですか…… 前はちゃんと書いてたじゃないですか…… 証拠残したりとかしてないけど…… ちなみに[英語ページ](https://www.spotify.com/us/amazonalexa/)なら見れますね…… "You need Premium to listen to Spotify with Alexa" ってね……
 
-なお、はてブはしてありました。確かにページはあったんだよ、信じておくれ。
+なお、はてブは残してありました。確かにページはあったんだよ、信じておくれ。
 
 > [はてなブックマーク - Amazon Alexa - Spotify](http://b.hatena.ne.jp/entry/s/www.spotify.com/jp/amazonalexa/)
 

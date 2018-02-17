@@ -1,10 +1,10 @@
-+++
-title = "Washed Out - Get Lost"
-date = "2017-05-31T10:00:00+09:00"
-tags = ["music","chillwave","electronic","2017"]
-draft = false
-youtube = "xTjQHfP1KOo"
-+++
+---
+title: "Washed Out - Get Lost"
+date: "2017-05-31T10:00:00+09:00"
+tags: ["music","chillwave","electronic","2017"]
+draft: false
+youtube: "xTjQHfP1KOo"
+---
 
 Washed Out ひさしぶり(？)の新曲は、今までになくディスコ／ハウス感のあるトラックですねー
 

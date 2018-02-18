@@ -4,3 +4,4 @@
 /themes/pause/static/js/
 npm-debug.log*
 .DS_Store
+.idea

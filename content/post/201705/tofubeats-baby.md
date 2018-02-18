@@ -1,12 +1,10 @@
-+++
-title = "tofubeats - FANTASY CLUB"
-date = "2017-05-23T14:00:14+09:00"
-tags = [
-  "music", "japanese", "electronic","2017"
-]
-draft = false
-youtube = "e_K-8acKFNU"
-+++
+---
+title: "tofubeats - FANTASY CLUB"
+date: "2017-05-23T14:00:14+09:00"
+tags: ["music", "japanese", "electronic","2017"]
+draft: false
+youtube: "e_K-8acKFNU"
+---
 
 tofubeats の 3rdアルバム "FANTASY CLUB" が明日発売。
 

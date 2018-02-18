@@ -1,12 +1,10 @@
-+++
-title = "Spotify と Trello を IFTTT で連携させた"
-date = "2017-05-03T12:18:36+09:00"
-tags = [
-  "music","spotify","trello","tool","ifttt"
-]
-image = "/media/201705/ifttt-spotify-01.jpg"
-draft = false
-+++
+---
+title: "Spotify と Trello を IFTTT で連携させた"
+date: "2017-05-03T12:18:36+09:00"
+tags: ["music","spotify","trello","tool","ifttt"]
+image: "/media/201705/ifttt-spotify-01.jpg"
+draft: false
+---
 
 最近、聴きたい音楽を選ぶのが面倒なときは Spotify のプレイリストとかネットラジオとかをダダ流ししています。面倒なときはいろいろなことが面倒になるので。
 

@@ -1,10 +1,10 @@
-+++
-title = "Japanese Breakfast - Psychopomp"
-date = "2017-06-08T18:18:18+09:00"
-tags = ["music","indie","indie pop", "dreampop","2016"]
-draft = false
-amazon = "B01H4EVS8W"
-+++
+---
+title: "Japanese Breakfast - Psychopomp"
+date: "2017-06-08T18:18:18+09:00"
+tags: ["music","indie","indie pop", "dreampop","2016"]
+draft: false
+amazon: "B01H4EVS8W"
+---
 
 ジャパニーズ・ブレイクファスト。  
 ジャパニーズといいつつ、ソウル出身の韓国系アメリカ人、ミシェル・ザウナーさんによるソロプロジェクト。

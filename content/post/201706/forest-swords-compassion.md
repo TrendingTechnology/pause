@@ -1,10 +1,10 @@
-+++
-title = "Forest Swords - Compassion"
-date = "2017-06-14T23:23:23+09:00"
-tags = ["music","psychedelic","dub","electronic","2017"]
-draft = false
-youtube = "wyUSfuL9dxY"
-+++
+---
+title: "Forest Swords - Compassion"
+date: "2017-06-14T23:23:23+09:00"
+tags: ["music","psychedelic","dub","electronic","2017"]
+draft: false
+youtube: "wyUSfuL9dxY"
+---
 
 ジャンルはなんと言っていいのやらですが、Forest Swords の新譜が Ninja Tune からでてた。
 

@@ -1,10 +1,10 @@
-+++
-title = "Goat - Requiem"
-date = "2017-06-27T13:13:13+09:00"
-tags = ["music","psychedelic","2016"]
-draft = false
-amazon = "B01IRBZYV8"
-+++
+---
+title: "Goat - Requiem"
+date: "2017-06-27T13:13:13+09:00"
+tags: ["music","psychedelic","2016"]
+draft: false
+amazon: "B01IRBZYV8"
+---
 
 もう見た目からしてだいぶ怪しいんですが、スウェーデンのサイケデリック・バンド。どこの国か分からない民族衣装と仮面、サイケでトライバルなサウンド。怪しい。
 

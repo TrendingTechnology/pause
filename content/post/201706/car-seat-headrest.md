@@ -1,10 +1,10 @@
-+++
-title = "Car Seat Headrest - Teens of Denial"
-date = "2017-06-13T13:13:13+09:00"
-tags = ["music","indie","indie rock","lo-fi","2017"]
-draft = false
-amazon = "B01G454YV0"
-+++
+---
+title: "Car Seat Headrest - Teens of Denial"
+date: "2017-06-13T13:13:13+09:00"
+tags: ["music","indie","indie rock","lo-fi","2017"]
+draft: false
+amazon: "B01G454YV0"
+---
 
 あー これ matador から出てるのかー
 

@@ -1,10 +1,10 @@
-+++
-title = "Jameszoo - Fool"
-date = "2017-06-30T13:13:13+09:00"
-tags = ["music","electronic","jazz","experimental","2016"]
-draft = false
-amazon = "B01D307T3E"
-+++
+---
+title: "Jameszoo - Fool"
+date: "2017-06-30T13:13:13+09:00"
+tags: ["music","electronic","jazz","experimental","2016"]
+draft: false
+amazon: "B01D307T3E"
+---
 
 よくわからない感じ
 

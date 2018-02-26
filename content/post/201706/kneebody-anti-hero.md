@@ -1,10 +1,10 @@
-+++
-title = "Kneebody - Anti-Hero"
-date = "2017-06-23T13:13:13+09:00"
-tags = ["music","jazz","2017"]
-draft = false
-amazon = "B01MYGVUPF"
-+++
+---
+title: "Kneebody - Anti-Hero"
+date: "2017-06-23T13:13:13+09:00"
+tags: ["music","jazz","2017"]
+draft: false
+amazon: "B01MYGVUPF"
+---
 
 家族におしえてもらったやつ。
 

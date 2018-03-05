@@ -1,10 +1,10 @@
-+++
-title = "Anna Meredith - Varmints"
-date = "2017-07-25T15:15:15+09:00"
-tags = ["music","classical","experimental","modern classical","2016"]
-draft = false
-youtube = "Vajhs2wBeCU"
-+++
+---
+title: "Anna Meredith - Varmints"
+date: "2017-07-25T15:15:15+09:00"
+tags: ["music","classical","experimental","modern classical","2016"]
+draft: false
+youtube: "Vajhs2wBeCU"
+---
 
 よくわかんないですけど最高ですね。
 

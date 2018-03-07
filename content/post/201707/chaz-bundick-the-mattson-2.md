@@ -1,10 +1,10 @@
-+++
-title = "Chaz Bundick Meets The Mattson 2 - Star Stuff"
-date = "2017-07-11T12:12:12+09:00"
-tags = ["music","psychedelic","jazz","2017"]
-draft = false
-youtube = "blz2IpGR1Sg"
-+++
+---
+title: "Chaz Bundick Meets The Mattson 2 - Star Stuff"
+date: "2017-07-11T12:12:12+09:00"
+tags: ["music","psychedelic","jazz","2017"]
+draft: false
+youtube: "blz2IpGR1Sg"
+---
 
 たまたま耳にして、「なんか Toro Y Moi が Sam Prekop (The Sea and Cake) 風にジャジーなサウンドやってる雰囲気だな〜」と思ってググってみたら、ほんとに Toro Y Moi の人だった。
 

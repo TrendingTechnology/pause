@@ -1,7 +1,7 @@
 ---
 title: "2017年に参加した勉強会／セミナー／ミートアップ"
 date: "2018-01-29T12:00:00+09:00"
-tags: ["study","event"]
+tags: ["study","event","community"]
 draft: false
 image: /media/201702/phpblt-6-04.jpg
 ---

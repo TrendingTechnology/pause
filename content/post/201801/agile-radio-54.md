@@ -1,7 +1,7 @@
 ---
 title: "「アジャイルラジオ」という Podcast に参加して、RSGT2018 の話をした"
 date: "2018-01-22T12:00:00+09:00"
-tags: ["agile","radio","podcast","scrum","rsgt"]
+tags: ["agile","radio","podcast","scrum","rsgt","community"]
 draft: false
 image: /media/201801/agileradio.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 title: "カスタム・プロパティと cssnext"
 date: "2017-02-13T09:28:24+09:00"
-tags: [ "css", "cssnext", "custom property", "slide", "csstalk", "study" ]
+tags: [ "css", "cssnext", "custom property", "slide", "csstalk", "study", "event", "community" ]
 draft: false
 image: "https://www.tam-tam.co.jp/tipsnote/wpdata/wp-content/uploads/2017/02/IMG_5394.jpg"
 ---

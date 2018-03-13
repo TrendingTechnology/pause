@@ -1,7 +1,7 @@
 ---
 title: "スクラム道関西 第100回に参加してきた"
 date: "2018-02-25T12:00:00+09:00"
-tags: ["scrum","event","agile"]
+tags: ["scrum","event","agile","study","community"]
 draft: false
 image: /media/201802/scrumdo.jpg
 ---

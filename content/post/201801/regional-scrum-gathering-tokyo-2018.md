@@ -1,7 +1,7 @@
 ---
 title: "Regional Scrum Gathering Tokyo 2018 に参加してきました #RSGT2018"
 date: "2018-01-15T12:00:00+09:00"
-tags: ["scrum","event","agile","rsgt"]
+tags: ["scrum","event","agile","rsgt","study","community"]
 draft: false
 image: "https://farm5.staticflickr.com/4614/39671151952_56be55425e_b.jpg"
 ---

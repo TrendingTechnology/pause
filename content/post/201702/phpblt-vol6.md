@@ -1,7 +1,7 @@
 ---
 title: "PHP BLT #6 @ メルカリさん に参加してきました #phpblt"
 date: "2017-02-25T12:12:12+09:00"
-tags: ["php", "study"]
+tags: ["php", "study", "community", "event"]
 draft: false
 image: "/media/201702/phpblt-6-00.jpg"
 ---

@@ -4,7 +4,7 @@ date: "2017-07-04T12:12:12+09:00"
 tags: ["music","shoegaze","noise rock","lo-fi","psychedelic","dreampop","2016"]
 draft: false
 image: "https://images-fe.ssl-images-amazon.com/images/I/61ZuHhvcjNL._SS500.jpg"
-description = "カナダの女性ボーカル・シューゲイザー・バンド。"
+description: "カナダの女性ボーカル・シューゲイザー・バンド。"
 ---
 
 カナダの女性ボーカル・シューゲイザー・バンド。

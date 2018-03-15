@@ -1,10 +1,10 @@
-+++
-title = "Netlify 上で使う Hugo のバージョンを指定する"
-date = "2017-07-27T12:12:12+09:00"
-tags = ["hugo","netlify","blog"]
-draft = false
-image = "/media/201707/netlify.png"
-+++
+---
+title: "Netlify 上で使う Hugo のバージョンを指定する"
+date: "2017-07-27T12:12:12+09:00"
+tags: ["hugo","netlify","blog"]
+draft: false
+image: "/media/201707/netlify.png"
+---
 
 このブログは [Netlify](https://www.netlify.com/) + [Hugo](https://gohugo.io/) で作っております。
 

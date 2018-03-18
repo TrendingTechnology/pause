@@ -1,10 +1,10 @@
-+++
-title = "Actress x London Contemporary Orchestra - Audio Track 5"
-date = "2017-08-24T12:12:12+09:00"
-tags = ["music","electronic","techno","2017"]
-draft = false
-image = "/media/201708/actress.jpg"
-+++
+---
+title: "Actress x London Contemporary Orchestra - Audio Track 5"
+date: "2017-08-24T12:12:12+09:00"
+tags: ["music","electronic","techno","2017"]
+draft: false
+image: "/media/201708/actress.jpg"
+---
 
 Actress と London Contemporary Orchestra によるコラボレーション・シングル。
 

@@ -1,10 +1,10 @@
-+++
-title = "ミラーレス一眼 GX7MK2 を買った"
-date = "2017-08-05T06:12:12+09:00"
-tags = ["camera","photo"]
-draft = false
-image = "https://farm5.staticflickr.com/4355/35524873124_2b66eea3c3_b.jpg"
-+++
+---
+title: "ミラーレス一眼 GX7MK2 を買った"
+date: "2017-08-05T06:12:12+09:00"
+tags: ["camera","photo"]
+draft: false
+image: "https://farm5.staticflickr.com/4355/35524873124_2b66eea3c3_b.jpg"
+---
 
 パナソニックのミラーレス一眼 [DMC-GX7MK2](http://www.amazon.co.jp/exec/obidos/ASIN/B01E357TUG/udonudon-22/) を買いました。
 

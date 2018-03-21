@@ -1,10 +1,10 @@
-+++
-title = "海外サッカーの時期なので DAZN の放送予定表 dztv.ml をつくった"
-date = "2017-08-17T12:12:12+09:00"
-tags = ["football","develop"]
-draft = false
-image = "/media/201708/dazn.jpg"
-+++
+---
+title: "海外サッカーの時期なので DAZN の放送予定表 dztv.ml をつくった"
+date: "2017-08-17T12:12:12+09:00"
+tags: ["football","develop"]
+draft: false
+image: "/media/201708/dazn.jpg"
+---
 
 海外サッカーの時期なので。
 

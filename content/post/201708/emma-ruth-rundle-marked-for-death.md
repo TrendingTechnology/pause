@@ -1,10 +1,10 @@
-+++
-title = "Emma Ruth Rundle - Marked for Death"
-date = "2017-08-07T12:12:12+09:00"
-tags = ["music","ssw","alternative","folk","2016"]
-draft = false
-youtube = "asTily3XuNk"
-+++
+---
+title: "Emma Ruth Rundle - Marked for Death"
+date: "2017-08-07T12:12:12+09:00"
+tags: ["music","ssw","alternative","folk","2016"]
+draft: false
+youtube: "asTily3XuNk"
+---
 
 Red Sparowes というヘヴィな、ポスト・ロックというかポスト・メタルなバンドがあるのですが、そのメンバー Emma Ruth Rundle さんのソロ作。かっこいい。
 

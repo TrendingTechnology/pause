@@ -1,10 +1,10 @@
-+++
-title = "Jenny Hval - Blood Bitch"
-date = "2017-08-02T12:12:12+09:00"
-tags = ["music","ssw","art pop","experimental","2016"]
-draft = false
-youtube = "ZVaWc00aZ30"
-+++
+---
+title: "Jenny Hval - Blood Bitch"
+date: "2017-08-02T12:12:12+09:00"
+tags: ["music","ssw","art pop","experimental","2016"]
+draft: false
+youtube: "ZVaWc00aZ30"
+---
 
 ノルウェーのよく分からない系シンガーソングライター Jenny Hval (ジェニー・ヴァル) さん。最初の印象は物静かでキレイな女性ボーカル曲、って感じなんだけど、すぐに気づく、おどろおどろしいというか、不穏な雰囲気。
 

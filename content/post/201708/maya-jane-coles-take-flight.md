@@ -1,10 +1,10 @@
-+++
-title = "Maya Jane Coles - Take Flight"
-date = "2017-08-27T14:14:14+09:00"
-tags = ["music","techno","deep house","house","tech house","2017"]
-draft = false
-youtube = "2qQb25KvdfY"
-+++
+---
+title: "Maya Jane Coles - Take Flight"
+date: "2017-08-27T14:14:14+09:00"
+tags: ["music","techno","deep house","house","tech house","2017"]
+draft: false
+youtube: "2qQb25KvdfY"
+---
 
 ナイス女性DJ Maya Jane Coles のニューアルバムがでたー
 

@@ -1,5 +1,5 @@
 ---
-title: "2.45インチの極小スマホ Jelly Pro を買った"
+title: "2.45インチの極小スマホ Jelly Pro を買った、ファースト・インプレッションは電池持ちが……"
 date: "2018-03-26T12:00:00+09:00"
 tags: ["gadget","android"]
 draft: false

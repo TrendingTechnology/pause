@@ -1,10 +1,10 @@
-+++
-title = "Replaio Radio でネットラジオを Android から聴いて Scrobble"
-date = "2017-08-01T12:12:12+09:00"
-tags = ["music","radio","android","last.fm"]
-draft = false
-image = "/media/201708/replaio.png"
-+++
+---
+title: "Replaio Radio でネットラジオを Android から聴いて Scrobble"
+date: "2017-08-01T12:12:12+09:00"
+tags: ["music","radio","android","last.fm"]
+draft: false
+image: "/media/201708/replaio.png"
+---
 
 ネットラジオ聞きながら last.fm に Scrobble するの、Android の [Replaio Radio](https://repla.io/) ってアプリでできましたよ、という話です。
 

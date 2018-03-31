@@ -1,10 +1,10 @@
-+++
-title = "Smerz - Okey"
-date = "2017-08-15T02:02:02+09:00"
-tags = ["music","electronic","r&b","2016"]
-draft = false
-youtube = "0ZiEMnPcmQQ"
-+++
+---
+title: "Smerz - Okey"
+date: "2017-08-15T02:02:02+09:00"
+tags: ["music","electronic","r&b","2016"]
+draft: false
+youtube: "0ZiEMnPcmQQ"
+---
 
 地味なR&B風味のエレクトロ、地味なんだけど、なんか妙にひっかかる。
 

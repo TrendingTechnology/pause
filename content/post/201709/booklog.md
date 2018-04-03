@@ -1,10 +1,10 @@
-+++
-title = "ブクログはじめました"
-date = "2017-09-26T20:40:00+09:00"
-tags = ["book","webservice"]
-draft = false
-image = "/media/201709/booklog.png"
-+++
+---
+title: "ブクログはじめました"
+date: "2017-09-26T20:40:00+09:00"
+tags: ["book","webservice"]
+draft: false
+image: "/media/201709/booklog.png"
+---
 
 最近、本をちまちま読んでるんですが、みなさん読んだ本の記録ってどうなさっていますか。ウェブサービスとかアプリとか使ってますか。や、なんか使って管理したいよねえ、と思いまして……
 

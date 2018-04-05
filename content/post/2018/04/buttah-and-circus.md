@@ -7,7 +7,7 @@ image: /media/2018/04/buttah-circus.png
 
 音楽とカレーのイベント[「ボタとサーカス」](http://circus-osaka.com/event/20180401/)にいってきました @ [名村造船所跡地](http://www.namura.cc/) (2018.04.01)
 
-{{<figure src="/media/2018/04/buttah-circus.png">}}
+[![](/media/2018/04/buttah-circus.png)](http://circus-osaka.com/event/20180401/)
 
 ガッツリとライブ観たのは tofubeats だけかなー。あと KAKATO (環ROY×鎮座DOPNESS), ZOMBIE-CHANG, DONUTS DISCO DELUXE (スチャダラANI, ロボ宙, AFRA), GOMA + U-zhaan あたりをチラ見。
 

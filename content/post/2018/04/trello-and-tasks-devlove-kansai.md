@@ -23,6 +23,12 @@ DevLOVE関西で、個人タスク管理について話す機会がありまし�
 <script async class="speakerdeck-embed" data-id="d81bf3e3ea93409daff1fa2ca8d53f0e" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
+参考URL
+
+- [Trello の各カードに期限日を設定して、Google Calendar に同期させる - Qiita](https://qiita.com/matsuoshi/items/293608fbacf5d9d09d0d)
+- [Trello のキーボード・ショートカットまとめ - Qiita](https://qiita.com/matsuoshi/items/9e72f0b8a5b972e20999)
+
+
 いや、Trello 大好きなんですわ。
 
 やりかたは好みいろいろで、たとえば「業務と私的なタスクを一緒に管理するかどうか」は意見別れるところかなぁと。あと「スケジュール管理ツールにタスクを連携させるかどうか」とか。完全な正解とかないと思うので、まずは自分のやりかたを晒して意見交換できればという気持ちでした。

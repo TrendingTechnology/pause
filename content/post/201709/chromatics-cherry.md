@@ -1,10 +1,10 @@
-+++
-title = "Chromatics - Cherry"
-date = "2017-09-08T14:14:14+09:00"
-tags = ["music","electro","synth-pop","2017"]
-draft = false
-image = "https://i1.sndcdn.com/artworks-000168705014-y0hq07-t500x500.jpg"
-+++
+---
+title: "Chromatics - Cherry"
+date: "2017-09-08T14:14:14+09:00"
+tags: ["music","electro","synth-pop","2017"]
+draft: false
+image: "https://i1.sndcdn.com/artworks-000168705014-y0hq07-t500x500.jpg"
+---
 
 Chromatics, ポートランドのシンセポップバンド。
 

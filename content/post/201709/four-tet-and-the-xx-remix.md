@@ -1,10 +1,10 @@
-+++
-title = "Four Tet による The xx のリミックス"
-date = "2017-09-20T08:08:08+09:00"
-tags = ["music","electronic","indie","electronica","2017"]
-draft = false
-youtube = "1eIYIqcqtqw"
-+++
+---
+title: "Four Tet による The xx のリミックス"
+date: "2017-09-20T08:08:08+09:00"
+tags: ["music","electronic","indie","electronica","2017"]
+draft: false
+youtube: "1eIYIqcqtqw"
+---
 
 The xx "a Violent Noise" の Four Tet によるリミックスが公開されていました。相変わらずかっこいい……。ダンサブルでミニマルで、クラブ仕様な感じですね。
 

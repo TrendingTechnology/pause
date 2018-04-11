@@ -15,7 +15,7 @@ Android の Chrome のスタート画面って「よくアクセスするペー�
 {{<figure src="/media/2018/04/chrome.png">}}
 
 1. Chrome から、 <chrome://flags> にアクセス
-2. "Show server-side suggestions on the New Tab page" って項目を探す
+2. "Show server-side suggestions on the New Tab page" って項目を探す  
 めっちゃ縦に長いページなので、検索ボックスから検索したほうが早いです
 3. オプションを "Disabled" に設定
 

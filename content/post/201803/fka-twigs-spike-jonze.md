@@ -38,3 +38,5 @@ Spike Jonze のビデオといえば やはりこれかなあ
 {{<youtube src="3yDP9MKVhZc" title="FKA twigs - Two Weeks">}}
 
 なに食って育ったら FKA Twigs みたいになれるのか。
+
+{{<youtube src="vvPeJLcK2Lk" title="Anderson .Paak - Am I Wrong">}}

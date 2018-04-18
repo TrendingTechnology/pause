@@ -1,10 +1,10 @@
-+++
-title = "Kero Kero Bonito - Rock 'n' Roll Star"
-date = "2017-09-12T13:13:13+09:00"
-tags = ["music","electro","pop","elepop","2017"]
-draft = false
-image = "/media/201709/kerokerobonito.jpg"
-+++
+---
+title: "Kero Kero Bonito - Rock 'n' Roll Star"
+date: "2017-09-12T13:13:13+09:00"
+tags: ["music","electro","pop","elepop","2017"]
+draft: false
+image: "/media/201709/kerokerobonito.jpg"
+---
 
 ケロケロ・ボニトが！ なんか妙なカバー曲を！
 

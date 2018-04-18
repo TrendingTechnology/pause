@@ -15,4 +15,3 @@ youtube: bKVZ0STJ1cM
 ↓ こちらはラッパー Smoke Dza をフィーチャリングしてて、よりネオR&B な感じに。
 
 {{<youtube src="bKVZ0STJ1cM" title="Ellen O - Every Day feat. Smoke Dza">}}
-

@@ -1,10 +1,10 @@
-+++
-title = "ニンテンドー SWITCH を買えてしまった"
-date = "2017-09-03T23:23:23+09:00"
-tags = ["game","switch"]
-draft = false
-image = "https://scontent-nrt1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/21295204_124677041514939_1991134052307959808_n.jpg"
-+++
+---
+title: "ニンテンドー SWITCH を買えてしまった"
+date: "2017-09-03T23:23:23+09:00"
+tags: ["game","switch"]
+draft: false
+image: "https://scontent-nrt1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/21295204_124677041514939_1991134052307959808_n.jpg"
+---
 
 ニンテンドー Switch, 前からちょっと触らせてもらってて、うーんやっぱ欲しいなーってなってて
 

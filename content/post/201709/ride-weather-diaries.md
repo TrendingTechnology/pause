@@ -1,10 +1,10 @@
-+++
-title = "Ride - Weather Diaries"
-date = "2017-09-18T10:10:10+09:00"
-tags = ["music","indie","indie rock","shoegaze","2017"]
-draft = false
-amazon = "B06XSRYDQY"
-+++
+---
+title: "Ride - Weather Diaries"
+date: "2017-09-18T10:10:10+09:00"
+tags: ["music","indie","indie rock","shoegaze","2017"]
+draft: false
+amazon: "B06XSRYDQY"
+---
 
 ライド。1988年結成、1995年解散。アルバム "Nowhere" "Going Blank Again" の2枚はシューゲイザーを代表するような作品かと思います。
 

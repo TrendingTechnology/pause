@@ -9,23 +9,18 @@ amazon: "B00005CDUY"
 
 author: [@matsuoshi](https://facebook.com/matsuoshi)
 
-静的サイトジェネレータでブログを作ってみたい、というほんの出来心から成り立つサイトです。[Hugo](https://gohugo.io/) と GitHub と [Netlify](https://www.netlify.com/) と [freenom](http://www.freenom.com/) で作っています。2017年2月スタート。
+静的サイトジェネレータでブログを作ってみたい、というほんの出来心から成り立つサイトです。[Hugo](https://gohugo.io/) と [Netlify](https://www.netlify.com/) で作っています。2017年2月スタート。
 
-中身はほとんどがちょっと気になった音楽のメモで、あとウェブのこととか、サッカーのこととか。ある程度曲数が増えたら [Spotify プレイリストにまとめています](/tags/playlist)。
+中身はほとんどがちょっと気になった音楽のメモです。ある程度メモした曲数が増えたら [Spotify プレイリストにまとめています](/tags/playlist)。
 
 顛末などはこのへんの記事に。
 
 > - [Hugo + Netlify + GitHub でブログを作った](/post/201702/hugo-netlify-github-blog/)  
 > - [ブログ読んでます〜 って言ってもらえる機会があったので、あらためて](/post/201709/blog-daradara/)
 
-タイトルの pause に深い意味はありませんが、[FOUR TET の pause というアルバム](http://www.amazon.co.jp/exec/obidos/ASIN/B00005CDUY/udonudon-22/)のことはちょっと意識しました。
-
-{{<youtube YM-kCNBrkqk>}}
-
 #### その他 blog, sns
 
-- [disco//very](http://discovery.hatenablog.com/) (おしごと参考系)
-- [monaurallab](http://matsuoshi.hatenablog.com/) (放置中) 
+- [everybody works](http://matsuoshi.hatenablog.com/) (仕事や技術関連のこと、音楽以外の趣味のことなど、不定期更新) 
 
 <ul class="socialIcons">
 <li><a class="altColor" href="https://facebook.com/matsuoshi"><i class="fa fa-facebook-square"></i></a></li>

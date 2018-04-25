@@ -9,6 +9,8 @@ amazon: "B00005CDUY"
 
 author: [@matsuoshi](https://facebook.com/matsuoshi)
 
+monaural は モノラルと読みます。
+
 静的サイトジェネレータでブログを作ってみたい、というほんの出来心から成り立つサイトです。[Hugo](https://gohugo.io/) と [Netlify](https://www.netlify.com/) で作っています。2017年2月スタート。
 
 中身はほとんどがちょっと気になった音楽のメモです。ある程度メモした曲数が増えたら [Spotify プレイリストにまとめています](/tags/playlist)。

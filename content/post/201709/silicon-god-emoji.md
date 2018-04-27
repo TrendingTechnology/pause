@@ -1,10 +1,10 @@
-+++
-title = "Silicon - God Emoji"
-date = "2017-09-10T12:12:12+09:00"
-tags = ["music","electro","downtempo","2015"]
-draft = false
-amazon = "B00ZFTGA8C"
-+++
+---
+title: "Silicon - God Emoji"
+date: "2017-09-10T12:12:12+09:00"
+tags: ["music","electro","downtempo","2015"]
+draft: false
+amazon: "B00ZFTGA8C"
+---
 
 ハワイ出身で現在ニュージーランド在住の Kody Nielson さんによるソロ・エレクトロ・プロジェクト、Silicon。
 

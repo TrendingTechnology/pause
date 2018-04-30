@@ -1,10 +1,10 @@
-+++
-title = "Diggy-MO' - Bewitched"
-date = "2017-10-06T23:23:23+09:00"
-tags = ["music","japanese","hip-hop","2017"]
-draft = false
-amazon = "B01NCQB3W0"
-+++
+---
+title: "Diggy-MO' - Bewitched"
+date: "2017-10-06T23:23:23+09:00"
+tags: ["music","japanese","hip-hop","2017"]
+draft: false
+amazon: "B01NCQB3W0"
+---
 
 元 SOUL'd OOUT の Diggi-MO' のソロアルバム。今回の、すごいっすね。
 

@@ -1,10 +1,10 @@
-+++
-title = "Homeshake - Fresh Air"
-date = "2017-10-01T13:13:13+09:00"
-tags = ["music","electro","lo-fi","alt r&b","chill","downtempo","psychedelic","2017"]
-draft = false
-amazon = "B01NADHRFB"
-+++
+---
+title: "Homeshake - Fresh Air"
+date: "2017-10-01T13:13:13+09:00"
+tags: ["music","electro","lo-fi","alt r&b","chill","downtempo","psychedelic","2017"]
+draft: false
+amazon: "B01NADHRFB"
+---
 
 ちょっと表現しにくい独特のチル感。
 カナダのお一人様プロジェクト Homeshake のアルバム "Fresh Air" がよいです。

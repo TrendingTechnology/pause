@@ -6,10 +6,10 @@
   "author": "matsuoshi@gmail.com",
   "license": "MIT",
   "devDependencies": {
-    "babel-core": "^6.21.0",
+    "babel-core": "^6.26.3",
     "babel-loader": "^6.2.10",
     "babel-preset-env": "^1.6.1",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.9.0",
     "webpack": "^2.6.1"
   },
   "scripts": {

@@ -1,10 +1,10 @@
-+++
-title = "Little Dragon - Season High"
-date = "2017-10-31T18:18:18+09:00"
-tags = ["music","electronic","chill","alt r&b","2017"]
-draft = false
-amazon = "B06XJ6PY11"
-+++
+---
+title: "Little Dragon - Season High"
+date: "2017-10-31T18:18:18+09:00"
+tags: ["music","electronic","chill","alt r&b","2017"]
+draft: false
+amazon: "B06XJ6PY11"
+---
 
 スウェーデンの Little Dragon (そしてボーカルは日系スウェーデン人), 2017年のアルバム Season High です。
 

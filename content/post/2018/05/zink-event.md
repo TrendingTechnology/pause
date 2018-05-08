@@ -17,9 +17,10 @@ Bar ZINK 6周年イベントに参加してきました。
 
 選曲は完全ノープランで挑んだのですが、結局なんとなく「毛」っぽさが出てたのではと思います。
 
-このへんをかけました。
+前半はアホっぽく、後半はちょっと落ち着こうと、このへんをかけました。
 
 {{<youtube src="naHqy-dA9QY" title="KAKATO - AH">}}
+{{<youtube src="9mDe_uBmpHM" title="tofubeats - ひみつ">}}
 {{<youtube src="MTSr8GUsZ-I" title="Toro y Moi - Mirage">}}
 
 Bar ZINK, 6周年おめでとうございます。

@@ -1,10 +1,10 @@
-+++
-title = "Wolf Alice - Visions Of A Life"
-date = "2017-10-24T14:14:14+09:00"
-tags = ["music","indie rock","alternative","shoegaze","2017"]
-draft = false
-amazon = "B073R6S448"
-+++
+---
+title: "Wolf Alice - Visions Of A Life"
+date: "2017-10-24T14:14:14+09:00"
+tags: ["music","indie rock","alternative","shoegaze","2017"]
+draft: false
+amazon: "B073R6S448"
+---
 
 映画「T2 トレインスポッティング」のサントラにも楽曲が使われていた、Wolf Alice のセカンド・アルバム。UKの女性ボーカル・オルタナティブ・ロックバンド。
 

@@ -1,10 +1,10 @@
-+++
-title = "XXYYXX - I Don't (feat. $K)"
-date = "2017-10-07T11:11:11+09:00"
-tags = ["music","electronic","alt R&B","chillwave","post dubstep","downtempo","2017"]
-draft = false
-youtube = "sbf0bUMWmtA"
-+++
+---
+title: "XXYYXX - I Don't (feat. $K)"
+date: "2017-10-07T11:11:11+09:00"
+tags: ["music","electronic","alt R&B","chillwave","post dubstep","downtempo","2017"]
+draft: false
+youtube: "sbf0bUMWmtA"
+---
 
 XXYYXX の新曲だ〜
 

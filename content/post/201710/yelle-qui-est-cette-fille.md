@@ -1,10 +1,10 @@
-+++
-title = "YELLE - Qui Est Cette Fille?"
-date = "2017-10-11T11:11:11+09:00"
-tags = ["music","electro","elepop","synth-pop","pop","2009"]
-draft = false
-youtube = "_mquC37QTV4"
-+++
+---
+title: "YELLE - Qui Est Cette Fille?"
+date: "2017-10-11T11:11:11+09:00"
+tags: ["music","electro","elepop","synth-pop","pop","2009"]
+draft: false
+youtube: "_mquC37QTV4"
+---
 
 古めの曲ですが、今日1日頭から離れないので。
 

@@ -1,10 +1,10 @@
-+++
-title = "Yosi Horikawa - Vapor"
-date = "2017-10-20T14:14:14+09:00"
-tags = ["music","electronic","experimental","downtempo","field recording","2013"]
-draft = false
-amazon = "B00CI7C8N0"
-+++
+---
+title: "Yosi Horikawa - Vapor"
+date: "2017-10-20T14:14:14+09:00"
+tags: ["music","electronic","experimental","downtempo","field recording","2013"]
+draft: false
+amazon: "B00CI7C8N0"
+---
 
 日本人アーティスト Yosi Horikawa, 全然しりませんでした。かっこいい。
 

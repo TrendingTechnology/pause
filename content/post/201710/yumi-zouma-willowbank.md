@@ -1,10 +1,10 @@
-+++
-title = "Yumi Zouma - Willowbank"
-date = "2017-10-15T11:11:11+09:00"
-tags = ["music","pop","indie-pop","citypop","2017"]
-draft = false
-amazon = "B074MCGQ6T"
-+++
+---
+title: "Yumi Zouma - Willowbank"
+date: "2017-10-15T11:11:11+09:00"
+tags: ["music","pop","indie-pop","citypop","2017"]
+draft: false
+amazon: "B074MCGQ6T"
+---
 
 ユミ・ゾウマってバンド名もそうだし、サウンドも一聴するとすごい最近の日本の若手ぽい雰囲気あるんだけど、ニュージーランド拠点のユニットだそうです。さわやか女性ボーカル・インディポップ。
 

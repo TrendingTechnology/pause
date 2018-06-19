@@ -12,7 +12,7 @@ amazon: B07BLJ76P7
 
 {{<youtube src="s7tnTucP1UM" title="Snail Mail - Pristine">}}
 
-シンプルなギターサウンドと若々しい声で、なんというか青春。エバーグリーン感。
+シンプルでストレートなギターサウンドと若々しい声で、なんというか青春。エバーグリーン感。
 
 {{<youtube src="-d91Qn8QUks" title="Snail Mail - Heat Wave">}}
 

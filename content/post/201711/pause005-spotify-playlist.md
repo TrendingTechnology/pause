@@ -1,10 +1,10 @@
-+++
-title = "pause//005 (Spotify playlist)"
-date = "2017-11-09T09:09:09+09:00"
-tags = ["music","spotify","playlist"]
-draft = false
-image = "https://mosaic.scdn.co/640/53347ca6930450a541059eae8338a2312892c5cbca4d398691a72ca0c8ea5054ed6c04271541e464cd8126634bd1d13b059a20adfd441cab3e1e4dafd88aaccb5dceae40dd8b57764c19a2dd31976699"
-+++
+---
+title: "pause//005 (Spotify playlist)"
+date: "2017-11-09T09:09:09+09:00"
+tags: ["music","spotify","playlist"]
+draft: false
+image: "https://mosaic.scdn.co/640/53347ca6930450a541059eae8338a2312892c5cbca4d398691a72ca0c8ea5054ed6c04271541e464cd8126634bd1d13b059a20adfd441cab3e1e4dafd88aaccb5dceae40dd8b57764c19a2dd31976699"
+---
 
 Spotify プレイリスト ["pause//005"](https://open.spotify.com/user/matsuoshi/playlist/6CAM3zObtf6ycM3a77A5Dx) をつくりました。15曲、1時間。
 

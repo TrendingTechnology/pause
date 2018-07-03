@@ -1,5 +1,5 @@
-# monaural.net
+# pause
 
-blogging with Hugo, netlify and GitHub.
+my music blog by Hugo, netlify and GitHub.
 
-https://monaural.net/
+https://pause.monaural.net/

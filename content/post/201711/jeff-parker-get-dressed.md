@@ -1,10 +1,10 @@
-+++
-title = "Jeff Parker - The New Breed"
-date = "2017-11-20T16:16:16+09:00"
-tags = ["music","jazz","2016"]
-draft = false
-amazon = "B01FM906M0"
-+++
+---
+title: "Jeff Parker - The New Breed"
+date: "2017-11-20T16:16:16+09:00"
+tags: ["music","jazz","2016"]
+draft: false
+amazon: "B01FM906M0"
+---
 
 Tortoise, Isotope 217, Chicago Underground などのメンバーでもあるジャズ・ギタリスト、Jeff Parker のソロ作。
 

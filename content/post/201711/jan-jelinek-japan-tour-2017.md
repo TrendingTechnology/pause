@@ -1,10 +1,10 @@
-+++
-title = "Jan Jelinek Japan Tour 2017 に行ってきた"
-date = "2017-11-14T14:14:14+09:00"
-tags = ["music","live","event","electronica","minimal","experimental","glitch"]
-draft = false
-image = "/media/201711/jan-jelinek.jpg"
-+++
+---
+title: "Jan Jelinek Japan Tour 2017 に行ってきた"
+date: "2017-11-14T14:14:14+09:00"
+tags: ["music","live","event","electronica","minimal","experimental","glitch"]
+draft: false
+image: "/media/201711/jan-jelinek.jpg"
+---
 
 Jan Jalinek のライブが space eauuu で見られるというステキイベントがあったので、行ってきた。
 

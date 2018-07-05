@@ -1,2 +1,1 @@
 User-agent: *
-Disallow: /post/201702/sample-content/

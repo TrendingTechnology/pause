@@ -6,7 +6,7 @@ draft: false
 image: /media/201712/freenom-02.png
 ---
 
-タイトルのとおりですが。[pause.cf](https://pause.cf/) ドメインが止まったので [monaural.net](https://monaural.net/) にブログを引越した話です。
+タイトルのとおりですが。[pause.cf](https://pause.cf/) ドメインが止まったので [monaural.net](https://pause.monaural.net/) にブログを引越した話です。
 
 [freenom](http://www.freenom.com/ja/index.html?lang=ja) で .cf ドメインを無料で取得してたんですが、2017/12/04 に突然繋がらなくなってしまいました。freenom の管理画面を見るとこんな感じで
 
@@ -27,4 +27,4 @@ image: /media/201712/freenom-02.png
 
 ---
 
-ともあれ、新URL <https://monaural.net/> にて、どうぞよろしくお願いいたします。
+ともあれ、新URL <https://pause.monaural.net/> にて、どうぞよろしくお願いいたします。

@@ -2,7 +2,7 @@
 title: "The xx Japan Tour 2018 にいってきた (最高だった)"
 date: "2018-02-10T12:00:00+09:00"
 tags: ["music","event","live","pop"]
-image: https://scontent-nrt1-1.cdninstagram.com/vp/a2ab80310d451b996879c315a2e71761/5B08B355/t51.2885-15/e35/26871637_1461964503901834_8441966809669697536_n.jpg
+image: https://www.instagram.com/p/Be_-rWJhzPg/media/?size=l
 ---
 
 2018.02.09 [The xx Japan Tour 2018](http://smash-jpn.com/live/?id=2781) @ Zepp Osaka Bayside にいってきた

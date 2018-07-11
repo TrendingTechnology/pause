@@ -20,16 +20,16 @@ Jan Jelinek といえば ~scape からリリースされた2001年の "loop-find
 
 ライブは、神戸・元町の space eauuu という素晴らしいスペースで行われるということで、楽しみにしておりました。
 
-{{<figure src="https://scontent-nrt1-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23421625_281896108998703_2663544601637289984_n.jpg">}}
+{{<figure src="https://www.instagram.com/p/BbWbH6Zhq14/media/?size=l">}}
 
 ステージはフロアのど真ん中。ど真ん中に、段差もなく置かれる機材。そこを舞台にしてる。
 
-{{<figure src="https://scontent-nrt1-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23416795_128876471100033_268705394694553600_n.jpg">}}
+{{<figure src="/media/2017/11/janjelinek.jpg">}}
 
 最前列陣取り。  
 この距離で Jan Jelinek のライブを味わえることができました。
 
-{{<figure src="https://scontent-nrt1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/23498214_189935621568239_3224234203965030400_n.jpg">}}
+{{<figure src="https://www.instagram.com/p/BbWgJjIBADY/media/?size=l">}}
 
 ドローンとしたエレクトロニカが延々と心地よく、あっと言う間の時間だったな〜
 

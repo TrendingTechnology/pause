@@ -3,7 +3,7 @@ title: "American Football Japan Tour 2017"
 date: "2017-06-12T14:00:00+09:00"
 tags: ["music","post rock","math rock", "emo","event","live"]
 draft: false
-image: "https://scontent.cdninstagram.com/t51.2885-15/e35/18948120_306724116421524_2987822445030801408_n.jpg"
+image: "https://www.instagram.com/p/BVHhxp5BqOj/media/?size=l"
 ---
 
 American Football のライブにいってきた 2017.06.09 @ umeda TRAD (旧umeda AKASO)

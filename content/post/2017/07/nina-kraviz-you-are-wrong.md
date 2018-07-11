@@ -3,7 +3,7 @@ title: "Nina Kraviz - You Are Wrong"
 date: "2017-07-31T12:12:12+09:00"
 tags: ["music","techno","minimal","2017"]
 draft: false
-image: "https://scontent-nrt1-1.cdninstagram.com/t51.2885-15/e35/19761953_652955018248554_3406543230534156288_n.jpg"
+image: https://www.instagram.com/p/BWQG-CBgeB2/media/?size=l
 ---
 
 [ニーナ・クラヴィッツの instagram](https://www.instagram.com/ninakraviz/) フォローしてるんですが、憎たらしいくらいかわいい。

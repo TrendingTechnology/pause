@@ -3,7 +3,7 @@ title: "DJコントローラ Reloop MIXTOUR を買った"
 date: "2017-08-13T10:12:12+09:00"
 tags: ["music","dj","hardware"]
 draft: false
-image: "https://scontent-nrt1-1.cdninstagram.com/t51.2885-15/e35/20688422_1392093814178767_1144486287621750784_n.jpg"
+image: https://www.instagram.com/p/BXtzVFYBeov/media/?size=l
 ---
 
 DJコントローラの [Reloop MIXTOUR](https://dirigent.jp/product/reloop/mixtour/) を買いました。

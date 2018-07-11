@@ -3,7 +3,7 @@ title: "Alyeska - Crush"
 date: "2018-02-05T12:00:00+09:00"
 tags: ["music","rock","indie-rock","alternative","2017"]
 draft: false
-image: https://scontent-nrt1-1.cdninstagram.com/vp/1713829107ef6dfb78f6b40230e79db7/5B02BE3F/t51.2885-15/s640x640/sh0.08/e35/26377304_311169319387504_4878104141173358592_n.jpg
+image: https://www.instagram.com/p/BdxzWfWAfsV/media/?size=l
 ---
 
 アリエスカ。ジャケットから想像するにエキセントリックなサウンドなんかなと思ったら、わりとオーソドックスなアメリカン・オルタナティブ・ロック。

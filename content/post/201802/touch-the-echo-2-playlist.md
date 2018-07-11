@@ -3,7 +3,7 @@ title: "Touch the Echo vol.2 に参加してきましたプレイリスト"
 date: "2018-02-18T12:00:00+09:00"
 tags: ["music","event","dj","playlist"]
 draft: false
-image: https://scontent-nrt1-1.cdninstagram.com/vp/1ba83df0f49830e99d5e67f355579714/5B040FF1/t51.2885-15/s750x750/sh0.08/e35/27892848_225974577948994_146364861880729600_n.jpg
+image: https://www.instagram.com/p/BfSXOaNhs6H/media/?size=l
 ---
 
 2018.02.17 神戸 [space eauuu](http://www.musika-nt.com/spaceeauuu/) で行われた Touch the Echo に参加してきました。

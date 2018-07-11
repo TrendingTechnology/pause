@@ -11,7 +11,7 @@
 
   {{ with .Site.Author }}
     <div class="author">
-      <a href="/about"><img src="{{ .image }}" alt="author"> by {{ .name }}</a>
+      <img src="{{ .image }}" alt="author"> by {{ .name | safeHTML }}
     </div>
   {{ end }}
 

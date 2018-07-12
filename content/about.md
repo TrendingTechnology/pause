@@ -9,8 +9,6 @@ amazon: "B00005CDUY"
 
 author: [@matsuoshi](https://facebook.com/matsuoshi)
 
-monaural は モノラルと読みます。
-
 静的サイトジェネレータでブログを作ってみたい、というほんの出来心から成り立つサイトです。[Hugo](https://gohugo.io/) と [Netlify](https://www.netlify.com/) で作っています。2017年2月スタート。
 
 中身はほとんどがちょっと気になった音楽のメモです。ある程度メモした曲数が増えたら [Spotify プレイリストにまとめています](/tags/playlist)。
@@ -20,9 +18,13 @@ monaural は モノラルと読みます。
 > - [Hugo + Netlify + GitHub でブログを作った](/post/201702/hugo-netlify-github-blog/)  
 > - [ブログ読んでます〜 って言ってもらえる機会があったので、あらためて](/post/201709/blog-daradara/)
 
+タイトルの pause に深い意味はありませんが、[FOUR TET の pause というアルバム](http://www.amazon.co.jp/exec/obidos/ASIN/B00005CDUY/udonudon-22/)のことはちょっと意識しました。
+
+{{<youtube YM-kCNBrkqk>}}
+
 #### その他 blog, sns
 
-- [everybody works](http://matsuoshi.hatenablog.com/) (仕事や技術関連のこと、音楽以外の趣味のことなど、不定期更新) 
+- [モノラルログ](http://matsuoshi.hatenablog.com/) (仕事や技術関連のこと、音楽以外の趣味のことなど、不定期更新) 
 
 <ul class="socialIcons">
 <li><a class="altColor" href="https://facebook.com/matsuoshi"><i class="fa fa-facebook-square"></i></a></li>

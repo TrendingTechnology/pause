@@ -1,8 +1,7 @@
 ---
 title: "Iceage feat. Sky Ferreira - Pain Killer"
-date: "2018-07-16T12:00:00+09:00"
+date: "2018-07-16T11:00:00+09:00"
 tags: ["music","post-punk","punk","hardcore","2018"]
-draft: false
 youtube: qP8GJj8lAI8
 ---
 

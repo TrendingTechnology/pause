@@ -1,7 +1,7 @@
 ---
 title: "Gui Boratto - Pentagram"
 date: "2018-07-19T07:00:00+09:00"
-tags: ["music","techno","house","2018"]
+tags: ["music","techno","house","minimal","2018"]
 amazon: B07D17PFPF
 ---
 
@@ -19,4 +19,4 @@ Gui Boratto のニューアルバムが出てた。
 
 この、ちょっとレトロなニューウェーブ感のあるボーカル曲もいいなあ。
 
-{{<amazon asin="Pentagram" title="Gui Boratto - Pentagram"}>>
+{{<amazon asin="B07D17PFPF" title="Gui Boratto - Pentagram">}}

@@ -18,7 +18,7 @@ post = "/post/:year:month/:filename/"
 
 
 [params]
-description = "pause | 音楽などのメモブログ"
+description = "pause // 音楽などのメモブログ"
 ogpimage = "/images/thumbnail.png"
 newerPosts = "newer"
 olderPosts = "older"

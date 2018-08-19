@@ -5,18 +5,22 @@
   {{ $description := substr (safeHTMLAttr (partial "description.html" . | plainify | replaceRE "\n" "")) 0 140 }}
   <meta name="description" content="{{ $description }}">
   {{ .Hugo.Generator }}
-  <title>{{ .Title }}{{ if not .IsHome }} | {{ .Site.Title }}{{ end }}</title>
+  <title>{{ .Title }}{{ if not .IsHome }} // {{ .Site.Title }}{{ end }}</title>
   <link rel="stylesheet" href="/css/styles.css">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.BaseURL }}images/favicon.png">
   <link rel="icon" href="{{ .Site.BaseURL }}images/favicon.png">
   <link href="{{ .Site.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}"/>
   {{ $ogimage := trim (index (split (partial "thumbnail.html" .) "|") 1) "\n" | absURL }}
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  <meta property="og:title" content="{{ .Title }}{{ if not .IsHome }} // {{ .Site.Title }}{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:description" content="{{ $description }}">
   <meta property="og:image" content="{{ $ogimage }}">
-  <meta name="twitter:image" content="{{ $ogimage }}" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@matsuoshi" />
-  <meta name="twitter:title" content="{{ .Title }}{{ if not .IsHome }} | {{ .Site.Title }}{{ end }}" />
+  <meta name="twitter:site" content="@pause_monaural" />
+  <meta name="twitter:title" content="{{ .Title }}{{ if not .IsHome }} // {{ .Site.Title }}{{ end }}" />
   <meta name="twitter:description" content="{{ $description }}" />
+  <meta name="twitter:image" content="{{ $ogimage }}" />
   <link rel="canonical" href="{{ .Permalink }}">
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

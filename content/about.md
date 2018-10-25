@@ -24,7 +24,8 @@ author: [@matsuoshi](https://facebook.com/matsuoshi)
 
 #### その他 blog, sns
 
-- [モノラルログ](http://matsuoshi.hatenablog.com/) (仕事や技術関連のこと、音楽以外の趣味のことなど、不定期更新) 
+- [モノラルログ](https://blog.monaural.net/) (仕事や技術関連のこと、音楽以外の趣味のことなど、不定期更新) 
+- [旧はてなブログ](https://matsuoshi.hatenablog.com/) (↑のブログに移行のため、更新停止中) 
 
 <ul class="socialIcons">
 <li><a class="altColor" href="https://facebook.com/matsuoshi"><i class="fa fa-facebook-square"></i></a></li>

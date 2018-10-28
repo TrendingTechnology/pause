@@ -1,6 +1,6 @@
 <li class="postCard">
   <a href="{{ .Permalink }}" class="altColor">
-    <div class="postThumbnail" style="background-image:url({{ trim (index (split (partial "thumbnail.html" .) "|") 0) "\n" | relURL }})"></div>
+    <div class="postThumbnail" style="background-image:url({{ index (split (trim (partial "thumbnail.html" .) "\n\r" ) "|") 0 | relURL }})"></div>
     <h2 class="postTitle">{{ .Title }}</h2>
   </a>
 

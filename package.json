@@ -21,6 +21,6 @@
     "watch": "npm run watch:css & npm run watch:js & npm run watch:hugo",
     "watch:css": "node-sass --output-style compressed --source-map true --include-path node_modules/bourbon-neat/core themes/pause/src/styles/styles.scss themes/pause/static/css/styles.css --watch",
     "watch:js": "webpack -w",
-    "watch:hugo": "hugo server -w"
+    "watch:hugo": "hugo server -wDF"
   }
 }

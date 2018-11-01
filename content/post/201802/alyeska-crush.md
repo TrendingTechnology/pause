@@ -23,5 +23,5 @@ image: https://www.instagram.com/p/BdxzWfWAfsV/media/?size=l
 </div>
 
 <div class="embed">
-<a href="https://open.spotify.com/album/3HXj9xyaFVhrc6Ofjay9Zz"><img src="/media/201802/alyeska-crush.jpg"></a>
+<a href="https://open.spotify.com/album/3HXj9xyaFVhrc6Ofjay9Zz"><img src="/media/2018/02/alyeska-crush.jpg"></a>
 </div>

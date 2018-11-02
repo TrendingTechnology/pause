@@ -31,12 +31,6 @@
           {{ partial "post-card.html" . }}
         {{ end }}
 
-        {{ with or (eq $index 5) (eq $index 12) (eq $index 16) }}
-          <li class="postCard">
-            {{ partial "ad/infeed.html" . }}
-          </li>
-        {{ end }}
-
       {{ end }}
     </ul>
 

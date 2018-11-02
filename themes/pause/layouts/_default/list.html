@@ -25,11 +25,18 @@
     <ul class="postList">
       {{ $paginator := .Paginate (where .Data.Pages "Section" "in" "post link") }}
 
-      {{ range $paginator.Pages }}
+      {{ range $index, $post := $paginator.Pages }}
         {{ $url := replace .Permalink .Site.BaseURL "" }}
         {{ if and (ne $url "about/") }}
           {{ partial "post-card.html" . }}
         {{ end }}
+
+        {{ with or (eq $index 5) (eq $index 12) (eq $index 16) }}
+          <li class="postCard">
+            {{ partial "ad/infeed.html" . }}
+          </li>
+        {{ end }}
+
       {{ end }}
     </ul>
 

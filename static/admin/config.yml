@@ -1,0 +1,23 @@
+backend:
+  name: github
+  repo: matsuoshi/pause
+  branch: master
+
+publish_mode: editorial_workflow
+
+media_folder: "static/media"
+public_folder: "/public/media"
+
+collections:
+- name: "post"
+  label: "Post"
+  folder: "content/post"
+  create: true
+  slug: "{{slug}}"
+  fields:
+  - {label: "Title", name: "title", widget: "string"}
+  - {label: "Publish Date", name: "date", widget: "datetime"}
+  - {label: "Tags", name: "tags", widget: "list", required: false}
+  - {label: "Thumbnail", name: "image", widget: "image", required: false}
+  - {label: "Youtube", name: "youtbe", widget: "string", required: false}
+  - {label: "Body", name: "body", widget: "markdown"}

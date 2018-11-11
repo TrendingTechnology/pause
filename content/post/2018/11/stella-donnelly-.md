@@ -2,7 +2,7 @@
 title: "Stella Donnelly - Thrush Metal"
 date: "2018-11-10T06:00:00+09:00"
 tags: ["music","pop","electronic","2018"]
-youtube: T5qZXr-csY4
+amazon: B07B37TMQT
 ---
 
 オーストラリアのシンガーソングライター、Stella Donnelly さんのデビューEP。

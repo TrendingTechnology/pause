@@ -9,4 +9,4 @@ Grimes の新曲だ〜〜
 
 {{<youtube src="gYG_4vJ4qNA" title="Grimes - We Appreciate Power">}}
 
-インダストリアルっぽさあり。独特のダサさも絶妙なラインだなあ
+インダストリアルっぽさあり。独特のダサさも絶妙なラインだなあ、J-POPというかK-POP的な？

@@ -1,7 +1,7 @@
 ---
 title: "Shame - Songs of Praise"
 date: "2018-12-12T12:12:12+09:00"
-tags: ["music","rock","post punk","punk","garage"]
+tags: ["music","rock","post punk","punk","garage","2018"]
 amazon: B07799GSC5
 ---
 

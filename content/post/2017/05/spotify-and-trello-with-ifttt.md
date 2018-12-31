@@ -2,7 +2,7 @@
 title: "Spotify と Trello を IFTTT で連携させた"
 date: "2017-05-03T12:18:36+09:00"
 tags: ["music","spotify","trello","tool","ifttt"]
-image: "/media/201705/ifttt-spotify-01.jpg"
+image: "/media/2017/05/ifttt-spotify-01.jpg"
 draft: false
 ---
 
@@ -14,7 +14,7 @@ draft: false
 
 ### IFTTT
 
-![](/media/201705/ifttt-spotify-01.jpg)
+![](/media/2017/05/ifttt-spotify-01.jpg)
 
 [IFTTT](https://ifttt.com/) はアレしたらコレする、というのを自分でカスタマイズできるツール。いろんなWEBサービスに対応している。
 たとえば「WordPressに投稿したらTwitterにもリンクを投稿する」とか、「DropBoxに画像を置いたらスプレッドシートにファイル名を保存する」とか、ブラウザ上でポチポチするだけで設定できる。
@@ -25,7 +25,7 @@ https://ifttt.com/
 
 という設定をいれました。
 
-![](/media/201705/ifttt-spotify-02.jpg)
+![](/media/2017/05/ifttt-spotify-02.jpg)
 
 Spotify で気に入った音楽を保存すると、自動的に Trello にジャケット画像つきでカードを保存してくれる。
 Spotify へのリンクもついてるし、一応仮で YouTube への検索リンクもつけてみた。

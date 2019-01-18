@@ -1,7 +1,7 @@
 ---
 title: "Warpaint - Disco//Very"
 date: "2017-04-20T23:23:23+09:00"
-tags: ["music","indie","psychedelic","2014"]
+tags: ["indie","psychedelic","2014"]
 draft: false
 youtube: "ie6plcFQ330"
 ---

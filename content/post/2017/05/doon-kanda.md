@@ -1,7 +1,7 @@
 ---
 title: "doon kanda - Axolotl"
 date: "2017-05-17T16:00:00+09:00"
-tags: ["music","experimental","electronic","2017"]
+tags: ["experimental","electronic","2017"]
 draft: false
 youtube: "ABgGo5ICLjk"
 ---

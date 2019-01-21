@@ -1,7 +1,7 @@
 ---
 title: "Warpaint のライブに行ってきた"
 date: "2017-03-02T21:42:00+09:00"
-tags: ["music","live","event","indie","psychedelic"]
+tags: ["live","event","indie","psychedelic"]
 draft: false
 image: "https://www.instagram.com/p/BRF8sBtBfnl/media/?size=l"
 ---

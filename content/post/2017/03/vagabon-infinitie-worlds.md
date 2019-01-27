@@ -1,7 +1,7 @@
 ---
 title: "Vagabon - Infinite Worlds"
 date: "2017-03-28T13:43:43+09:00"
-tags: ["music","indie","2017"]
+tags: ["indie","2017"]
 draft: false
 youtube: "zTo_Dsa8ijM"
 ---

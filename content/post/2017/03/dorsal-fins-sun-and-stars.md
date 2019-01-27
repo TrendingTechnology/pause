@@ -1,7 +1,7 @@
 ---
 title: "Dorsal Fins - Sun & Stars"
 date: "2017-03-30T11:15:15+09:00"
-tags: ["music","indie","2015"]
+tags: ["indie","2015"]
 draft: false
 image: "https://f4.bcbits.com/img/a0371994661_5.jpg"
 ---

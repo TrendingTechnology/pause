@@ -2,10 +2,10 @@
 title: "Superorganism - Superorganism"
 date: "2018-03-19T11:00:00+09:00"
 tags: ["music","pop","indie-pop","2018"]
-image: /media/201803/superorganism.jpg
+image: /media/2018/03/superorganism.jpg
 ---
 
-{{<figure src="/media/201803/superorganism.jpg">}}
+{{<figure src="/media/2018/03/superorganism.jpg">}}
 
 スーパーオーガニズム。雑多な感じのミクスチャーなインディ・ポップで、ちょっとアバンギャルドで、キャッチーでたのしい。
 

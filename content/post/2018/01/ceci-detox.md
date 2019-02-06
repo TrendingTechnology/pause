@@ -3,7 +3,7 @@ title: "Céci - Detox"
 date: "2018-01-24T12:00:00+09:00"
 tags: ["music","electronic","2017"]
 draft: false
-image: /media/201801/ceci.jpg
+image: /media/2018/01/ceci.jpg
 ---
 
 デンマーク・コペンハーゲンの女性シンガー CÉCI さん。クール。

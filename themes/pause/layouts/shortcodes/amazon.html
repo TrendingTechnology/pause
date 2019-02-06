@@ -1,9 +1,9 @@
 {{ if .IsNamedParams }}
 
 <figure class="embed amazon{{ with .Get "class" }} {{.}}{{ end }}">
-  <a href="https://www.amazon.co.jp/exec/obidos/ASIN/{{ .Get "asin" }}/udonudon-22/">
+  <a href="//af.moshimo.com/af/c/click?a_id=1307344&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062&amp;url=http://www.amazon.co.jp/dp/{{ .Get "asin" }}">
     <span class="embed_image">
-      <img src="{{ with .Get "image" }}{{.}}{{ else }}https://images-fe.ssl-images-amazon.com/images/P/{{ .Get "asin" }}.09.MAIN._SCLZZZZZZZ_.jpg{{ end }}" alt="">
+      <img src="{{ with .Get "image" }}{{.}}{{ else }}https://images-fe.ssl-images-amazon.com/images/P/{{ .Get "asin" }}.09.LZZZZZZZ{{ end }}" alt="">
     </span>
   </a>
   {{ with .Get "title" }}
@@ -14,7 +14,7 @@
 {{ else }}
 
 <figure class="embed amazon">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/{{ index .Params 0 }}/udonudon-22/"><img src="https://images-fe.ssl-images-amazon.com/images/P/{{ index .Params 0 }}.09.MAIN._SCLZZZZZZZ_.jpg" alt=""></a>
+  <a href="//af.moshimo.com/af/c/click?a_id=1307344&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062&amp;url=http://www.amazon.co.jp/dp/{{ index .Params 0 }}/udonudon-22/"><img src="https://images-fe.ssl-images-amazon.com/images/P/{{ index .Params 0 }}.09.LZZZZZZZ" alt=""></a>
 </figure>
 
 {{ end }}

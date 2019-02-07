@@ -3,10 +3,10 @@ title: "Rosemary Fairweather - Heavenly"
 date: "2018-01-30T12:00:00+09:00"
 tags: ["music","pop","dreampop","elepop","2016"]
 draft: false
-image: /media/201801/rosemary-fairweather.jpg
+image: /media/2018/01/rosemary-fairweather.jpg
 ---
 
-<a href="https://twitter.com/rosemaryfairw3/status/943219524853223425"><img src="/media/201801/rosemary-fairweather.jpg"></a>
+<a href="https://twitter.com/rosemaryfairw3/status/943219524853223425"><img src="/media/2018/01/rosemary-fairweather.jpg"></a>
 
 Rosemary Fairweather はカナダの女性シンガー。
 

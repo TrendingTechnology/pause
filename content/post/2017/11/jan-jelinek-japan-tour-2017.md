@@ -3,12 +3,12 @@ title: "Jan Jelinek Japan Tour 2017 に行ってきた"
 date: "2017-11-14T14:14:14+09:00"
 tags: ["music","live","event","electronica","minimal","experimental","glitch"]
 draft: false
-image: "/media/201711/jan-jelinek.jpg"
+image: "/media/2017/11/jan-jelinek.jpg"
 ---
 
 Jan Jalinek のライブが space eauuu で見られるというステキイベントがあったので、行ってきた。
 
-{{<figure src="/media/201711/jan-jelinek.jpg">}}
+{{<figure src="/media/2017/11/jan-jelinek.jpg">}}
 
 Jan Jelinek といえば ~scape からリリースされた2001年の "loop-finding-jazz-records" が大名盤で、個人的にもむちゃくちゃ聴いたアルバムでした。ジャズのレコードをサンプリングしまくって、解体・再構築して、エレクトロニカにするという作品。ちなみに全然ジャズ風な音ではないです、ただただモワ〜〜とした感覚が心地よい。ミニマルで、不穏だけど温かいかんじ。
 

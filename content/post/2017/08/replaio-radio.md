@@ -3,7 +3,7 @@ title: "Replaio Radio でネットラジオを Android から聴いて Scrobble"
 date: "2017-08-01T12:12:12+09:00"
 tags: ["music","radio","android","last.fm"]
 draft: false
-image: "/media/201708/replaio.png"
+image: "/media/2017/08/replaio.png"
 ---
 
 ネットラジオ聞きながら last.fm に Scrobble するの、Android の [Replaio Radio](https://repla.io/) ってアプリでできましたよ、という話です。
@@ -14,7 +14,7 @@ image: "/media/201708/replaio.png"
 
 てきとうな気持ちでよく聴いてるのは [Soma.fm](http://somafm.com/) ってラジオ局の [BAGeL Radio](http://somafm.com/bagel/), [PopTron](http://somafm.com/poptron/) それに [Fluid](http://somafm.com/fluid/) ってチャンネルとか。あと [BBC 6 Music](http://www.bbc.co.uk/6music) あたりかなあ。Soma.fm, なんだかんだで 10年以上いろんなチャンネル聴き続けている気がする。
 
-{{<figure src="/media/201708/somafm.jpg" link="http://somafm.com/">}}
+{{<figure src="/media/2017/08/somafm.jpg" link="http://somafm.com/">}}
 
 再生環境としては、いままでは [TuneIn Radio](http://tunein.com/) という Androidアプリの無料版を使っていました(ブラウザ版もあります)。この TuneIn Radio, 収録局数も多くてとてもいい感じなのですが、少しだけ気になっていたのが
 
@@ -26,7 +26,7 @@ image: "/media/201708/replaio.png"
 
 でまあ、そういうのができるアプリを探しまして、タイトルのとおり [Replaio Radio](https://repla.io/) というのを見つけました。
 
-{{< figure src="/media/201708/replaio-screenshot.png" link="https://repla.io/" >}}
+{{< figure src="/media/2017/08/replaio-screenshot.png" link="https://repla.io/" >}}
 
 いい感じです。
 

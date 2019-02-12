@@ -3,7 +3,7 @@ title: "Never Young - Suedehead (モリッシーのカバー)"
 date: "2017-09-30T13:13:13+09:00"
 tags: ["music","indie","punk","2017"]
 draft: false
-image: "/media/201709/group_effort.jpg"
+image: "/media/2017/09/group_effort.jpg"
 ---
 
 [Jay Som](/post/201709/jay-som-everybody-works/) さんがたいそう気に入ったので彼女の参加しているコンピとかも探して聴いてみました。

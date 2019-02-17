@@ -1,7 +1,7 @@
 ---
 title: "Spotify と Trello を IFTTT で連携させた"
 date: "2017-05-03T12:18:36+09:00"
-tags: ["music","spotify","trello","tool","ifttt"]
+tags: ["spotify","trello","tool","ifttt"]
 image: "/media/2017/05/ifttt-spotify-01.jpg"
 draft: false
 ---

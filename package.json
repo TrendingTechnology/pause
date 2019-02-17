@@ -13,7 +13,7 @@
     "webpack": "^2.6.1"
   },
   "scripts": {
-    "start": "(sleep 2 && open http://localhost:1313) & npm run watch",
+    "start": "(sleep 2 && open http://localhost:3000) & npm run watch",
     "build": "rm -rf public && npm run build:css && npm run build:js && npm run build:hugo",
     "build:css": "node-sass --output-style compressed --source-map true --include-path node_modules/bourbon-neat/core themes/pause/src/styles/styles.scss themes/pause/static/css/styles.css",
     "build:js": "webpack",
@@ -21,6 +21,6 @@
     "watch": "npm run watch:css & npm run watch:js & npm run watch:hugo",
     "watch:css": "node-sass --output-style compressed --source-map true --include-path node_modules/bourbon-neat/core themes/pause/src/styles/styles.scss themes/pause/static/css/styles.css --watch",
     "watch:js": "webpack -w",
-    "watch:hugo": "hugo server -wDF"
+    "watch:hugo": "hugo server -wDFp 3000"
   }
 }

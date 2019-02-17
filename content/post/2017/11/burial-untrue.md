@@ -27,7 +27,7 @@ Burial - Untrue 発売が 2007年11月5日、発売から10年だそうです…
 
 あたりがあって、そのへんはまあ、ぼちぼち10年になるのかなーという感じなんですが、Burial に関しては、なんでだろう、もう10年になるのか……！という印象です。
 
-{{<figure src="/media/201711/2007albums.png">}}
+{{<figure src="/media/2017/11/2007albums.png">}}
 
 {{<youtube src="TK7aQmdqCj8" title="Burial - Near Dark">}}
 

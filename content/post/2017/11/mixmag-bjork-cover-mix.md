@@ -3,7 +3,7 @@ title: "ビョークの new DJ mix"
 date: "2017-11-17T09:09:09+09:00"
 tags: ["music","dj","djmix","bjork"]
 draft: false
-image: "/media/201711/bjork_mix.jpg"
+image: "/media/2017/11/bjork_mix.jpg"
 ---
 
 mixmag から、Bjork の新しいDJミックスが出てました。

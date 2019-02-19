@@ -3,7 +3,7 @@ title: "L'Rain - L'Rain"
 date: "2017-10-23T15:15:15+09:00"
 tags: ["music","ssw","experimental","r&b","alt r&b","psychedelic","2017"]
 draft: false
-image: "/media/201710/lrain.jpg"
+image: "/media/2017/10/lrain.jpg"
 ---
 
 アルペジオなインスト好きのみなさんこんばんは。NY ブルックリンの新人女性ユニット L'Rain のアルバムです。
@@ -22,4 +22,4 @@ image: "/media/201710/lrain.jpg"
 相当なセンスを感じる。  
 なかなか、とんでもないものを聴いている気分です。
 
-[![L'Rain](/media/201710/lrain.jpg)](https://astronautico.bandcamp.com/album/lrain)
+[![L'Rain](/media/2017/10/lrain.jpg)](https://astronautico.bandcamp.com/album/lrain)

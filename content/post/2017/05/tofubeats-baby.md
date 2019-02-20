@@ -1,7 +1,7 @@
 ---
 title: "tofubeats - FANTASY CLUB"
 date: "2017-05-23T14:00:14+09:00"
-tags: ["music", "japanese", "electronic","2017"]
+tags: ["japanese", "electronic","2017"]
 draft: false
 youtube: "e_K-8acKFNU"
 ---

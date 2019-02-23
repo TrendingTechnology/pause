@@ -1,7 +1,7 @@
 ---
 title: "American Football Japan Tour 2017"
 date: "2017-06-12T14:00:00+09:00"
-tags: ["music","post rock","math rock", "emo","event","live"]
+tags: ["post rock","math rock", "emo","event","live"]
 draft: false
 image: "https://www.instagram.com/p/BVHhxp5BqOj/media/?size=l"
 ---

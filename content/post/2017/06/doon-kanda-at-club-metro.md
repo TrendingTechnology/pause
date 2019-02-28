@@ -1,7 +1,7 @@
 ---
 title: "doon kanda (jesse kanda) のイベントに行ってきた"
 date: "2017-06-02T10:00:00+09:00"
-tags: ["music","dj","event"]
+tags: ["dj","event"]
 draft: false
 image: "https://www.instagram.com/p/BU0RZ9Ehn_0/media/?size=l"
 ---

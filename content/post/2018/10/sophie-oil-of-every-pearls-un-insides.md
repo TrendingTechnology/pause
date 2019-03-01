@@ -1,7 +1,7 @@
 ---
 title: "Sophie ‎– Oil Of Every Pearl's Un-Insides"
 date: "2018-10-22T12:00:00+09:00"
-tags: ["music","electro","elepop","pop","2018"]
+tags: ["music","electro","elepop","pop","industrial",2018"]
 draft: false
 youtube: Kv3yIv9nwf8
 ---

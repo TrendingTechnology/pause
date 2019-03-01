@@ -2,7 +2,7 @@
 title: "Ansome - Stowaway"
 date: "2019-03-02T07:00:00+09:00"
 tags: ["techno","industrial","2016"]
-youtube: pgKKL6JheMw
+youtube: KqsjXJEnArg
 ---
 
 ロンドンのテクノ〜インダストリアル系ユニット、Ansome の 2016年のファーストアルバム。

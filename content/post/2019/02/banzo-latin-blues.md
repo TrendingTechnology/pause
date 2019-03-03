@@ -17,6 +17,8 @@ youtube: pgKKL6JheMw
 
 {{<youtube src="cpNUqNe0U5g" title="Gil Scott Heron - We almost Lost Detroit">}}
 
-このサンプリング、Air の Modular Mix でも使われてますね
+このキーボードのサンプリング、Air の Modular Mix や Wagon Christ "Nighty Night", Flying Lotus "Sangria Spin Cycles" などでも使われてますね
 
 {{<youtube src="JX1EfZnJcHE" title="Air - Modular Mix">}}
+{{<youtube src="JWMr46yn-Ro" title="Wagon Christ - Nighty Night">}}
+{{<youtube src="Xh0eRPtg0pw" title="Flying Lotus - Sangria Spin Cycles">}}

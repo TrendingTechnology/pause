@@ -1,7 +1,7 @@
 ---
 title: "Spotify Premium に加入した + プレイリストを作ってみた"
 date: "2017-06-16T20:16:16+09:00"
-tags: ["music","spotify","playlist"]
+tags: ["spotify","playlist"]
 draft: false
 image: "https://mosaic.scdn.co/640/1b0d81eaea664c1c4838a6897150bfd0fa425b89362fbae9a8969283b0698e2826502c30f8555c805ea52d862923612f3aefd3ec5aed62c7bee1a2e5d1e0dbe3436ced3bde9558d5c3787c6fd0118a41"
 ---

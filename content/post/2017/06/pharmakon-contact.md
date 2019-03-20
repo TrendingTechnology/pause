@@ -1,7 +1,7 @@
 ---
 title: "Pharmakon - Contact"
 date: "2017-06-01T13:13:13+09:00"
-tags: ["music","noise","industrial","2017"]
+tags: ["noise","industrial","2017"]
 draft: false
 amazon: "B01N24TEXD"
 ---

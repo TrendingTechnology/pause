@@ -1,7 +1,7 @@
 ---
 title: "Chastity Belt - Drone"
 date: "2017-07-03T14:14:14+09:00"
-tags: ["music","indie","indie rock","2015"]
+tags: ["indie","indie rock","2015"]
 draft: false
 amazon: "B00PC7WI9M"
 ---

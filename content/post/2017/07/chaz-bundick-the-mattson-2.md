@@ -1,7 +1,7 @@
 ---
 title: "Chaz Bundick Meets The Mattson 2 - Star Stuff"
 date: "2017-07-11T12:12:12+09:00"
-tags: ["music","psychedelic","jazz","2017"]
+tags: ["psychedelic","jazz","2017"]
 draft: false
 youtube: "blz2IpGR1Sg"
 ---

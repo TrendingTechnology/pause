@@ -1,7 +1,7 @@
 ---
 title: "Kedr Livanskiy - January Sun"
 date: "2017-07-12T12:12:12+09:00"
-tags: ["music","techno","ambient","2016"]
+tags: ["techno","ambient","2016"]
 draft: false
 youtube: "fsdkzgoLoGo"
 description: "ケダル・リヴァンスキ。ロシアの女性テクノ・ミュージシャン。"

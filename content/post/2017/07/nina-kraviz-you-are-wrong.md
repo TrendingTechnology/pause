@@ -1,7 +1,7 @@
 ---
 title: "Nina Kraviz - You Are Wrong"
 date: "2017-07-31T12:12:12+09:00"
-tags: ["music","techno","minimal","2017"]
+tags: ["techno","minimal","2017"]
 draft: false
 image: https://www.instagram.com/p/BWQG-CBgeB2/media/?size=l
 ---

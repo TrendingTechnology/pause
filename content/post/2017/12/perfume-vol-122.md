@@ -3,7 +3,7 @@ title: "イベント Perfume* vol.122 に参加しました @ big cake"
 date: "2017-12-29T16:16:16+09:00"
 tags: ["music","dj","event","2017"]
 draft: false
-image: "/media/201712/perfume.png"
+image: "/media/2017/12/perfume.png"
 ---
 
 お誘いいただきまして、 [Perfume*](http://www.lvbz.net/perfume/) というイベントに参加してきました。もう10年くらい続いている、個人的にはすっかりおなじみのやつ。会場は南堀江の Bigcake という、フジロックにもゆかりのあるバーです。

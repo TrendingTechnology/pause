@@ -3,12 +3,12 @@ title: "AOTY (Album of The Year) というサイトが超べんり"
 date: "2017-12-20T09:09:09+09:00"
 tags: ["music","best"]
 draft: false
-image: "/media/201712/aoty.png"
+image: "/media/2017/12/aoty.png"
 ---
 
 この時期になると毎年チェックしているサイトがこちら
 
-{{<figure src="/media/201712/aoty.png" link="http://www.albumoftheyear.org/">}}
+{{<figure src="/media/2017/12/aoty.png" link="http://www.albumoftheyear.org/">}}
 [Music Reviews, Ratings, Charts, News | Album of The Year](http://www.albumoftheyear.org/)
 
 ## めっちゃ便利

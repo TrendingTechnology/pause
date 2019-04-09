@@ -3,7 +3,7 @@ title: "Bürgerpark というイベントに参加しました @ space eauuu"
 date: "2017-12-18T16:16:16+09:00"
 tags: ["music","electronica","dj","event","live","2017"]
 draft: false
-image: "/media/201712/burgerpark.jpg"
+image: "/media/2017/12/burgerpark.jpg"
 ---
 
 お誘いいただきまして、 [Bürgerpark](https://www.facebook.com/events/299796667188565/) というイベントに参加してきました。会場は神戸・元町 [space eauuu](http://www.musika-nt.com/spaceeauuu/)。

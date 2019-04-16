@@ -1,7 +1,7 @@
 ---
 title: "Daphni - Fabriclive 93"
 date: "2017-08-21T14:14:14+09:00"
-tags: ["music","techno","house","2017"]
+tags: ["techno","house","2017"]
 draft: false
 amazon: "B072M521H7"
 ---

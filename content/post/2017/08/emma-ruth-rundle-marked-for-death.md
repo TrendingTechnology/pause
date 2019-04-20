@@ -1,7 +1,7 @@
 ---
 title: "Emma Ruth Rundle - Marked for Death"
 date: "2017-08-07T12:12:12+09:00"
-tags: ["music","ssw","alternative","folk","2016"]
+tags: ["ssw","alternative","folk","2016"]
 draft: false
 youtube: "asTily3XuNk"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Jenny Hval - Blood Bitch"
 date: "2017-08-02T12:12:12+09:00"
-tags: ["music","ssw","art pop","experimental","2016"]
+tags: ["ssw","art pop","experimental","2016"]
 draft: false
 youtube: "ZVaWc00aZ30"
 ---

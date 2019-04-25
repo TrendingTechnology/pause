@@ -5,7 +5,7 @@ tags: ["alt r&b","electronic","2019"]
 youtube: YkLjqFpBh84
 ---
 
-FKA twigs ひさびさの新曲。
+FKA twigs ひさびさの新曲。3年ぶり。
 
 {{<youtube src="YkLjqFpBh84" title="FKA twigs - Cellophane">}}
 

@@ -1,7 +1,7 @@
 ---
 title: "DJコントローラ Reloop MIXTOUR を買った"
 date: "2017-08-13T10:12:12+09:00"
-tags: ["music","dj","hardware"]
+tags: ["dj","hardware"]
 draft: false
 image: https://www.instagram.com/p/BXtzVFYBeov/media/?size=l
 ---

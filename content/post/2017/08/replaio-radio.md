@@ -1,7 +1,7 @@
 ---
 title: "Replaio Radio でネットラジオを Android から聴いて Scrobble"
 date: "2017-08-01T12:12:12+09:00"
-tags: ["music","radio","android","last.fm"]
+tags: ["radio","android","last.fm"]
 draft: false
 image: "/media/2017/08/replaio.png"
 ---

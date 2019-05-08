@@ -1,7 +1,7 @@
 ---
 title: "Four Tet による The xx のリミックス"
 date: "2017-09-20T08:08:08+09:00"
-tags: ["music","electronic","indie","electronica","2017"]
+tags: ["electronic","indie","electronica","2017"]
 draft: false
 youtube: "1eIYIqcqtqw"
 ---

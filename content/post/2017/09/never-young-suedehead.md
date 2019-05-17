@@ -1,7 +1,7 @@
 ---
 title: "Never Young - Suedehead (モリッシーのカバー)"
 date: "2017-09-30T13:13:13+09:00"
-tags: ["music","indie","punk","2017"]
+tags: ["indie","punk","2017"]
 draft: false
 image: "/media/2017/09/group_effort.jpg"
 ---

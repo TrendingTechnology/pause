@@ -1,7 +1,7 @@
 ---
 title: "pause//004 (Spotify playlist)"
 date: "2017-09-25T21:00:00+09:00"
-tags: ["music","spotify","playlist"]
+tags: ["spotify","playlist"]
 draft: false
 image: "https://mosaic.scdn.co/640/396c0f57e84086c45923d7776a9f77f2221383ac87bcb2aa644e5f1181e3d41093723b422520c67b8b4e795c17070424342e2b923362abf90ad54b9daffe6640abb176d37ff4a84244a915efbce6ec01"
 ---

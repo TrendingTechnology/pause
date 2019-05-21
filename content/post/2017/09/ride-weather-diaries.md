@@ -1,7 +1,7 @@
 ---
 title: "Ride - Weather Diaries"
 date: "2017-09-18T10:10:10+09:00"
-tags: ["music","indie","indie rock","shoegaze","2017"]
+tags: ["indie","indie rock","shoegaze","2017"]
 draft: false
 amazon: "B06XSRYDQY"
 ---

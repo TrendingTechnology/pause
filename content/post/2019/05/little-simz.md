@@ -1,6 +1,6 @@
 ---
 title: "Little Simz - GREY Area"
-date: "2019-05-29T10:00:00+09:00"
+date: "2019-05-29T09:00:00+09:00"
 tags: ["hip-hop","rap","2019"]
 youtube: nobyMYOD5Bg
 ---

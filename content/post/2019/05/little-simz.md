@@ -21,3 +21,4 @@ youtube: nobyMYOD5Bg
 
 このライブ見てると、ギターとかもやるんだな〜
 
+{{<spotify "album/2gG2K45h8FFlFIiOxbdXxo">}}

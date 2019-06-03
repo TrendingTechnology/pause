@@ -15,6 +15,6 @@ youtube: e1dnOypC4gw
 
 {{<youtube src="HAxlPZJYGLk" title="Sequoyah Murray - True Fun">}}
 
-レーベルは Thril Jockey から。
+レーベルは Thrill Jockey から。
 
 {{<spotify "album/1Cd6VLntS1Tx4GDl0qlejb">}}

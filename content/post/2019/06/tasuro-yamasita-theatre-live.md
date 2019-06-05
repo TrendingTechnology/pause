@@ -1,6 +1,6 @@
 ---
 title: "「山下達郎 シアター・ライヴ PERFORMANCE 1984-2012」セットリスト"
-date: "2019-06-06T08:00:00+09:00"
+date: "2019-06-06T07:00:00+09:00"
 tags: ["movie","japanese","city pop","j-pop","2012"]
 image: https://www.instagram.com/p/ByRHiPSgd7K/media/?size=l
 ---

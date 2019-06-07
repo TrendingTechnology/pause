@@ -1,7 +1,7 @@
 ---
 title: "Jessy Lanza - Oh No"
 date: "2017-10-30T13:13:13+09:00"
-tags: ["music","electronic","alt r&b","chillwave","pop","2016"]
+tags: ["electronic","alt r&b","chillwave","pop","2016"]
 draft: false
 amazon: "B01E9GXXRC"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Kirara - Moves"
 date: "2017-10-27T16:16:16+09:00"
-tags: ["music","electro","korean","bigbeat","2016"]
+tags: ["electro","korean","bigbeat","2016"]
 draft: false
 image: "/media/2017/10/kirara-moves.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Wolf Alice - Visions Of A Life"
 date: "2017-10-24T14:14:14+09:00"
-tags: ["music","indie rock","alternative","shoegaze","2017"]
+tags: ["indie rock","alternative","shoegaze","2017"]
 draft: false
 amazon: "B073R6S448"
 ---

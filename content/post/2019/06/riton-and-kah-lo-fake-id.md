@@ -9,7 +9,7 @@ youtube: Lp__a8p0xCY
 
 {{<youtube src="Lp__a8p0xCY" title="Riton & Kah-Lo - Fake I.D.">}}
 
-シンプルにヒップでポップなエレクトロ。
+シンプルにヒップでポップなエレクトロ。Kah-Lo のラップもキャッチー。
 
 riton ってなんか名前みたことあると思ったら、古くは 90年代後半に Grandcentral からアルバムリリースしてるし、最近ではケミカル／ブラザース "Got To Keep On" のリミックスとかもやっておった。
 
